@@ -1,4 +1,4 @@
-﻿# Mind control
+﻿# Mind Control
 ## Pourquoi et comment vous impose-t-on le transhumanisme ? 
 
 - [Introduction](#intro)
@@ -62,12 +62,13 @@
       - [La dette technico-sociale-cognitive](#part-3.4.3)
       - [Des pratiques longues durées](#part-3.4.4)
 - [Conclusion](#outro)
+- [Références](#ref)
 
 ---
 
 # <a name="intro"></a> Introduction 
 
-Cela peut vous paraître incroyable mais vous êtes aujourd’hui un cyborg. Pas la métaphore d’un individu mi-homme, mi-robot, mais bien un cyborg aujourd’hui dans la réalité. Conscient ou inconscient, bon gré ou malgré, nous vivons tous une réalité hybride mêlant biologie et numérique, où une intelligence artificielle globale cohabite dans nos têtes, et interagit avec elles. Vous souvenez-vous de la Matrix et du film du même nom ? Vous êtes dedans.
+Cela peut vous paraître incroyable mais vous êtes aujourd’hui un cyborg. Pas la métaphore d’un individu mi-homme, mi-robot, mais bien un cyborg aujourd’hui dans la réalité. Conscient ou inconscient, bon gré ou malgré, nous vivons tous une réalité hybride mêlant biologie et numérique, où une intelligence artificielle globale cohabite dans nos têtes, interagit avec elles et contrôle votre esprit. Vous souvenez-vous de la Matrix et du film du même nom ? Vous êtes dedans.
 
 **Comment ?** Grâce à l’intelligence artificielle.
 
@@ -388,6 +389,8 @@ Ensuite, l’IA peut s’améliorer, notamment à travers deux techniques, d’�
 - En expliquant, c’est-à-dire en complétant l’information avec des synthèses de plus haut niveaux, elle peut compléter ses attributs ou paramètres.
 
 Quand l'IA dit qu'elle ***renforce***, elle fait référence à l'apprentissage réenforcé ou *reinforcement learning*, technique d'apprentissage automatique visant l'amélioration des modèles à travers la stimulation du contexte d'évaluation. Pour simplifier, en vous obligeant à l'évaluer, l'IA se réenforce, et par voie de faits, car les modèles sont meilleurs, vous renforce. 
+
+<!-- todo : ajouter des éléments sur l'inférence et l'augmentation du digital -->
 
 Il existe toutes sortes de modèles de génération par IA et envisager un système qui vous ferait la conversation toute la journée, de manière complètement automatique, revient juste à connecter un chatbot avec les dernières innovations en synthèse vocale par IA. Une IA comprenant mieux que vous l’origine, la ou les causes de situations quotidiennes, leurs conséquences, n’est finalement qu’un cas d’usage, plutôt lié aux données disponibles qu’à la difficulté technique.
 
@@ -805,6 +808,10 @@ La Matrix a une réalité à deux facettes ; d’un côté terrorisante sur sa r
 Sommes-nous courageux ? Sommes-nous prêts à faire face à nos pires travers ? Jusqu’où souhaitons-nous sortir de notre zone de confort ? Souhaitons-nous vivre dans un monde plus durable, plus rapidement ? Comment définissons-nous et valorisons la liberté ? Souhaitons-nous révolutionner ?
 
 ---
+
+# <a name="ref"></a> Références
+
+Il existe au moins deux autres guides de ce type sur le Darknet, il s'agit de ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) présentant des aspects politiques et philosophiques, et ["Comment sortir de la Matrix ?"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) détaillant les aspects liés à la sécurité numérique.
 
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://fr.quora.com/Combien-y-a-t-il-de-num%C3%A9ro-de-t%C3%A9l%C3%A9phone-possible-en-France

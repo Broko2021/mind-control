@@ -1,4 +1,4 @@
-# Mind control
+# Mind Control
 ## Why and how transhumanism is forced upon you? 
 
 - [Introduction](#intro)
@@ -62,12 +62,13 @@
       - [The technical-social-cognitive debt](#part-3.4.3)
       - [Long-lasting practices](#part-3.4.4)
 - [Conclusion](#outro)
+- [Bibliography](#ref)
 
 ---
 
 # <a name="intro"></a> Introduction 
 
-It may seem unbelievable to you, but you are a cyborg today. Not the metaphor of a half human, half robot individual, but a cyborg today in reality. Conscious or unconscious, willingly or not, we all live in a hybrid reality mixing biology and digital technology, where a global artificial intelligence lives within our heads, and interacts with them. Do you remember the Matrix and the movie of the same name? You are in it.
+It may seem unbelievable to you, but you are a cyborg today. Not the metaphor of a half human, half robot individual, but a cyborg today in reality. Conscious or unconscious, willingly or not, we all live in a hybrid reality mixing biology and digital technology, where a global artificial intelligence lives within our heads, interacts with them and control your mind. Do you remember the Matrix and the movie of the same name? You are in it.
 
 **How?** Thanks to artificial intelligence.
 
@@ -391,6 +392,7 @@ Then, AI can improve itself, notably through two techniques, evaluation and expl
 - By explaining, i.e. by completing the information with higher level synthesis, it can complete its attributes or parameters.
 
 <!-- todo : possible addition about reinforcement learning -->
+<!-- todo : possible addition about inference and digital augmentation -->
 
 There are all kinds of AI generation models and to envision a system that would talk to you all day, completely automatically, is just like connecting a chatbot with the latest innovations in AI speech synthesis. An AI that understands better than you the origin, the root cause(s) of daily situations, their consequences, is finally only a use case, rather linked to the available data than to the technical difficulty.
 
@@ -811,6 +813,11 @@ The Matrix has a two-faceted reality; on the one hand terrorizing about its soci
 Are we brave? Are we ready to face our worst selves? How far of our comfort zone are we ready to go? Do we want to live in a more sustainable world, more quickly? How do we define and value freedom? Do we want to change?
 
 ---
+
+# <a name="ref"></a>Bibliography
+
+There are at least two other guides of this type available on the Darknet, the ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) one focusing on political and philosophical aspects, and ["How to exit the Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) detailing aspects related to digital security. 
+
 
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Americas
