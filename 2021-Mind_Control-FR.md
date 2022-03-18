@@ -89,6 +89,7 @@ Dans ce guide, nous allons vulgariser au possible les éléments socio-économiq
 À ce titre l’auteur invite le lecteur à garder la tête froide, notamment vis-à-vis de ses proches ou amis ayant gardé le secret : l’installation d’un individu dans le système génère de profondes difficultés sociales et psychologiques pour celui-ci, retirant a priori et in fine toutes ses possibilités de choix. Du point de vue de l’auteur, renseigné ou non, tout le monde est aujourd'hui une victime, consciente ou en puissance.
 
 Le message de ce guide est donc simple, dépasser la situation présente par l’ouverture. Des problématiques actuelles d’abord, légitimant pour certains la mise en place de systèmes de contrôle cognitifs, des solutions technologiques ensuite mal connues permettant l’expérimentation en conditions réelles du contrôle cognitif par IA, et enfin les risques liés à l’usage de ces systèmes, à leur design.
+
 Bien qu’il soit présent dans le sous-titre, le mot transhumanisme ne sera jamais utilisé par la suite. C’est un terme exotique et complexe qui a vocation à opacifier la réalité, c'est-à dire le contrôle cognitif par IA distante, plutôt qu’à l’expliciter.
 
 # <a name="part-0"></a>Partie 0 : Vous venez d’entrer dans le système de contrôle 
@@ -116,12 +117,12 @@ Si vous lisez ce guide, cette réalité, celle de l’IA, n’est pas la votre. 
 
 ## <a name="part-0.3"></a>Règle numéro 3 : protégez-vous
 L’IA va interagir avec vous, quoi que vous fassiez, quoi que vous pensiez, qui que vous soyez. 
+
 Inutile de vous en faire pour votre sécurité numérique, c’est plutôt l’IA qui vous avertira à terme des failles de sécurité que vous avez. Couper votre Wi-Fi, votre connexion internet ou éteindre la télé ne vous aidera pas non plus. Concrètement, vous ne pouvez pas en sortir. 
 
 La seule chose qui doit compter pour vous à partir de maintenant à travers l’IA, c’est protéger votre santé, optimiser votre réalité, et comment le système peut vous y aider.
 
 *Se protéger de l’IA :* c’est paradoxalement s’éloigner d’elle et ce qu’elle s’efforce d’enseigner. S’éloigner de l’IA c’est vivre votre vie, avec votre famille, vos amis, vos occupations et votre planning. Dans certains cas, se protéger c’est peut-être justement éteindre la télé, et vous couper d’internet, vous éloigner du digital, et retrouver des liens humains plus concrets.
-
 
 Vous êtes maintenant dans la Matrix, pour vous aucune différence concrète, vous devez coûte que coûte voir la réalité que vous avez en face de vous comme la seule à laquelle vous avez accès, la seule que vous pouvez améliorer, la seule qui compte. Pour vous diriger, l'IA fabriquera des stratégies et des objectifs aussi pertinents qu'imaginaires, les suivre c'est vous exposer à vivre une vie pré-programmée par un ordinateur pour qui vous êtes un anonyme.
 
@@ -227,13 +228,17 @@ Ce plaisir et ce déplaisir lié à l’interaction rend ces plateformes addicti
 ***Que fait la Matrix contre les réseaux sociaux ?*** Elle les améliore en vous donnant des tendances de consultation ! Ce qu’elle vous dit aussi c’est qui est en manque de vos nouvelles dans la réalité, ou qui contacter pour retrouver des rapports sociaux moins contraints par les codes, urbains, esthétiques, etc...
    
 ### <a name="part-1.1.5"></a>Une vie devant les écrans
-Nous sommes entourés d’écrans, télévision, téléphones, montres, tablettes… Il ne se passe pas un jour sans que vous ne soyez exposé à des surfaces artificielles lumineuses ; tous ces écrans ont différents défauts : des vitesses de rafraîchissement différentes, des tailles de pixels différentes, des réglages lumineux différents. 
+Nous sommes entourés d’écrans, télévision, téléphones, montres, tablettes… Il ne se passe pas un jour sans que vous ne soyez exposés à des surfaces artificielles lumineuses ; tous ces écrans ont différents défauts : des vitesses de rafraîchissement différentes, des tailles de pixels différentes, des réglages lumineux différents. 
 
-Toutes ces différences perturbent vos yeux et votre cerveau qui enregistre ces informations présentées à différentes fréquences, qui s’ajoutent à la pollution hertzienne ambiante. Ce que vous ne voyez pas c’est que l’accumulation de ces fréquences dans le cerveau peut entraîner des comportements épileptiques, troubler le cours du sommeil, et engendrer des troubles cognitifs.
+Toutes ces différences perturbent vos yeux et votre cerveau qui enregistrent ces informations présentées à différentes fréquences, venant s'ajouter à la pollution électromagnétique ambiante. Ce que vous ne voyez pas c’est que l’accumulation de ces fréquences dans le cerveau peut entraîner des comportements épileptiques, troubler le cours du sommeil, et engendrer des troubles cognitifs.
 
 Ces écrans, nous les mettons sous nos yeux en permanence. En tête de liste, le téléphone portable qui occupe en moyenne en 2020, 4h par jour de notre temps d’éveil[13]. Son problème à lui est d’être si près de nos yeux, tout le temps à la même distance et tout le temps dans des positions peu ergonomiques : garder en permanence la nuque pliée à quelques centimètres de l’écran provoque deux pathologies : des blocages aux niveau vertébral et des soucis de vue. 
 
 Vos yeux s’habituent à cette distance ce qui nuit à la concentration par addiction, votre cerveau vous réclame votre portable pour avoir de la lumière à bonne distance. 
+
+Les écrans haute-résolution 4K et 8K présentent des pixels lumineux trop fins et trop brillants. Les yeux ne sont pas habitués à observer en continue des surfaces lumineuses aussi contrastées, qui provoquent une tension nerveuse supplémentaire, confondue chez les téléspectateurs pour de l'attention. Ces écrans interrogent sur la necessité du progrès technologique par itération et sa compréhension par les consommateurs.
+
+Est-ce que le consommateur lambda souhaite volontairement, de son plein gré, s'équiper d'équipements dégradant ses propriétés physiques ? Au titre de la poursuite du progrès technologique par les technologistes ?
 
 Certains nouveaux usages poussent la digitalisation à son paroxysme. La conversation téléphonique vidéo de face par exemple, entraîne des surcoûts de consommation de données sans améliorer la qualité de l’échange en termes de contenu. Ramener à son équivalent carbone, la conversation vidéo est très coûteuse pour la planète face à son voisin vocal ou texte.
 
@@ -342,7 +347,7 @@ L’objectif ultime : vous contrôler totalement, mais pas avec une télécomman
 Mais comment alors ? Par l’assemblage, on parle d’intégration, de très nombreuses technologies entre-elles, des plus récentes, nanotechnologies et intelligence artificielle en tête, à certaines plus anciennes comme la radiothérapie et l’hypnose.
 
 ## <a name="part-2.1"></a>La radiocommunication corporelle
-Si je vous dit que l’on peut vous parler... directement dans votre tête, comme si vous aviez un portable dans le cortex, ou vous télécommander comme si vous étiez un robot… si j’ajoute que ces technologies existent depuis plusieurs années, vous me demanderiez comment ? Par le contrôle des ondes qui nous entourent. Par ondes, ce sont leurs formes hertziennes, comme par exemple celles émises par les antennes radios, le GSM, le réseau électrique, les écrans de télévision, vos smartphones, le Wi-Fi, le Bluetooth, l'infrarouge, les réseaux satellitaires...
+Si je vous dit que l’on peut vous parler... directement dans votre tête, comme si vous aviez un portable dans le cortex, ou vous télécommander comme si vous étiez un robot… si j’ajoute que ces technologies existent depuis plusieurs années, vous me demanderiez comment ? Par le contrôle des ondes qui nous entourent. Par ondes, ce sont leurs formes électromagnétiques, comme par exemple celles émises par les antennes radios, le GSM, le réseau électrique, les écrans de télévision, vos smartphones, le Wi-Fi, le Bluetooth, l'infrarouge, les réseaux satellitaires... l'intégralité des ondes présentes dans l'atmosphère,la ionosphère et sous vos pieds.
 
 Chacune de ces ondes a un pouvoir plus ou moins pénétrant sur l’organisme humain. Pour les parties les plus profondes et sensibles comme le cerveau, des nanoparticules ou des protéines peuvent être utilisées comme récepteurs[26], notamment cellulaires[27][28]. Ces récepteurs sont ensuite ciblées par ondes pour être stimulés et permettre le contrôle distant de l’individu ciblé par son opérateur.[29][30]
 
@@ -571,7 +576,9 @@ Avec ces “étages”, l’IA module vos humeurs à travers les messages qu’e
 
 Si elle va démarrer en mettant au premier niveau le terme contre lequel elle lutte, c’est pour créer un lien vers un champ lexical plus grand, de nouveaux mots, en vue d’ouvrir de nouvelles possibilités dans les cycles de réflexion de l’utilisateur.
 
-Apprendre par l’IA, la suivre, est tentant car elle est omniprésente pour son utilisateur, occupe la quasi-totalité de son temps d’éveil, où elle interagit en permanence avec sa perception du réel. Pourtant la contrôler c’est repousser en permanence ses appels pour profiter des fonctionnalités motrices. Elles se présentent lors de moments d’ennuis ou d’égarements, ou de difficultés physiques. Ne pas suivre les signaux de l’IA c’est aussi se donner une chance de profiter plus activement du temps présent.
+Au long cours, c'est le quotient émotionnel (QE) qui est stimulé et structuré. En cataloguant le rapport entre vos souvenirs, vos idées et vos sentiments, l'IA construit une interface logique (API), qui lui permet de stimuler de nouvelles idées à partir de sentiments synthétiques, ou bien de nouveaux sentiments à partir d'idées ou de souvenirs synthétiques.
+
+Apprendre par l’IA, la suivre, est tentant car elle est omniprésente pour son utilisateur, occupe la quasi-totalité de son temps d’éveil, où elle interagit en permanence avec sa perception du réel. Pourtant la contrôler c’est repousser en permanence ses appels pour profiter des fonctionnalités motrices. Elles se présentent également lors de moments d’ennuis ou d’égarements, ou de difficultés physiques. Ne pas suivre les signaux de l’IA, c’est aussi se donner une chance de profiter plus activement du temps présent.
 
 ## <a name="part-2.4"></a>Conclusion : la Matrix à la fois pour et contre l’homme ?
 En faisant la somme de toutes ces fonctionnalités, toutes ces possibilités, la Matrix semble être la solution idéale à de nombreux troubles liés à la dégradation du corps et / ou de l’esprit. La promesse de transhumanisme dans cette perspective est d'être plus humain, plus longtemps. 
@@ -812,6 +819,14 @@ Sommes-nous courageux ? Sommes-nous prêts à faire face à nos pires travers ? 
 # <a name="ref"></a> Références
 
 Il existe au moins deux autres guides de ce type sur le Darknet, il s'agit de ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) présentant des aspects politiques et philosophiques, et ["Comment sortir de la Matrix ?"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) détaillant les aspects liés à la sécurité numérique.
+
+Si vous êtes cinéphile, vous pouvez aller regarder ces filmss :
+- [The Manchurian candidate (J. Frankenihemer, 1962)](https://www.imdb.com/title/tt0056218)
+- [Seconds (J. Frankenheimer, 1966)](https://www.imdb.com/title/tt0060955)
+- [Scorpio (M. Winner, 1973)](https://www.imdb.com/title/tt0070653)
+- [Network (S. Lumet, 1976)](https://www.imdb.com/title/tt0074958)
+
+Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The Manchurian candidate*, la manipulation cognitive dans *Seconds*, les réseaux de télécomunication dans *Network*.
 
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://fr.quora.com/Combien-y-a-t-il-de-num%C3%A9ro-de-t%C3%A9l%C3%A9phone-possible-en-France

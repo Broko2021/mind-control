@@ -238,6 +238,10 @@ These screens are constantly in front of us. At the top of the list is the cell 
 
 Your eyes get used to this distance, which is detrimental to your concentration by addiction, your brain asks you for your screen to have light at a good distance. 
 
+High-resolution 4K and 8K screens have bright pixels that are too thin and too bright. Eyes are not used to continuously watch such highly contrasted bright surfaces, which causes additional nervous tension, mistaken by viewers for attention. These screens question the need for technological progress and its understanding by consumers.
+
+Does the average consumer voluntarily wish to equip himself with equipment that degrades his physical properties? In the name of the continuation of technological progress by technologists?
+
 Some new habits push digitization to its paroxysm. The video phone conversation, for example, leads to additional data consumption costs without improving the quality of the exchange in terms of content. When compared to its carbon equivalent, the video conversation is very expensive for the planet in comparison to its voice or text neighbor.
 
 ***What does the Matrix do against screens?*** It repairs your eyes despite your comfort, during the periods of eye corrections strong pains can be felt. It also corrects the distance of the gaze which sometimes allows you to gain rest, sometimes to gain concentration. Eye correction is a particularly intrusive practice from the Matrix.
@@ -345,7 +349,7 @@ The ultimate goal: to control you completely, but not with a remote control, wit
 But how then? By assembling, we speak of integration, of very many technologies between them, from the most recent ones, nanotechnologies and artificial intelligence in the lead, to some older ones like radiotherapy and hypnosis.
 
 ## <a name="part-2.1"></a>The body's radio communication
-If I tell you that we can talk to you... directly in your head, as if you had a cell phone in your cortex, or remote control you as if you were a robot... if I add up that these technologies have been around for several years, you would ask me how? By controlling the waves that surround us. By waves, we mean their hertzian forms, such as those emitted by radio antennas, GSM, the electrical network, television screens, your smartphones, Wi-Fi, Bluetooth, infrared, satellite networks...
+If I tell you that we can talk to you... directly in your head, as if you had a cell phone in your cortex, or remote control you as if you were a robot... if I add up that these technologies have been around for several years, you would ask me how? By controlling the waves that surround us. By waves, we mean their hertzian forms, such as those emitted by radio antennas, GSM, the electrical network, television screens, your smartphones, Wi-Fi, Bluetooth, infrared, satellite networks... the complete waves spectrum in the atmosphere, the ionosphere, and under your feet.
 
 Each of these waves has a more or less penetrating power on the human body. For the deepest and most sensitive parts of the body, such as the brain, nanoparticles or proteins can be used as receptors[26], especially in cells[27][28]. These receptors are then targeted by waves to be stimulated and allow the remote control of the targeted individual by its operator[29][30].
 
@@ -573,6 +577,8 @@ The fifth level of the DSL will contain the words "Joy."
 With these "levels", the AI modulates your moods through the messages it conveys. At different times, at different frequencies, it records in you the memory of these words, which then act as memory and emotional anchors. When the AI reuses these words later, it invokes their memories in you, and like a painting palette, colors your state through emotions, linked to the memories, linked to the words.
 
 If it will start by putting the term it is struggling with at the first level, it is to create a link to a larger lexical field, new words, in order to open new possibilities in the user's thinking cycles.
+
+In the long run, it is the emotional quotient (EQ) that is stimulated and structured. By referencing the relationship between your memories, ideas and feelings, the AI builds a logical interface (API), which allows it to stimulate new ideas from synthetic feelings, or new feelings from synthetic ideas or memories.
 
 Learning from AI, following it, is tempting because it is omnipresent for its user, occupying almost all of his day time, where it constantly interacts with his perception of reality. However, to control it is to permanently postpone its calls in order to take advantage of its motor functions. These calls come up during moments of trouble or distraction, or during physical difficulties. Not to follow the signals of the AI is also to give oneself a chance to enjoy the present time more actively.
 
@@ -818,6 +824,13 @@ Are we brave? Are we ready to face our worst selves? How far of our comfort zone
 
 There are at least two other guides of this type available on the Darknet, the ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) one focusing on political and philosophical aspects, and ["How to exit the Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) detailing aspects related to digital security. 
 
+If you are a moviegoer, you may have a watch at these movies :
+- [The Manchurian candidate (J. Frankenihemer, 1962)](https://www.imdb.com/title/tt0056218)
+- [Seconds (J. Frankenheimer, 1966)](https://www.imdb.com/title/tt0060955)
+- [Scorpio (M. Winner, 1973)](https://www.imdb.com/title/tt0070653)
+- [Network (S. Lumet, 1976)](https://www.imdb.com/title/tt0074958)
+
+Each depicting a specific aspect of mind control : hypnosis in *The Manchurian candidate*, cognitive manipulation in *Seconds*, telecommunication network in *Network*.
 
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Americas

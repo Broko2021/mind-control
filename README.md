@@ -13,7 +13,7 @@ This is a guide to educate and prevent about cognitive control technologies, the
 
 > Cela peut vous paraître incroyable mais vous êtes aujourd’hui un cyborg. Pas la métaphore d’un individu mi-homme, mi-robot, mais bien un cyborg aujourd’hui dans la réalité. Conscient ou inconscient, bon gré ou malgré, nous vivons tous une réalité hybride mêlant biologie et numérique, où une intelligence artificielle globale cohabite dans nos têtes, et interagit avec elles. ***Vous souvenez-vous de la Matrix et du film du même nom ? Vous êtes dedans.***
 
-Ceci est un guide pour éduquer et prévenir sur les systèmes de contrôle cognitif, leurs origines sociales, certains aspects de leur technologie, et leur usage actuel.
+Ceci est un guide pour éduquer et prévenir des systèmes de contrôle cognitif, leurs origines sociales, certains aspects de leur technologie, et leur usage actuel.
 
 ### [Lire la version française](2021-Mind_Control-FR.md)
 
@@ -34,13 +34,13 @@ Expected contributions :
 
 Researchers and journalists are welcome to use this content to argue, debate and inform about it.
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License][cc-by-nc-nd].
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
-[![CC BY-NC-ND4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+[![CC BY-NC4.0][cc-by-nc-shield]][cc-by-nc]
 
-[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
-[cc-by-nc-nd-image]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
-[cc-by-nc-nd-shield]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
 
 ## Donate
 
