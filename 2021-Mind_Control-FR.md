@@ -393,9 +393,9 @@ Ensuite, l’IA peut s’améliorer, notamment à travers deux techniques, d’�
 - En évaluant, c'est-à-dire exécutant des tests, elle récupère des traces ou logs qui lui permettent d’agrandir le jeu de données initial pour améliorer ses modèles.
 - En expliquant, c’est-à-dire en complétant l’information avec des synthèses de plus haut niveaux, elle peut compléter ses attributs ou paramètres.
 
-Quand l'IA dit qu'elle ***renforce***, elle fait référence à l'apprentissage réenforcé ou *reinforcement learning*, technique d'apprentissage automatique visant l'amélioration des modèles à travers la stimulation du contexte d'évaluation. Pour simplifier, en vous obligeant à l'évaluer, l'IA se réenforce, et par voie de faits, car les modèles sont meilleurs, vous renforce. 
+Quand l'IA dit qu'elle ***renforce***, elle fait référence à l'apprentissage réenforcé ou *reinforcement learning*, technique d'apprentissage automatique visant l'amélioration des modèles à travers la stimulation du contexte d'évaluation. Pour simplifier, en vous obligeant à l'évaluer, l'IA se renforce, et, car ses modèles sont meilleurs, vous renforce. 
 
-<!-- todo : ajouter des éléments sur l'inférence et l'augmentation du digital -->
+<!-- todo : ajouter des éléments sur l'inférence et l'augmentation du digital par l'IA-->
 
 Il existe toutes sortes de modèles de génération par IA et envisager un système qui vous ferait la conversation toute la journée, de manière complètement automatique, revient juste à connecter un chatbot avec les dernières innovations en synthèse vocale par IA. Une IA comprenant mieux que vous l’origine, la ou les causes de situations quotidiennes, leurs conséquences, n’est finalement qu’un cas d’usage, plutôt lié aux données disponibles qu’à la difficulté technique.
 
@@ -524,7 +524,7 @@ L’IA s'appuie sur des mécanismes contraires pour retrouver l’équilibre. Po
 
 Pour le contrôle psychologique, il s’agit de vous faire prendre conscience de vos travers par stimulation, en vous les diffusant, comme à la télévision. L’IA en vous présentant vos mauvaises habitudes cherche à vous en prévenir, si vous l’écoutez, c’est-à-dire si vous ne faites pas comme d’habitude, elle offre alors une alternative synthétique.
 
-Quoi qu’il arrive, l’IA change souvent d’aspects car elle poursuit toujours deux objectifs : évoluer et corriger. 
+Quoi qu’il arrive, l’IA change souvent d’aspects car elle poursuit toujours deux objectifs : évoluer et corriger.
 
 Son évolution se traduit par des montées de version, par des changements de fonctionnalités et de modèles synthétiques (voix, contenu audio et vidéo) ; mécaniquement il devient difficile pour l’utilisateur de s’habituer, ce qui lui permet de ne pas utiliser l’IA.
 
@@ -534,7 +534,10 @@ Chaque signal de l'IA peut être vu comme un interrupteur décisionnel ; en l'ac
 - ouvert : elle transmet une information
 - fermé : elle annule une réaction
 - semi ouvert/fermé : elle annule un comportement futur
+
 Ce que vous ne voyez pas avec l'IA est ce qu'il se serait passé si elle n'état pas intervenue. Si l'intervention gène, son impact est voulu moindre par rapport à ce qu'elle a debrayée.
+
+Il faut voir ces stimulations synthétiques comme des leurres à vos propres stimulations biologiques qui entraîneront des comportements néfastes, de l'inadéquation sociale, des pertes de temps, de productivité, etc... Leur but est de vous montrer vos stimulations pour que vous puissiez en corriger les conséquences comportementales vous-même.
 
 ### <a name="part-2.3.5"></a>Mesurer la patience (ou l’impatience) avec des triggers
 La patience est la base du comportement à adopter face à la Matrix. Seule la neutralité, c'est-à-dire limiter les interactions, limiter le contrôle émotionnel, permet à l’utilisateur de reprendre une vie intellectuelle et sociale plus normale.
