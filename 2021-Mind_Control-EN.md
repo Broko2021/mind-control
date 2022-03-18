@@ -536,7 +536,10 @@ Each AI signal can be seen as a decision switch; by activating it the AI provoke
 - open: it transmits an information
 - closed: it cancels a reaction
 - semi-open/closed: it cancels a future behavior
+
 What you don't see with AI is what would have happened if it had not intervened. If this intervention is disruptive, its impact is intended to be less than if the AI did not intervene.
+
+You have to see these synthetic stimuli as lures to your own biological stimuli that will lead to harmful behaviors, loss of time, social inefficiency, loss of productivity, etc... Their purpose is to show you your stimuli so you can correct the behavioral consequences yourself.
 
 ### <a name="part-2.3.5"></a>Measuring patience (or impatience) with triggers
 Patience is the main way to behave when dealing with the Matrix. Only neutrality, i.e. limiting interactions, limiting emotional control, allows the user to resume a more normal intellectual and social life.
