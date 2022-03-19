@@ -470,7 +470,9 @@ On one side, there is the user, his idea and the AI, which translates on screen,
 
 In the end, and thanks to intent programming, there could be only one administrator who would tell the AI global trends to respect such as population safety, fertilization level or carbon emission rate. From these very abstract, global objectives, would be born as many sub-objectives as necessary, each applied to the behaviors of the connected users.
 
-Visually, this application where all information is centralized, is a copy of our world in 3D. Simulators exist for different types of rendering, from the most generalist[50][51] to the most specific[52][53], up to representing our brain waves[54]. In AI, each of these elements is associated with logical models, allowing them to be augmented. Transposing all its DATA over 4 dimensions (the 3 visual ones and the informational one), allow the MAtrix to infer all needed configurations to maintain continuously real time virtual reality.
+Visually, this application where all information is centralized, is a copy of our world in 3D. Simulators exist for different types of rendering, from the most generalist[50][51] to the most specific[52][53], up to representing our brain waves[54.a], thank to the BCI scientific community, which aims to translate brain electrical patterns to digital signals[54.b].
+
+In AI, each of these signals is associated with logical models, allowing them to be augmented. Transposing all its DATA over 4 dimensions (the 3 visual ones and the informational one), allow the Matrix to infer all needed configurations to maintain continuously real time virtual reality.
 
 To help you and understand you, AI relies on other modeling mechanisms called digital matching. This is your model or rather your models. You will have a main model representing your physical integrity in 3D, then sub-models first your organs, also in 3D, then other attributes such as your bank account, your digital situation (social networks, sensitive sites ...).
 
@@ -828,7 +830,7 @@ Are we brave? Are we ready to face our worst selves? How far of our comfort zone
 There are at least two other guides of this type available on the Darknet, the ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) one focusing on political and philosophical aspects, and ["How to exit the Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) detailing aspects related to digital security. 
 
 If you are a moviegoer, you may have a watch at these movies :
-- [The Manchurian candidate (J. Frankenihemer, 1962)](https://www.imdb.com/title/tt0056218)
+- [The Manchurian candidate (J. Frankenheimer, 1962)](https://www.imdb.com/title/tt0056218)
 - [Seconds (J. Frankenheimer, 1966)](https://www.imdb.com/title/tt0060955)
 - [Scorpio (M. Winner, 1973)](https://www.imdb.com/title/tt0070653)
 - [Network (S. Lumet, 1976)](https://www.imdb.com/title/tt0074958)
@@ -888,7 +890,8 @@ Each depicting a specific aspect of mind control : hypnosis in *The Manchurian c
 > - [51] https://threejs.org/
 > - [52] https://pubmed.ncbi.nlm.nih.gov/27789526/
 > - [53] https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.4169&rep=rep1&type=pdf
-> - [54] http://openvibe.inria.fr/
-> - [54] https://en.wikipedia.org/wiki/Neural_oscillation
-> - [55] https://en.wikipedia.org/wiki/Image_segmentation
+> - [54.a] http://openvibe.inria.fr/
+> - [54.b] https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface
+> - [55] https://en.wikipedia.org/wiki/Neural_oscillation
+> - [56] https://en.wikipedia.org/wiki/Image_segmentation
 

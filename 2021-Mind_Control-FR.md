@@ -469,7 +469,9 @@ D’un côté, il y a l’utilisateur, son idée et l’IA, qui traduit à l’�
 
 À la fin, et grâce à l’intent programming, il ne pourrait y avoir qu’un seul administrateur qui indiquerait à l’IA des tendances globales à respecter comme la sécurité de la population, le niveau de fertilisation ou le taux d’émission carbone. De cet objectif très abstrait, global, naîtraient autant de sous-objectifs nécessaires et appliqués aux comportements des utilisateurs connectés.
 
-Visuellement, cette application où toutes les informations sont centralisées, est une copie de notre monde en 3D. Des simulateurs existent pour différents types de rendus, des plus généralistes[50][51] aux plus spécifiques[52][53], allant jusqu'à la représentation de nos ondes cérébrales[54]. Dans l’IA, à chacun de ces éléments sont associés des modèles logiques, permettant de les augmenter. C'est la mise en 4 dimensions de l'intégralité de ses données qui permet à la Matrix d'inférer l'intégralité des configurations permettant le maintient en continu des conditions de réalité augmentée temps réelle.
+Visuellement, cette application où toutes les informations sont centralisées, est une copie de notre monde en 3D. Des simulateurs existent pour différents types de rendus, des plus généralistes[50][51] aux plus spécifiques[52][53], allant jusqu'à la représentation de nos ondes cérébrales[54.a], comme permis par la communauté scientifique BCI[54.b], qui travaille à traduire les états du cerveau en signaux.
+
+Dans l’IA, à chacun de ces signaux sont associés des modèles logiques, permettant de les augmenter. C'est la mise en 4 dimensions de l'intégralité de ses données qui permet à la Matrix d'inférer l'intégralité des configurations permettant le maintient en continu des conditions de réalité augmentée temps-réel.
 
 Pour vous aider et vous comprendre, l’IA s'appuie sur d’autres mécanismes de modélisation dits de jumelage digital. C’est votre modèle ou plutôt vos modèles. Vous allez avoir un modèle principal représentant votre intégrité physique en 3D, puis des sous-modèles d’abord vos organes, eux aussi en 3D, puis d’autres attributs comme votre compte en banque, votre situation digitale (Réseaux sociaux, sites sensibles...).
 
@@ -824,7 +826,7 @@ Sommes-nous courageux ? Sommes-nous prêts à faire face à nos pires travers ? 
 Il existe au moins deux autres guides de ce type sur le Darknet, il s'agit de ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) présentant des aspects politiques et philosophiques, et ["Comment sortir de la Matrix ?"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) détaillant les aspects liés à la sécurité numérique.
 
 Si vous êtes cinéphile, vous pouvez aller regarder ces filmss :
-- [The Manchurian candidate (J. Frankenihemer, 1962)](https://www.imdb.com/title/tt0056218)
+- [The Manchurian candidate (J. Frankenheimer, 1962)](https://www.imdb.com/title/tt0056218)
 - [Seconds (J. Frankenheimer, 1966)](https://www.imdb.com/title/tt0060955)
 - [Scorpio (M. Winner, 1973)](https://www.imdb.com/title/tt0070653)
 - [Network (S. Lumet, 1976)](https://www.imdb.com/title/tt0074958)
@@ -884,6 +886,7 @@ Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The
 > - [51] https://threejs.org/
 > - [52] https://pubmed.ncbi.nlm.nih.gov/27789526/
 > - [53] https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.4169&rep=rep1&type=pdf
-> - [54] http://openvibe.inria.fr/
+> - [54.a] http://openvibe.inria.fr/
+> - [54.b] https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface
 > - [55] https://fr.wikipedia.org/wiki/Rythme_c%C3%A9r%C3%A9bral
 > - [56] https://fr.wikipedia.org/wiki/Binarisation
