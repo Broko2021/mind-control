@@ -837,6 +837,10 @@ Si vous êtes cinéphile, vous pouvez aller regarder ces filmss :
 
 Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The Manchurian candidate*, la manipulation cognitive dans *Seconds*, les réseaux de télécomunication dans *Network*.
 
+Pour une référence plus récente, vous pouvez aller voir ***Everything and everywhere, all at once*** des *Daniels*, respectivement Dan Kwang et Daniel Scheinert. Dans ce film de 2022, ils décrivent la vie quotidienne des personnes enfermées dans la Matrix. Bien que les personnages aient besoin d'écouteurs pour se connecter (qui ne sont pas nécessaires en conditions réelles), tous les aspects sociaux du film sont une référence directe aux "principes" de la Matrix : contrôle de l'esprit du mari qui voulant divorcer se voit forcer à aider les autres, contrôle de l'esprit de la femme en faillite qui découvre dans un moment de crise la situation de son mari, contrôle de l'esprit de leur fille rebelle qui se voit conférer des "pouvoirs" en échange de son manque d'amour propre. 
+
+Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires dans un sentiment d'hypersexualité globale, le film des Daniels dépeint finement le sentiment d'enfermement dans le programme informatique "Matrix", jusqu'au générique du film où ces lettres s'étendent comme des bareaux devant les yeux du spectateur.
+
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://fr.quora.com/Combien-y-a-t-il-de-num%C3%A9ro-de-t%C3%A9l%C3%A9phone-possible-en-France
 > - [3.a] https://en.wikipedia.org/wiki/Persuasive_technology
