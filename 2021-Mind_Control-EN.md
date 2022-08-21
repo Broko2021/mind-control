@@ -841,6 +841,10 @@ If you are a moviegoer, you may have a watch at these movies :
 
 Each depicting a specific aspect of mind control : hypnosis in *The Manchurian candidate*, cognitive manipulation in *Seconds*, telecommunication network in *Network*.
 
+For a more recent reference, readers can have a look at ***Everything and everywhere, all at once*** from the *Daniels*, namely Dan Kwang and Daniel Scheinert. In this 2022 movie, they depict the daily life of people locked within the Matrix. Although the characters need specific earplugs in the movie (which are not needed in real life), most of the social aspects described in the movie are direct references to some of the Matrix "features" : mind control of the divorcing husband constantly tamed into "saving" the situation, mind control of the bankrupted wife who discovers her husband fate in a crisis moment, mind control of the rebel daughter who gets "powers" out of her personal lack of self-respect. 
+
+Beyond denouncing domestic, administrative and security tensions within the global nowadays hypersexual feeling, Daniels' movie is a very fine grained picture of the locked feeling felt within the "Matrix" software, down to the movie generic where title letters extend as jail bars in front of the spectator eyes.
+
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Americas
 > - [3.a] https://en.wikipedia.org/wiki/Persuasive_technology
