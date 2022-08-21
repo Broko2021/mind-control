@@ -62,7 +62,7 @@
       - [La dette technico-sociale-cognitive](#part-3.4.3)
       - [Des pratiques longues durées](#part-3.4.4)
 - [Conclusion](#outro)
-- [Références](#ref)
+- [Bibliographie et autres références](#ref)
 
 ---
 
@@ -194,11 +194,11 @@ L’apparente attractivité de l’UX simplifiée est donc à évaluer, car pour
 #### <a name="part-1.1.2.3"></a>Addictivité par design
 C’est un postulat fort, mais combien de fois vous êtes vous retrouvés à consulter les notifications de votre smartphone ou de votre application favorite, sans avoir reçu de notifications ? Ce scénario est celui décrit à la fin du film de David Fincher Social Network, où le personnage de Mark Zuckerberg rafraîchit sa page à l’infini en peine d’amour… jusqu’à la notification. 
 
-Lorsque vous utilisez un service numérique vous en devenez le client et le produit. Comme toute entreprise, ce service veut vous fidéliser pour structurer sa base d’utilisateurs. Malheureusement, il manque d’opportunités dans la vie réelle : souvent vous n’existez pour lui qu’à travers une adresse e-mail. Comment vous garder près de lui ? En se rendant indispensable. Comment ? En utilisant différentes techniques dites de “design de l’attention” ou persuasive technology[3].
+Lorsque vous utilisez un service numérique vous en devenez le client et le produit. Comme toute entreprise, ce service veut vous fidéliser pour structurer sa base d’utilisateurs. Malheureusement, il manque d’opportunités dans la vie réelle : souvent vous n’existez pour lui qu’à travers une adresse e-mail. Comment vous garder près de lui ? En se rendant indispensable. Comment ? En utilisant différentes techniques dites de “design de l’attention” ou persuasive technology[3.a].
 
-Aujourd'hui, il existe donc des techniques très sophistiquées permettant de capturer votre attention et vous rendre accroc, et ce y compris dans des contextes fortement dynamiques et au contenu riche. Google a par exemple publié un brevet intitulé " Contrôle distant du regard, système et méthode ". Celui-ci démontre comment à travers des stimuli visuels le regard de l'utilisateur cible peut être dirigé, alors qu’il est en train d’être filmé.
+Aujourd'hui, il existe donc des techniques très sophistiquées permettant de capturer votre attention et vous rendre accroc, et ce y compris dans des contextes fortement dynamiques et au contenu riche. Google a par exemple publié un brevet intitulé " Contrôle distant de l'attention, système et méthode "[3.b]. Celui-ci démontre comment à travers des stimuli visuels le regard de l'utilisateur cible peut être dirigé, par le contenu qu'il regarde. Ces techniques dites de "Eye gazing", dont les origines datent du début du XXème siècle, sont largement utilisées dans l'industrie digitale.[3.c]
 
-Souvent dénoncées[4], ces pratiques permettent aux éditeurs de capturer le temps de leurs utilisateurs à leur profit, les éditeurs ne rétribuant peu ou pas du tout ce temps passé à les utiliser. Pire, leur consommation influencée par les techniques persuasives, peut créer des réflexes cognitifs chez les utilisateurs limitant leur capacité de jugement de ces mécanismes, leur interdisant à terme la possibilité de s’en extraire.
+Souvent dénoncées[4], elles permettent aux éditeurs de capturer le temps de leurs utilisateurs à leur profit, les éditeurs ne rétribuant peu ou pas du tout ce temps passé à les utiliser. Pire, leur consommation influencée par les techniques persuasives, peut créer des réflexes cognitifs chez les utilisateurs limitant leur capacité de jugement de ces mécanismes, leur interdisant à terme la possibilité de s’en extraire.
 
 ***Que fait la Matrix contre l’UX ?*** Elle vous déshabitue en ralentissant les comportements réflexes, parfois en interrompant l’attention de l’utilisateur, parfois en la contrôlant pour dépassionner l’utilisation des applications ou des sites.
 
@@ -353,11 +353,11 @@ Chacune de ces ondes a un pouvoir plus ou moins pénétrant sur l’organisme hu
 
 ### <a name="part-2.1.1"></a>Approches invasives ou Thz
 
-Avec le développement de la télécommunication et l’usage exponentielle des technologies sans fil dans tous les corps de métiers, à tous les moments de notre quotidien, partout dans le monde, ce sont les technologies classiques, les premiers drivers ou leviers technologiques, notamment à travers les fréquences Thz, permettant la communication corporelle distante à des échelles nanoscopiques.[31] 
+Avec le développement de la télécommunication et l’usage exponentielle des technologies sans fil dans tous les corps de métiers, à tous les moments de notre quotidien, partout dans le monde, ce sont les technologies classiques, les premiers drivers ou leviers technologiques, notamment à travers les fréquences Thz, permettant la communication corporelle distante à des échelles nanoscopiques.[31]
 
 À ces échelles, on peut interagir avec vous jusqu’au niveau cellulaire ; l’échange de données, comme le son et l’image ne sont que des cas d’usage superficiels à un contrôle plus grand, plus profond de l’entité biologique que vous êtes. Au-delà de la technologie Terahertz, qui fait partie intégrante de la feuille de route 6G, les technologies de contrôle cellulaire distantes sont rassemblées sous quatre familles scientifiques[32] :
 
-- Electrogénétique[33] [34] : basées une stimulation électrique pulsée
+- Electrogénétique[33.a][33.b][33.c][34] : basées une stimulation électrique pulsée
 - Optogénétique[35] : basées sur une stimulation lumineuse à longueur d’ondes précise
 - Mechanogénétique[36] : basés sur une stimulation par ultrasons
 - Magnetogénétique[37][38]: basés sur une stimulation par champs magnétiques à temps variant
@@ -369,9 +369,9 @@ Ces techniques de contrôle cellulaire à distance, pour la plupart invasives à
 ### <a name="part-2.1.2"></a>Approches non invasives ou Ghz
 L’émergence d’études en biolélectromagnétisme[41], regroupant les disciplines scientifiques liées au comportement électromagnétique naturel du corps humain, aussi bien en termes de danger de santé publique par électrosensibilité, que de mécanismes de monitoring (des sicentifiques explorent déjà le monitoring de vos ondes corporelles[42]) ; permettent elles de considérer d’autres biais non invasifs d’interaction à distance.
 
-Par ailleurs, il existe déjà des domaines scientifiques dont les résultats sont disponibles publiquement, comme l'ostéophonie[43] ou conduction osseuse qui désigne le phénomène de propagation du son jusqu'à l'oreille interne via les os du crâne. Des écouteurs stéréo grands publics s’appuyant sur la diffusion d’ultrasons à travers votre crâne pour vous faire écouter de la musique sont disponibles en vente libre[44]. Des applications militaires permettent elles de faire réception de son directement à travers la dentition avec un appareil dédié[45]. 
+Par ailleurs, il existe déjà des domaines scientifiques dont les résultats sont disponibles publiquement, comme l'ostéophonie[43] ou conduction osseuse qui désigne le phénomène de propagation du son jusqu'à l'oreille interne via les os du crâne. Des écouteurs stéréo grands publics s’appuyant sur la diffusion d’ultrasons à travers votre crâne pour vous faire écouter de la musique sont disponibles en vente libre[44]. Des applications militaires permettent elles de faire réception de son directement à travers la dentition avec un appareil dédié[45.a]. Faisant partie d'une nouvelle vague technologique[45.b], ce genre d'équipement permet une communication, sans-fil, transparente, entre le cerveau humain et les infrastructures de calcul Cloud.
 
-En 2021, être victime d’une forme de communication ou de contrôle invisible, car distante, n’est pas du domaine de l’impossible. Être ajouté dans un système communiquant automatiquement avec vous, comme il communique avec votre voisin, non plus. Ce qui rend possible un tel système de contrôle c’est l’intelligence artificielle. La combinaison des technologies de radiodiffusion avec celles des algorithmes d’apprentissage automatique, ou intelligences artificielles, permet d’esquisser avec plus ou moins de précision l’architecture de la Matrix.
+En 2021, être victime d’une forme de contrôle invisible, car émise à distance, n’est pas du domaine de l’impossible. Être ajouté dans un système communiquant automatiquement avec vous, comme il communique avec votre voisin, vos collègues, non plus. Ce qui rend possible un tel système de contrôle c’est l’intelligence artificielle. La combinaison des technologies de radiodiffusion avec celles des algorithmes d’apprentissage automatique, ou intelligences artificielles, permet d’esquisser avec plus ou moins de précision l’architecture de la Matrix.
 
 ## <a name="part-2.2"></a>L’automatisation et l’intelligence artificielle : des jeux d’échelle(s)
 Au cœur de la machine, il y a du logiciel. Le principe de base du développement logiciel est d’automatiser les tâches. Si vous comptez par exemple à la main vos multiplications, un développeur codera une application, c’est-à-dire un ensemble de fonctions, les faisant pour lui. Cela lui permet de construire des architectures très complexes, plus ou moins automatisées, qui grâce à l’IA peuvent s’adapter très précisément à leur contexte. C’est l’IA qui facilite grandement l’interaction du système avec vous et vous robotise ou vous animalise, car si vous pensez au ***trans***humanisme, il s’agit de l’IA qui vous ***trans***forme, appliquant à votre comportement des comportements issus d’animaux ou d’autres personnes.
@@ -469,7 +469,7 @@ D’un côté, il y a l’utilisateur, son idée et l’IA, qui traduit à l’�
 
 À la fin, et grâce à l’intent programming, il ne pourrait y avoir qu’un seul administrateur qui indiquerait à l’IA des tendances globales à respecter comme la sécurité de la population, le niveau de fertilisation ou le taux d’émission carbone. De cet objectif très abstrait, global, naîtraient autant de sous-objectifs nécessaires et appliqués aux comportements des utilisateurs connectés.
 
-Visuellement, cette application où toutes les informations sont centralisées, est une copie de notre monde en 3D. Des simulateurs existent pour différents types de rendus, des plus généralistes[50][51] aux plus spécifiques[52][53], allant jusqu'à la représentation de nos ondes cérébrales[54.a], comme permis par la communauté scientifique BCI[54.b], qui travaille à traduire les états du cerveau en signaux.
+Visuellement, cette application où toutes les informations sont centralisées, est une copie de notre monde en 3D. Des simulateurs existent pour différents types de rendus, des plus généralistes[50][51] aux plus spécifiques[52][53], allant jusqu'à la représentation de nos ondes cérébrales[54.a], comme permis par la communauté scientifique BCI[54.b], qui travaille à traduire les états du cerveau en signaux. 
 
 Dans l’IA, à chacun de ces signaux sont associés des modèles logiques, permettant de les augmenter. C'est la mise en 4 dimensions de l'intégralité de ses données qui permet à la Matrix d'inférer l'intégralité des configurations permettant le maintient en continu des conditions de réalité augmentée temps-réel.
 
@@ -821,7 +821,11 @@ Sommes-nous courageux ? Sommes-nous prêts à faire face à nos pires travers ? 
 
 ---
 
-# <a name="ref"></a> Références
+# <a name="ref"></a> Bibliographie et autres références
+
+## Références publique
+
+**Toutes les références publiques citées dans le guide sont disponibles localement dans le dossier ```/references/```.**
 
 Il existe au moins deux autres guides de ce type sur le Darknet, il s'agit de ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) présentant des aspects politiques et philosophiques, et ["Comment sortir de la Matrix ?"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) détaillant les aspects liés à la sécurité numérique.
 
@@ -835,7 +839,9 @@ Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The
 
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://fr.quora.com/Combien-y-a-t-il-de-num%C3%A9ro-de-t%C3%A9l%C3%A9phone-possible-en-France
-> - [3] https://en.wikipedia.org/wiki/Persuasive_technology
+> - [3.a] https://en.wikipedia.org/wiki/Persuasive_technology
+> - [3.b] https://patents.google.com/patent/AU2011237473B2
+> - [3.c] https://arxiv.org/pdf/1708.01817.pdf
 > - [4] https://www.nouvelobs.com/rue89/rue89-le-grand-entretien/20160604.RUE3072/tristan-harris-des-millions-d-heures-sont-juste-volees-a-la-vie-des-gens.html
 > - [5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820076/
 > - [6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3905489/
@@ -843,14 +849,14 @@ Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The
 > - [8] https://fr.wikipedia.org/wiki/Adderall
 > - [9] https://www.numerama.com/politique/537896-adderall-esport.html
 > - [10] https://www.bbc.com/news/business-47470182
-> - [11] https://www.researchgate.net/figure/fig1_328574615
+> - [11] https://www.researchgate.net/publication/220982686_Serious_video_game_effectiveness
 > - [12] https://www.vice.com/en/article/4av34q/the-us-army-is-trying-to-recruit-soldiers-on-twitch
 > - [13] https://edition.cnn.com/2020/12/23/tech/screen-time-2020/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29
 > - [14] https://www.nytimes.com/2014/01/28/world/spy-agencies-scour-phone-apps-for-personal-data.html
 > - [15] https://www.youtube.com/watch?v=fJ0josfRzp4
 > - [16] https://www.pornhub.com/insights/2019-year-in-review#traffic
 > - [17] https://www.lemonde.fr/pixels/article/2020/03/31/confinement-le-pic-fantasme-de-la-consommation-de-pornographie-en-france_6035090_4408996.html
-> - [18] https://trends.google.com/trends/explore?q=escort%20near%20me&date=all&geo=US
+> - [18] https://trends.google.com/trends/explore?date=all&q=escort%20near%20me
 > - [19] https://www.pornhub.com/insights/among-us-game-searches
 > - [20] https://news.un.org/en/story/2021/05/1091182
 > - [21] https://www.youtube.com/watch?v=bB3kuuBPVys
@@ -865,7 +871,9 @@ Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The
 > - [30] https://www.nature.com/articles/s41598-018-27087-9
 > - [31] https://arxiv.org/pdf/1909.05703.pdf
 > - [32] https://science.sciencemag.org/content/368/6494/936/tab-figures-data
-> - [33] https://www.sciencedirect.com/science/article/abs/pii/S0734975019300266
+> - [33.a] https://www.sciencedirect.com/science/article/abs/pii/S0734975019300266
+> - [33.b] https://www.science.org/doi/pdf/10.1126/sciadv.abm5091
+> - [33.c] https://www.cell.com/biophysj/pdf/S0006-3495(16)30524-0.pdf
 > - [34] https://cordis.europa.eu/project/id/785800
 > - [35] https://fr.wikipedia.org/wiki/Optog%C3%A9n%C3%A9tique
 > - [36] https://advances.sciencemag.org/content/7/5/eabd9858
@@ -877,23 +885,26 @@ Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The
 > - [42] https://www.youtube.com/watch?v=uGXiLDQeKDk
 > - [43] https://fr.wikipedia.org/wiki/Ost%C3%A9ophonie
 > - [44] https://arstechnica.com/gadgets/2021/07/bone-conduction-headphones-long-term-test-and-review-of-aftershokz/
-> - [45] http://www.sonitustechnologies.com/tactical/
+> - [45.a] http://www.sonitustechnologies.com/tactical/
+> - [45.b] https://www.itact2.com/
 > - [46] https://en.wikipedia.org/wiki/Expert_system
 > - [47] https://fr.wikipedia.org/wiki/Classification_phylog%C3%A9n%C3%A9tique
 > - [48] https://en.wikipedia.org/wiki/Dataflow
 > - [49] https://en.wikipedia.org/wiki/Intentional_programming
 > - [50] https://www.blender.org/
 > - [51] https://threejs.org/
-> - [52] https://pubmed.ncbi.nlm.nih.gov/27789526/
+> - [52] https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27789526/
 > - [53] https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.4169&rep=rep1&type=pdf
 > - [54.a] http://openvibe.inria.fr/
 > - [54.b] https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface
 > - [55] https://fr.wikipedia.org/wiki/Rythme_c%C3%A9r%C3%A9bral
 > - [56] https://fr.wikipedia.org/wiki/Binarisation
 
-Références externes :
+## Références externes
 
-1. partagé sur Reddit par "My Mindcontrol Informer" : (avertissement : conslutez les liens ci-dessous à vos propres risques).
+1. partagé sur Reddit par "My Mindcontrol Informer" :
+
+**Avertissement** : consultez les liens ci-dessous à vos propres risques et si possible à travers un service VPN.
 
 - http://b4intest.blogspot.com/2013/09/elf-technology-and-microwave-based-mind.html?m=1
 - http://blog.offplanetmedia.net/electronic-stalking-and-mind-control/ - http://carpathian_bronze.tripod.com/synthetic-telepathy.html 
@@ -1201,3 +1212,69 @@ Références externes :
 - https://zeenews.india.com/ 
 - https://zeenews.india.com/exclusive/neuroscience-the-new-face-of-warfare-experts_5388.html 
 - https://zersetzung-heute.de/ 
+
+## Références locales (à fins d'archivage)
+
+Les références ci-dessous sont disponibles dans le dossier ```/References/``` :
+
+- Darknet
+├── How to Exit the Matrix - The Hidden Wiki - Site dump.tar.xz
+├── How to Exit the Matrix - The Hidden Wiki.pdf
+├── The Matrix - The Hidden Wiki - Site dump.tar.xz
+└── The Matrix - The Hidden Wiki.pdf
+- 52-insights.com - Interview with Tristan Harris 'We're 10 years into this mass hypnosis.' - 52-Insights.com.pdf
+- americanaddictioncenters.com - Esports The Sharp Edge of Adderall in Professional Gaming | American Addiction Centers - Matt Berry.pdf
+- arstechnica.com - Bone-conduction headphones Long-term test and review of AfterShokz | Ars Technica - Jim Salter.pdf
+- arxiv.org - 1708.01817 - A Review and Analysis of Eye-Gaze Estimation - Anuradha Kar, Peter Corcoran.pdf
+- arxiv.org - 1909.05703 - Survey on Terahertz Nanocommunication and - Filip Lemic, Sergi Abadal, Wouter Tavernier, Pieter Stroobant, Didier Colle, Eduard Alarc ́on, J. Marquez-Barja, J. Famaey.pdf
+- bbc.com - 'I spent £700 on loot boxes in a month' - BBC News - Lydia Thomas and Mike Young.pdf
+- cell.com - Biophysical Tools for Cellular and Subcellular - Allen P. Liu.pdf
+- citeseerx.ist.psu.edu - Gamebots: A 3D Virtual World Test-Bed - Rogelio Adobbati - Andrew N. Marshall - Andrew Scholer - Sheila Tejada - Gal Kaminka - Steven Schaffer - Chris Sollitto.pdf
+- cnn.com - We all spent too much time on our screens this year -- and that's OK - CNN - Samantha Murphy Kelly.pdf
+- cordis.europa.eu - Electrogenetics – Shaping Electrogenetic Interfaces for Closed-Loop Voltage-Controlled Gene Expression | ElectroGene Project | Fact Sheet | H2020 | CORDIS | European Commission.pdf
+- elifesciences.org - elife-27069-v3 - Magnetothermal genetic deep brain stimulation of motor behaviors in awake, freely moving mice - Rahul Munshi - Shahnaz M Qadri1 - Qian Zhang - Idoia Castellanos Rubio - Pablo del Pino- Arnd Pralle.pdf
+- eurekalert.com - Why people buy, trade, donate medications on | EurekAlert!.pdf
+- grandviewresearch.com  - Cyber Security Market Size & Share Report, 2030.pdf
+- hms.harvard.edu - Screen Time and the Brain | Harvard Medical School  |  Debra Bradley Ruder.pdf
+- itact2.com - Screenshot - Homepage - Wearable communications solutions.png
+- jem.com - Stimulus Overload 'Video game epilepsy' causes seizures in young and old - JEMS EMS, Emergency Medical Services - Training, Paramedic, EMT News  Joshua Cox and Eric T. Richardson.pdf
+- Journals.plos.org - Magnetoreception - A sense without a receptor - Gregory C. Nordmann - Tobias Hochstoeger - David A. Keays .pdf
+- nature.com - s41598-018-27087-9 - Wireless control of cellular function - Vijai Krishnan, Sarah Park, Samuel Shin, Lina Alon, Caitlin M. Tressler, W. Stokes, Banerjee, Sorrell, Tian, Fridman, P. Celnik, J. Pevsner, W. Guggino -  A. Gilad - G. Pelled.pdf
+- ncbi.nlm.nih.gov - An integrated 3-Dimensional Genome Modeling - Przemysław Szałaj - Zhonghui Tang - Paul Michalski - Michal J. Pietal - Oscar J. Luo - Michał Sadowski - Xingwang Li - Kamen Radew - Yijun Ruan - Dariusz Plewczynski.pdf
+- ncbi.nlm.nih.gov - Effect of Addiction to Computer Games on Physical and Mental Health of Female and Male Students of Guidance School in City of Isfahan - Esharat Zamani - Maliheh Chashmi - Nasim Hedayati.pdf
+- ncbi.nlm.nih.gov - Impact of Multiplayer Online Role-Playing Games  - Jonathan Scotte and Alison P. Porter-Armstrong.pdf
+- news.un.org - COVID pandemic fuelling major increase in drug use worldwide UN report | | UN News.pdf
+- news.un.org - Global e-commerce jumps to $26.7 trillion, fuelled by COVID-19 | | UN News.pdf
+- nytimes.com - Spy Agencies Tap Data Streaming From Phone Apps - The New York Times - James Glanz - Jeff Larson - Andrew W. Lehren.pdf
+- openvibe.inria.fr - Discover OpenViBE | OpenViBE.pdf
+- patents.google.com - AU2011237473B2 - Remote gaze control system and method - Levy, lsaac ; Shalom, Tal ; Sela, Meir ; Wenger, Stephan.pdf
+- pornhub.com - 'Among Us' Game Searches – Pornhub Insights.pdf
+- pornhub.com - The 2019 Year in Review – Pornhub Insights.pdf
+- pornhub.com - The 2019 Year in Review – Pornhub Insights - simple.pdf
+- researchgate.com - Remote-control-neuron-firing - Heng Huang - Savas Delikanli - Hao zeng - Denise M. Ferkey - Arnd Pralle.pdf
+- researchgate.net - Serious_video_game_effectiveness - Wee Ling Wong, Cuihua Shen, Luciano Nocera, Eduardo Carriazo, Fei Tang.pdf
+- royalsocietypublishing.org - rsif.2015.0499 - Magnetic particle-mediated - Jeremy Shaw - Alastair Boyd - Michael House - Robert Woodward - Falko Mathes - Gary Cowin - Martin Saunders - Boris Baer.pdf
+- sciencedirect.com - Towards development of electrogenetics using electrochemically active bacteria - ScienceDirect.pdf
+- science.org - Remote activation of cellular signaling | Science - Matthew I. Brier - Jonathan S. Dordick.pdf
+- science.org -  Remote control of cells - mechanisms description figure.gif
+- science.org - sciadv.abm5091 - Synthetic biology and bioelectrochemical tools - J. M. Lawrence, Y. Yin, P. Bombelli, A. Scarampi, M. Storch, Wey, Climent-Catala, PixCell iGEM Team, Baldwin, O’Hare, Howe, Zhang, Ouldridge, Ledesma-Amaro.pdf
+- sonitustechnologies.com - Screenshot - Homepage.png
+- trends.google.com - Escort near me - 2004-2022 - geoMap.csv
+- trends.google.com - Escort near me - 2004-2022 - Timeline.csv
+- trends.google.com - Screenshot - "Escort near me" - 2004 - 2022.png
+- vice.com - VICE News Reports Army Tries to Recruit Soldiers on Twitch.pdf
+- wikipedia.com - Adderall - Wikipedia.pdf
+- wikipedia.com - Brain–computer interface - Wikipedia.pdf
+- wikipedia.com - Cladistics - Wikipedia.pdf
+- wikipedia.com - Dataflow - Wikipedia.pdf
+- wikipedia.com - Expert system - Wikipedia.pdf
+- wikipedia.com - Image segmentation - Wikipedia.pdf
+- wikipedia.com - Intentional programming - Wikipedia.pdf
+- wikipedia.com - Neural oscillation - Wikipedia.pdf
+- wikipedia.com - Optogenetics - Wikipedia.pdf
+- wikipedia.com - Persuasive technology - Wikipedia.pdf
+- wikipedia.com - Telephone numbers in the Americas - Wikipedia.pdf
+- youtube.com - Foreign Correspondent - The Environmental Disaster that is Fuelled by Used Clothes and Fast Fashion _ Foreign Correspondent-bB3kuuBPVys.mp4
+- youtube.com - Foreign Correspondent - The Environmental Disaster that is Fuelled by Used Clothes and Fast Fashion _ Foreign Correspondent-bB3kuuBPVys.mp4
+- youtube.com - Shoshana Zuboff - Surveillance capitalism and democracy-fJ0josfRzp4.mp4
+- youtube.com - Yuri Feldman - The absorption and emission of sub-THz radiation by human Skin-uGXiLDQeKDk.mp4
