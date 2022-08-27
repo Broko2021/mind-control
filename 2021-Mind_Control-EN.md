@@ -124,8 +124,9 @@ The only thing that should matter to you from now on through AI is protecting yo
 
 *Protecting yourself from AI:* is paradoxically moving away from it and what it strives to teach. To get away from AI is to live your life, with your family, your friends, your occupations and your schedule. In some cases, protecting yourself may mean turning off the TV, cutting yourself off from the internet, getting away from digital, and getting back to more concrete human connections.
 
-
 You are now in the Matrix, for you there is not a strong difference, you must see reality as it is in front of you at all costs. This reality is the only one you can access to, the only one which matters. To control you, the AI will build strategies and objectives as much credibles as they are imaginary. To follow them is to live a life pre-programmed through a computer, for which you are nothing but a mere anonymous.
+
+> To make it simple: experiencing the Matrix, to be locked in the Matrix, is much like experiencing an interactive movie. If one can still can see reality in front of him or her, the Matrix augments it with data and signals : visual, hearable, physical and emotional. This concept is technologically known as MR or *Mixed Reality*.
 
 # <a name="part-1"></a>Part 1: the individual at risk in the 21st century
 
@@ -494,7 +495,7 @@ Practical in some repetitive tasks of the daily life, where the body can take ba
 
 All the more so as the Matrix and its program retaliate against the user's counter-indications, or opposite behavior, sometimes by voice, by ideas, and ultimately by movements control, forcing some to fight against the wind to vent their anger at being controlled. Those who "control" the control by AI are called "elegant". To be elegant is to have learned everything from the AI techniques and to be able to control the haptics in a non-visible manner.
 
-For the others, the Matrix goes as far as generating epileptic seizures in the first moments of interfacing, notably to facilitate the mapping of the nervous networks. Mechanisms aiming at taking a dominant position physically and psychologically over the user, in order to make him or her compatible with their two new, digital twins.
+For the others, the Matrix goes as far as generating epileptic seizures in the first moments of interfacing, notably to facilitate the mapping of the neural networks. Mechanisms aiming at taking a dominant position physically and psychologically over the user, in order to make him or her compatible with their two new, digital twins.
 
 
 ### <a name="part-2.3.2"></a>A twin for the body
