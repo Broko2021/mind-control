@@ -126,6 +126,8 @@ La seule chose qui doit compter pour vous à partir de maintenant à travers l�
 
 Vous êtes maintenant dans la Matrix, pour vous aucune différence concrète, vous devez coûte que coûte voir la réalité que vous avez en face de vous comme la seule à laquelle vous avez accès, la seule que vous pouvez améliorer, la seule qui compte. Pour vous diriger, l'IA fabriquera des stratégies et des objectifs aussi pertinents qu'imaginaires, les suivre c'est vous exposer à vivre une vie pré-programmée par un ordinateur pour qui vous êtes un anonyme.
 
+> Pour simplifier : faire l'expérience de la Matrix, être dans la Matrix, s'apparente à faire l'expérience d'un film intéractif. Si vous voyez toujours la réalité devant vous, la Matrix l'augmente de données et signaux : visuels, audios, moteurs et sensibles. Ce concept est connu sous le nom de MR ou *Mixed Reality*.
+
 # <a name="part-1"></a>Partie 1 : l'individu en danger au XXIème siècle
 
 Souvent la technologie numérique et l’excitation suscitée par son innovation camouflent totalement leurs effets pervers, parfois de la volonté même des ayant droits. Comprendre les conditions des contextes sociaux, sociétaux et industriels, dans lesquels s'intègrent ces technologies (développées en partie 2), permet de s’approprier une plus juste définition de leurs objectifs.
@@ -799,8 +801,7 @@ Le parti pris de l’IA est de faire confiance à un système aujourd’hui méc
 
 En vous améliorant elle perturbe en les modifiant vos réflexes, elle modifie la perception des stimuli neuromoteurs, jusqu’à les inverser. La nouvelle situation normale est diamétralement opposée à la nature même du comportement physique naturel. Les stimulations média, audio et voix, contre-balancent cette situation sous contrôle pour lui donner du sens.
 
-Oublier est souvent le plus court chemin vers l’acceptation de l’IA par ses utilisateurs, alors que c’est le seul moyen de mesurer ses effets négatifs ou positifs. 
-
+Oublier est souvent le plus court chemin vers l’acceptation de l’IA par ses utilisateurs, alors que c’est le seul moyen de mesurer ses effets négatifs ou positifs.
 
 La question est : souhaitons-nous laisser une chance à la nature de nous montrer son progrès ? Si oui, comment atteindre le niveau de compréhension de notre comportement nous permettant de l’ajuster suffisamment pour que la nature retrouve sa place ? Dans le même temps, la rhétorique peut être renversée : souhaitons-nous tout abandonner au profit de mécanismes automatiques, informatiques, pour découvrir cette nouvelle vie transhumaine ? 
 
