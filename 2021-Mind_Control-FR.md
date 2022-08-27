@@ -23,8 +23,8 @@
    - [Conclusion : le digital, une somme d’effets pervers ?](#part-1.3)
 - [Partie 2 : une réalité technologique et scientifique éloignée du champ domestique](#part-2)
    - [La radiocommunication corporelle](#part-2.1)
-      - [Approaches invasives ou Thz](#part-2.1.1)
-      - [Approches non invasives ou Ghz](#part-2.1.2)
+      - [Approches invasives ou THz](#part-2.1.1)
+      - [Approches non invasives ou GHz](#part-2.1.2)
    - [L’automatisation et l’intelligence artificielle : des jeux d’échelle(s)](#part-2.2)
       - [Tout lier par l’abstraction des modèles](#part-2.2.1)
       - [La configuration](#part-2.2.2)
@@ -126,7 +126,7 @@ La seule chose qui doit compter pour vous à partir de maintenant à travers l�
 
 Vous êtes maintenant dans la Matrix, pour vous aucune différence concrète, vous devez coûte que coûte voir la réalité que vous avez en face de vous comme la seule à laquelle vous avez accès, la seule que vous pouvez améliorer, la seule qui compte. Pour vous diriger, l'IA fabriquera des stratégies et des objectifs aussi pertinents qu'imaginaires, les suivre c'est vous exposer à vivre une vie pré-programmée par un ordinateur pour qui vous êtes un anonyme.
 
-> Pour simplifier : faire l'expérience de la Matrix, être dans la Matrix, s'apparente à faire l'expérience d'un film intéractif. Si vous voyez toujours la réalité devant vous, la Matrix l'augmente de données et signaux : visuels, audios, moteurs et sensibles. Ce concept est connu sous le nom de MR ou *Mixed Reality*.
+> Pour simplifier : faire l'expérience de la Matrix, être dans la Matrix, s'apparente à faire l'expérience d'un film interactif. Si vous voyez toujours la réalité devant vous, la Matrix l'augmente de données et signaux : visuels, auditifs, moteurs et sensibles. Ce concept est connu sous le nom de MR ou *Mixed Reality*.
 
 # <a name="part-1"></a>Partie 1 : l'individu en danger au XXIème siècle
 
@@ -153,16 +153,16 @@ Tout le monde doit connaître l’adage “metro/boulot/dodo” qui décrit le q
 1. l’enracinement de la dynamique quotidienne dans le quotidien : suivre cette dynamique répétitive devient une habitude dont il n’est plus possible de s’extraire. 
 2. Dans les grandes villes, la vie personnelle est souvent mise en retrait par rapport à la vie professionnelle.
 
-Avec l’arrivée de l’informatique domestique (les fameux PCs ou Personal Computers), et plus récemment d’Internet, une nouvelle dynamique s’est créé à travers une activité en-ligne ou online. Passive ou active cette activité ne se soustrait pas au temps de travail mais vient s’ajouter comme une nouvelle contrainte au temps de vie personnelle. L’individu passionné par son existence en-ligne, virtuelle, commence alors à sacrifier du temps.
+Avec l’arrivée de l’informatique domestique (les fameux PCs ou *Personal Computers*), et plus récemment d’Internet, une nouvelle dynamique s’est créé à travers une activité en-ligne ou *online*. Passive ou active cette activité ne se soustrait pas au temps de travail mais vient s’ajouter comme une nouvelle contrainte au temps de vie personnelle. L’individu passionné par son existence en-ligne, virtuelle, commence alors à sacrifier du temps.
 
 La mesure de ce temps sacrifié est complexe ; n’êtes vous pas en pleine mesure de décider pour vous combien de temps vous voulez investir dans votre passion ou plaisir numérique ? Peut-être ou pas, car tout individu fait partie d’un maillage social (familial, amical, civique…) dont la participation demande du temps. Ainsi, tout temps passé à utiliser le numérique dans une autre direction, revient à se priver de temps de participation à la construction ou au renforcement du maillage social local et de proximité.
 
 La valorisation de ce temps sacrifié au numérique est également complexe ; ne préférez-vous pas, comme tout le monde, occuper votre temps à la poursuite de satisfaction, plutôt qu’à accomplir des tâches relevant de votre responsabilité ? Mieux, poursuivre votre satisfaction personnelle à travers le numérique, diminue souvent à moyen et long termes votre niveau de responsabilisation sociale, ce qui laisse d’autant plus de temps à vous divertir avec vos activités virtuelles. Pour l’utilisateur, la valeur du temps numérique est toujours a priori positive ; alors qu’a posteriori ce temps n’apporte que rarement des améliorations réelles dans le quotidien.
 
-Au temps du “Metro /Boulot/ Dodo” il restait encore du temps pour dormir ; au temps du “Metro /Boulot /Ordi”, le grand sacrifice c’est la durée et la qualité du sommeil. Sans rentrer dans le détail des activités numériques domestiques, parfois stressantes et angoissantes, souvent liées à la dépense de temps, d’argent ou des deux, elles empiètent sur le temps de détente préalable conseillé pour la qualité du sommeil, notamment par l’usage intensif des yeux et du cerveau[1]. Au-delà de la qualité, la durée du sommeil est compromise car réalisé dans des conditions de stress ou d’excitation ne facilitant pas le repos.
+Au temps du “Metro /Boulot/ Dodo” il restait encore du temps pour dormir ; au temps du “Metro /boulot /ordi”, le grand sacrifice c’est la durée et la qualité du sommeil. Sans rentrer dans le détail des activités numériques domestiques, parfois stressantes et angoissantes, souvent liées à la dépense de temps, d’argent ou des deux, elles empiètent sur le temps de détente préalable conseillé pour la qualité du sommeil, notamment par l’usage intensif des yeux et du cerveau[1]. Au-delà de la qualité, la durée du sommeil est compromise car réalisé dans des conditions de stress ou d’excitation ne facilitant pas le repos.
 
 Dans ces conditions, la mesure et la valorisation du temps deviennent de plus en plus difficile. L’individu aura tendance à sacrifier de plus en plus au numérique qui apparaît toujours comme la solution la plus simple et la plus facilement accessible aux maux du quotidien. Ceux-ci deviennent de plus en plus difficile à corriger par manque de sommeil, et à terme l’individu se dirige vers une situation de crise dans sa sphère personnelle et professionnelle.
-Que fait la Matrix contre la routine citadine ? Elle crée des opportunités en tout genre pour dérouter la routine : elle propose de nouvelles activités, favorise la participation à des évènements sociaux, gère le planning pour économiser du temps...
+Que fait la Matrix contre la routine citadine ? Elle crée des opportunités en tout genre pour dérouter la routine : elle propose de nouvelles activités, favorise la participation à des événements sociaux, gère le planning pour économiser du temps...
 
 ### <a name="part-1.1.2"></a>Simplicité d’usage pour simplifier l’utilisateur
 Un des grands paradoxes du numérique est sa simplicité d’usage. D’abord dans la différence entre l’effort nécessaire pour réaliser une action numérique et l’effort nécessaire pour réaliser la même action physique. Ensuite dans le rapport entre simplicité de l’expérience utilisateur et possibilité d’expression de celui-ci. L’utilisateur est à la fois en puissance d’agir, à la fois limité dans l’éventail de ses choix.
@@ -179,7 +179,7 @@ Que se passe-t-il si un individu perd complètement l’habitude de réaliser le
 À terme et résultat de la digitalisation, une très grande partie des interactions sociales physiques pourront être adressées par du numérique, y compris la livraison de votre café par drone. L’effet pervers du tout digital, est la création latente d’une attitude paresseuse vis-à-vis de l’effort à réaliser pour retrouver des habitudes dans la réalité physique.
 
 #### <a name="part-1.1.2.2"></a>User Experience, vers une expérience inversée pour l’utilisateur
-L’User Experience ou UX, rassemble les éléments d’interactions dans une approche orientée expérience utilisateur. L’idée est de ne plus concevoir unitairement les éléments d’interface (zones de texte, liens, boutons, etc…) mais de proposer une expérience satisfaisante pour l’utilisateur. Le consensus actuel est que pour satisfaire cette expérience doit être simple, l’effort actuel tend donc à l’extrême simplification des parcours utilisateurs. Si le gain de temps, souvent réel, reste l’indicateur le plus considéré, il s’accompagne le plus souvent d’une perte d’expressivité pour l’utilisateur. 
+*L’User Experience* ou UX, rassemble les éléments d’interactions dans une approche orientée expérience utilisateur. L’idée est de ne plus concevoir unitairement les éléments d’interface (zones de texte, liens, boutons, etc…) mais de proposer une expérience satisfaisante pour l’utilisateur. Le consensus actuel est que pour satisfaire cette expérience doit être simple, l’effort actuel tend donc à l’extrême simplification des parcours utilisateurs. Si le gain de temps, souvent réel, reste l’indicateur le plus considéré, il s’accompagne le plus souvent d’une perte d’expressivité pour l’utilisateur. 
 
 Imaginez un clavier de téléphone, il comporte 10 chiffres (de 0 à 9), avec ces 10 chiffres vous pouvez composer, en France, 600 millions de combinaisons[2]. L’expressivité est forte, et totale : avec ce clavier de téléphone vous pouvez composer tous les numéros de France (et d’ailleurs). Maintenant, imaginez que par effort d’UX, on limite le clavier à 1 bouton ; en fonction du lieu où vous vous trouvez, de l’heure et d’autres paramètres, le téléphone adresse automatiquement un contact à ce bouton : comme par magie, vous cliquez et il appelle automatiquement la bonne personne. Plus besoin de choisir ou de composer, la satisfaction est totale.
 
@@ -187,16 +187,16 @@ Mais que se passe-t-il à ce moment de votre vie où vous vivez une nouvelle sit
 
 Au-delà de cet exemple, il existe un autre risque lié à la création de métadonnées, complètement cachées à l'utilisateur. Lorsque vous utilisez un service numérique vous générez des DATA dites métadonnées. Dans l’exemple du numéro de téléphone, la data réelle serait le numéro et le nom du contact associé ; les méta-données, toutes celles liées à l’usage de ce numéro, fréquences, heures et durées des appels, etc.... Dans le cas de l’UX, les métadonnées utilisateurs concernent toutes les données permettant de caractériser votre comportement.
 
-Côté utilisateur, on ne voit que le clic sur le bouton, soit une action. Côté machine, l’intégralité des données capturées peuvent être utilisées pour compléter la compréhension machine de cette action avec des traits d’intention utilisateurs. Ces données capturées par les applications peuvent être, dans le cas d’un téléphone portable, d’accélérométrie, de luminosité ambiante, de pression sur l’écran, etc… Pour mettre en avant un autre exemple, celui du formulaire, la donnée réelle est le contenu du formulaire, soit les données que vous y renseignez ; la métadonnée, c’est votre comportement lors du remplissage, par exemple, le temps total de remplissage (êtes-vous rapide ou lent ?), le nombre de retours en arrière (êtes-vous précis ou imprécis ?), l’ordre de remplissage (peut-être souffrez vous de dyslexie?!). Souvent pour l’éditeur du service qui vous est rendu c’est cette information qui a de la valeur, notamment lors de la vente de ses données à d’autres éditeurs. Ce sont aussi ces données qui sont utilisées pour entraîner des intelligences artificielles.
+Côté utilisateur, on ne voit que le clic sur le bouton, soit une action. Côté machine, l’intégralité des données capturées peuvent être utilisées pour compléter la compréhension machine de cette action avec des traits d’intention utilisateurs. Ces données capturées par les applications peuvent être, dans le cas d’un téléphone portable, accéléromètrie, de luminosité ambiante, de pression sur l’écran, etc… Pour mettre en avant un autre exemple, celui du formulaire, la donnée réelle est le contenu du formulaire, soit les données que vous y renseignez ; la métadonnée, c’est votre comportement lors du remplissage, par exemple, le temps total de remplissage (êtes-vous rapide ou lent ?), le nombre de retours en arrière (êtes-vous précis ou imprécis ?), l’ordre de remplissage (peut-être souffrez vous de dyslexie?!). Souvent pour l’éditeur du service qui vous est rendu c’est cette information qui a de la valeur, notamment lors de la vente de ses données à d’autres éditeurs. Ce sont aussi ces données qui sont utilisées pour entraîner des intelligences artificielles.
 
 Au-delà de son apparente simplicité, et du confort apporté à l’utilisateur, l’UX renferme des mécanismes complexes assis à la fois sur des objectifs marketing (performance de vente, acquisition d’acheteurs) et utilisateur (la qualité, la rapidité du service rendu). Dans le cas de services gratuits, ces deux objectifs s’éloignent pour parfois s’opposer : le service rendu gratuitement à l’utilisateur, le dessert a posteriori par l’usage qui est fait à son insu et donc contre lui de ses données capturées.
 
 L’apparente attractivité de l’UX simplifiée est donc à évaluer, car pour l’éditeur elle rime souvent avec une économie de coûts, et pour l’utilisateur une limitation de son expressivité, et de sa compréhension de l’application qu’il utilise.
          
 #### <a name="part-1.1.2.3"></a>Addictivité par design
-C’est un postulat fort, mais combien de fois vous êtes vous retrouvés à consulter les notifications de votre smartphone ou de votre application favorite, sans avoir reçu de notifications ? Ce scénario est celui décrit à la fin du film de David Fincher Social Network, où le personnage de Mark Zuckerberg rafraîchit sa page à l’infini en peine d’amour… jusqu’à la notification. 
+C’est un postulat fort, mais combien de fois vous êtes vous retrouvés à consulter les notifications de votre smartphone ou de votre application favorite, sans avoir reçu de notifications ? Ce scénario est celui décrit à la fin du film de David Fincher *Social Network*, où le personnage de Mark Zuckerberg rafraîchit sa page à l’infini en peine d’amour… jusqu’à la notification. 
 
-Lorsque vous utilisez un service numérique vous en devenez le client et le produit. Comme toute entreprise, ce service veut vous fidéliser pour structurer sa base d’utilisateurs. Malheureusement, il manque d’opportunités dans la vie réelle : souvent vous n’existez pour lui qu’à travers une adresse e-mail. Comment vous garder près de lui ? En se rendant indispensable. Comment ? En utilisant différentes techniques dites de “design de l’attention” ou persuasive technology[3.a].
+Lorsque vous utilisez un service numérique vous en devenez le client et le produit. Comme toute entreprise, ce service veut vous fidéliser pour structurer sa base d’utilisateurs. Malheureusement, il manque d’opportunités dans la vie réelle : souvent vous n’existez pour lui qu’à travers une adresse e-mail. Comment vous garder près de lui ? En se rendant indispensable. Comment ? En utilisant différentes techniques dites de “design de l’attention” ou *persuasive technology*[3.a].
 
 Aujourd'hui, il existe donc des techniques très sophistiquées permettant de capturer votre attention et vous rendre accroc, et ce y compris dans des contextes fortement dynamiques et au contenu riche. Google a par exemple publié un brevet intitulé " Contrôle distant de l'attention, système et méthode "[3.b]. Celui-ci démontre comment à travers des stimuli visuels le regard de l'utilisateur cible peut être dirigé, par le contenu qu'il regarde. Ces techniques dites de "Eye gazing", dont les origines datent du début du XXème siècle, sont largement utilisées dans l'industrie digitale.[3.c]
 
@@ -223,7 +223,7 @@ Une autre des grandes émanations de la digitalisation et de la domestication du
 Le grand attrait de ces réseaux est de mettre les gens les uns à côté des autres, comme des pages web. Cela permet de faciliter l’identification de personnes partageant les mêmes centres d’intérêt ou évoluant dans le même domaine artistique ou professionnel. Les réseaux sociaux permettent aussi de partager de l’information. Ce partage est parfois direct, d’individus à individus, ou ciblé et transmis d’une source privée, une marque, une institution, un artiste, à un ensemble d’utilisateurs.
 
 Ces deux aspects entraînent en miroir deux tendances massives liées à la simplicité des usages de communication et de consommation. La première, c’est la virtualisation des rapports sociaux. Si les plateformes facilitent en apparence le développement des rapports sociaux dans la vie réelle, ils les pervertissent tout autant en les digitalisant.
-En les digitalisant, ils les décomposent en de micros actions (parfois un commentaire, parfois un like, parfois un abonnement, etc...) qui fournissent toutes à différentes échelles du plaisir ou de la frustration, en fonction que vous soyez l'émetteur, le récepteur ou simplement le visiteur. 
+En les digitalisant, ils les décomposent en de micros actions (parfois un commentaire, parfois un *like*, parfois un abonnement, etc...) qui fournissent toutes à différentes échelles du plaisir ou de la frustration, en fonction que vous soyez l'émetteur, le récepteur ou simplement le visiteur. 
 
 Ce plaisir et ce déplaisir lié à l’interaction rend ces plateformes addictives, et pour progresser, vous devez respecter leurs codes, vous adapter à leurs interfaces, à leur design, et en faisant tout cela vous vous marketez. Sur ces plateformes vous existez comme un produit, pour les éditeurs qui vous présentent dans leur catalogue aux annonceurs.
 
@@ -238,7 +238,7 @@ Ces écrans, nous les mettons sous nos yeux en permanence. En tête de liste, le
 
 Vos yeux s’habituent à cette distance ce qui nuit à la concentration par addiction, votre cerveau vous réclame votre portable pour avoir de la lumière à bonne distance. 
 
-Les écrans haute-résolution 4K et 8K présentent des pixels lumineux trop fins et trop brillants. Les yeux ne sont pas habitués à observer en continue des surfaces lumineuses aussi contrastées, qui provoquent une tension nerveuse supplémentaire, confondue chez les téléspectateurs pour de l'attention. Ces écrans interrogent sur la necessité du progrès technologique par itération et sa compréhension par les consommateurs.
+Les écrans haute-résolution 4K et 8K présentent des pixels lumineux trop fins et trop brillants. Les yeux ne sont pas habitués à observer en continue des surfaces lumineuses aussi contrastées, qui provoquent une tension nerveuse supplémentaire, confondue chez les téléspectateurs pour de l'attention. Ces écrans interrogent sur la nécessité du progrès technologique par itération et sa compréhension par les consommateurs.
 
 Est-ce que le consommateur lambda souhaite volontairement, de son plein gré, s'équiper d'équipements dégradant ses propriétés physiques ? Au titre de la poursuite du progrès technologique par les technologistes ?
 
@@ -251,7 +251,7 @@ Aujourd’hui tout ou presque est une donnée. On peut décomposer très précis
 
 La grande question concerne la source de ces données et la facilité apportée par la digitalisation à les rassembler. 
 
-Le smartphone est souvent montré du doigt comme un espion potentiel [14] car très proche de son utilisateur avec qui il se déplace, regarde son environnement, enregistre son activité en ligne et photographie sa réalité. C’est ce dernier point qui, bien que moins visible, est crucial. Chaque site internet, services ou applications, que vous utilisez, est en capacité d’enregistrer vos données d’utilisation. Ensuite, ces données peuvent être échangées, vendues, partagées par différents biais commerciaux : c’est ce qui est appelé le security dividend.[15] 
+Le smartphone est souvent montré du doigt comme un espion potentiel [14] car très proche de son utilisateur avec qui il se déplace, regarde son environnement, enregistre son activité en ligne et photographie sa réalité. C’est ce dernier point qui, bien que moins visible, est crucial. Chaque site internet, services ou applications, que vous utilisez, est en capacité d’enregistrer vos données d’utilisation. Ensuite, ces données peuvent être échangées, vendues, partagées par différents biais commerciaux : c’est ce qui est appelé le *security dividend*.[15] 
 
 L’idée est que les données peuvent être vendues, et que c’est un levier de croissance très fort pour les entreprises du digital. 
 
@@ -259,7 +259,7 @@ En Europe le RGPD, offre un cadre légal de protection des données utilisateurs
 
 Pour simplifier, la page ou application que vous avez sous les yeux est fournie par une antenne radio (dans le cadre de la connexion 4G ou 5G par exemple) ou par un routeur (dans le cadre du Wi-fi par exemple) ; l’une ou l’autre ont des adresses physiques qui permettent de les localiser géographiquement. Sans VPN, ces informations sont envoyées en clair à l’éditeur du site ou application que vous utilisez. Dans le cas où vous utiliseriez vos données personnelles réelles (nom, prénom), cet éditeur peut fabriquer une fiche mettant en relation votre identité (information n°1)  avec votre adresse numérique (information n°2). Plus tard, si cette adresse se présente sur un nouveau site, l’éditeur pourra éventuellement corréler l’information n°2 avec l’information n°1. La plupart des VPNs laissent toujours filtrer des informations concernant la position de leurs utilisateurs.
 
-Pour donner un cas plus sophistiqué, si vous utilisez à nouveau le même pseudo sur plusieurs sites, ou la même adresse e-mail, et que sur l’un de ce sites vous révélez votre identité, Internet saura peut-être que ce pseudo est vous. Si vous utilisez votre borne Wi-Fi, avec une adresse IP statique, et vous connectez régulièrement, il suffit d’une fois, à des sites internet, Internet pourra vous suivre de la même manière. C’est le principe de désanonymisation très répandu sur internet à travers les nombreux trackers, éditeurs ou publicitaires.
+Pour donner un cas plus sophistiqué, si vous utilisez à nouveau le même pseudo sur plusieurs sites, ou la même adresse e-mail, et que sur l’un de ce sites vous révélez votre identité, Internet saura peut-être que ce pseudo est vous. Si vous utilisez votre borne Wi-Fi, avec une adresse IP statique, et vous connectez régulièrement, il suffit d’une fois, à des sites internet, Internet pourra vous suivre de la même manière. C’est le principe de désanonymisation très répandu sur internet à travers les nombreux *trackers*, éditeurs ou publicitaires.
 
 Sans que l’utilisateur ne s’en rende compte, les éditeurs digitaux fabriquent en continue ces tableaux de corrélation de données qui permettent de mieux vous comprendre, dans l’idée de mieux vous servir, ce qui a le plus souvent pour résultat final vous inviter à consommer leurs produits.
 
@@ -338,6 +338,7 @@ En échange de solutions pour contrer les effets de la digitalisation sur nos co
 Accepteriez-vous d’être critiqué ouvertement sur l’ensemble de vos défauts ? Y compris vos pires réflexes psychologiques ? Surtout si il faut souffrir face à un système volontairement confus et complexe à saisir ? Souffrir physiquement par l’austérité technologique de certains mécanismes de correction ? Être contraint à l’isolement ? Physique et émotionnel ?
 
 # <a name="part-2"></a>Partie 2 : une réalité technologique et scientifique éloignée du champ domestique 
+
 Nous vivons dans un monde où l’innovation scientifique et industrielle est permanente. En 2020, ce sont plus de 275’000 brevets internationaux et plus de 3’000’000 de brevets locaux qui ont été déposés à travers le monde. Ce chiffre est en constante croissance depuis ses premiers relevés et a doublé depuis 2010[24].
 
 Le rythme et la densité de l’actualité technologique, des réalités commerciales ou stratégiques, rend la compréhension fine, globale de ces résultats scientifiques complexe, voire impossible pour le citoyen lambda. Les échelles considérées aussi bien en taille (des plus petites avec les nanotechnologies, aux plus grandes avec les infrastructures numériques), qu’en chiffres (avec des milliards de milliards de données transférées et autant d’argent échangé) interdisent leur accès et leur compréhension par le commun des mortels.
@@ -353,9 +354,9 @@ Si je vous dit que l’on peut vous parler... directement dans votre tête, comm
 
 Chacune de ces ondes a un pouvoir plus ou moins pénétrant sur l’organisme humain. Pour les parties les plus profondes et sensibles comme le cerveau, des nanoparticules ou des protéines peuvent être utilisées comme récepteurs[26], notamment cellulaires[27][28]. Ces récepteurs sont ensuite ciblées par ondes pour être stimulés et permettre le contrôle distant de l’individu ciblé par son opérateur.[29][30]
 
-### <a name="part-2.1.1"></a>Approches invasives ou Thz
+### <a name="part-2.1.1"></a>Approches invasives ou THz
 
-Avec le développement de la télécommunication et l’usage exponentielle des technologies sans fil dans tous les corps de métiers, à tous les moments de notre quotidien, partout dans le monde, ce sont les technologies classiques, les premiers drivers ou leviers technologiques, notamment à travers les fréquences Thz, permettant la communication corporelle distante à des échelles nanoscopiques.[31]
+Avec le développement de la télécommunication et l’usage exponentielle des technologies sans fil dans tous les corps de métiers, à tous les moments de notre quotidien, partout dans le monde, ce sont les technologies classiques, les premiers drivers ou leviers technologiques, notamment à travers les fréquences THz, permettant la communication corporelle distante à des échelles nanoscopiques.[31]
 
 À ces échelles, on peut interagir avec vous jusqu’au niveau cellulaire ; l’échange de données, comme le son et l’image ne sont que des cas d’usage superficiels à un contrôle plus grand, plus profond de l’entité biologique que vous êtes. Au-delà de la technologie Terahertz, qui fait partie intégrante de la feuille de route 6G, les technologies de contrôle cellulaire distantes sont rassemblées sous quatre familles scientifiques[32] :
 
@@ -368,8 +369,8 @@ Certaines applications scientifiques des techniques d'optogénétique visent la 
 
 Ces techniques de contrôle cellulaire à distance, pour la plupart invasives à l’état de l’art scientifique public en 2021, combinées entre elles et industrialisées permettent de dessiner les contours techniques d’un système de contrôle distant par différents modes de transmission, plus ou moins invasifs.
 
-### <a name="part-2.1.2"></a>Approches non invasives ou Ghz
-L’émergence d’études en biolélectromagnétisme[41], regroupant les disciplines scientifiques liées au comportement électromagnétique naturel du corps humain, aussi bien en termes de danger de santé publique par électrosensibilité, que de mécanismes de monitoring (des sicentifiques explorent déjà le monitoring de vos ondes corporelles[42]) ; permettent elles de considérer d’autres biais non invasifs d’interaction à distance.
+### <a name="part-2.1.2"></a>Approches non invasives ou GHz
+L’émergence d’études en biolélectromagnétisme[41], regroupant les disciplines scientifiques liées au comportement électromagnétique naturel du corps humain, aussi bien en termes de danger de santé publique par électrosensibilité, que de mécanismes de monitoring (des scientifiques explorent déjà le monitoring de vos ondes corporelles[42]) ; permettent elles de considérer d’autres biais non invasifs d’interaction à distance.
 
 Par ailleurs, il existe déjà des domaines scientifiques dont les résultats sont disponibles publiquement, comme l'ostéophonie[43] ou conduction osseuse qui désigne le phénomène de propagation du son jusqu'à l'oreille interne via les os du crâne. Des écouteurs stéréo grands publics s’appuyant sur la diffusion d’ultrasons à travers votre crâne pour vous faire écouter de la musique sont disponibles en vente libre[44]. Des applications militaires permettent elles de faire réception de son directement à travers la dentition avec un appareil dédié[45.a]. Faisant partie d'une nouvelle vague technologique[45.b], ce genre d'équipement permet une communication, sans-fil, transparente, entre le cerveau humain et les infrastructures de calcul Cloud.
 
@@ -385,17 +386,17 @@ Comment pourrait-on avec autant de précisions décrire vos émotions à partir 
 
 La Matrix, ce n’est pas une IA, mais de nombreuses IA qui se parlent entre elles. Loin des systèmes experts[46] apparus dans les années 1970, déjà désignés pour reproduire la manière de penser humaine, les mécanismes modernes s’appuient sur différentes techniques reproduisant chacune un ou plusieurs sens humain. 
 
-Il y en a pour le langage ou natural language understanding, pour la vision ou computer vision, pour les sentiments ou sentiment analysis, pour générer ou GAN, pour passer de la 2D à la 3D, du texte à l’audio, une pour prédire, etc… Toutes ces IA s'appuient sur un ou plusieurs modèles de données et souvent il est considéré que la qualité d’une IA est déterminée par la qualité et la quantité des données auxquelles elle a accès. 
+Il y en a pour le langage, le NLU ou *natural language understanding*, pour la vision ou computer vision, pour les sentiments ou *sentiment analysis*, pour générer ou GAN, pour passer de la 2D à la 3D, du texte à l’audio, une pour prédire, etc… Toutes ces IA s'appuient sur un ou plusieurs modèles de données et souvent il est considéré que la qualité d’une IA est déterminée par la qualité et la quantité des données auxquelles elle a accès. 
 
 En théorie avec toutes les données mondiales vous pourriez modéliser, c'est-à-dire synthétiser, l’intégralité du monde, toutes ses infrastructures, toutes ses espèces, tous ses flux, d’argent ou d’idées, et avec ce modèle parfois comprendre, parfois prédire, et tout le temps, contrôler.
 
-Il faut comprendre l’idée de passage à l’échelle, ou d’augmentation, en IA: cela permet à travers un exemple tout petit ou circonscrit d’extraire des informations plus grandes, ou plus générales. Ces informations ou features, vont ensuite être liées entre elles dans des modèles statistiques, dits réseaux de neurones, qui fourniront en fonction d’une question ou request une réponse bien précise.
+Il faut comprendre l’idée de passage à l’échelle, ou d’augmentation, en IA: cela permet à travers un exemple tout petit ou circonscrit d’extraire des informations plus grandes, ou plus générales. Ces informations ou features, vont ensuite être liées entre elles dans des modèles statistiques, dits réseaux de neurones, qui fourniront en fonction d’une question ou *request*, une réponse bien précise.
 
 Ensuite, l’IA peut s’améliorer, notamment à travers deux techniques, d’évaluation et d’explication.
 - En évaluant, c'est-à-dire exécutant des tests, elle récupère des traces ou logs qui lui permettent d’agrandir le jeu de données initial pour améliorer ses modèles.
 - En expliquant, c’est-à-dire en complétant l’information avec des synthèses de plus haut niveaux, elle peut compléter ses attributs ou paramètres.
 
-Quand l'IA dit qu'elle ***renforce***, elle fait référence à l'apprentissage réenforcé ou *reinforcement learning*, technique d'apprentissage automatique visant l'amélioration des modèles à travers la stimulation du contexte d'évaluation. Pour simplifier, en vous obligeant à l'évaluer, l'IA se renforce, et, car ses modèles sont meilleurs, vous renforce. 
+Quand l'IA dit qu'elle ***renforce***, elle fait référence à l'apprentissage renforcé ou *reinforcement learning*, technique d'apprentissage automatique visant l'amélioration des modèles à travers la stimulation du contexte d'évaluation. Pour simplifier, en vous obligeant à l'évaluer, l'IA se renforce, et, car ses modèles sont meilleurs, vous renforce. 
 
 <!-- todo : ajouter des éléments sur l'inférence et l'augmentation du digital par l'IA-->
 
@@ -414,21 +415,21 @@ De même la capacité du système à vous contrôler physiquement, des yeux jusq
 
 Une prouesse que l’IA est la seule à pouvoir réaliser pour plus d’un individu. Pourquoi ? Car la configuration fine de l’ensemble des points de configuration nécessaires à votre connexion continue et temps-réel au système dépasse la capacité de raisonnement humain. Bien que l’IA impersonnifie par l’audio, la voix d’êtres humains qui réagissent entre eux ou avec vous dans votre quotidien, ce n’est que de la configuration automatique, il n’y a personne au micro.
 
-Concernant l’haptique ou la vision 3D, la configuration par IA permet d’inférer des configurations de très grande taille à très grande vitesse, prenant en compte l’intégralité des paramètres de votre contexte spatial et lumineux pour vous appliquer les bons paramètres de diffusion. La "magie" de l'IA est de pouvoir inférer à la fois ces configurations est d'en adapter le rendu perçu entre différents contenus ou médias. On parle de comportement adaptatif de l'application, qui à travers sa couche de rendu (composée à la fois d'audio, de vidéo et d'autres signaux) donne l'impression d'une continuité, à des éléments d'information et d'interaction morcelés. L'IA dans ce cas génère à travers ses différents signaux du contenu venant combler les trous. Ce qui peut paraitre comme un message critique, n'est en fait qu'une jointure entre deux espaces, deux moments, etc...
+Concernant l’haptique ou la vision 3D, la configuration par IA permet d’inférer des configurations de très grande taille à très grande vitesse, prenant en compte l’intégralité des paramètres de votre contexte spatial et lumineux pour vous appliquer les bons paramètres de diffusion. La "magie" de l'IA est de pouvoir inférer à la fois ces configurations est d'en adapter le rendu perçu entre différents contenus ou médias. On parle de comportement adaptatif de l'application, qui à travers sa couche de rendu (composée à la fois d'audio, de vidéo et d'autres signaux) donne l'impression d'une continuité, à des éléments d'information et d'interaction morcelés. L'IA dans ce cas génère à travers ses différents signaux du contenu venant combler les trous. Ce qui peut paraître comme un message critique, n'est en fait qu'une jointure entre deux espaces, deux moments, etc...
 
 Comment comprendre et anticiper si finement votre situation ? À ce point que l’IA connaît la configuration qu’elle vous appliquera dans le futur ? Des configurations gigantesques modifiées plusieurs fois par secondes ? Comme vous, en réfléchissant en boucles.
 
 ### <a name="part-2.2.3"></a>Les boucles de rétroaction et la taille des données
 Tout ne peut pas être temps réel et l’IA s’appuie sur des mécanismes dits récursifs, c'est-à dire qu’ils peuvent revenir en arrière, et plus concrètement appeler d’autres fonctions ou consulter des jeux de données plus grands.
 
-Si le problème est petit pour l’IA, elle pourra réagir rapidement, si le problème est gros, par exemple d’une forte complexité décisionnelle, elle prendra plus de temps. Si la réception des données prend plus de temps ou si l’analyse est différée (on parle d’analyse offline), la réaction de l’IA se fera plus tard. 
+Si le problème est petit pour l’IA, elle pourra réagir rapidement, si le problème est gros, par exemple d’une forte complexité décisionnelle, elle prendra plus de temps. Si la réception des données prend plus de temps ou si l’analyse est différée (on parle d’analyse *offline*), la réaction de l’IA se fera plus tard. 
 
 Le rythme de ces boucles d’analyse ponctue le quotidien des utilisateurs de la Matrix. Par exemple, l’IA réagira dans une conversation téléphonique aux mots qui sont dits, rapidement, en quelques millisecondes, aux émotions échangées ou au résultat de la discussion, moins vite, en quelques minutes, et aux conséquences ou aux alternatives, plus longuement, en quelques heures.
 
 Ces boucles fonctionnent le plus souvent sur le même schéma :
 
 ```
-Collecte de données > entrainement > restitution > évaluation > Collecte de données > ...
+Collecte de données > entraînement > restitution > évaluation > Collecte de données > ...
 ```
 
 Pour l’utilisateur, il n’existe que la restitution, visible ou audible, alors qu’il y a continuellement une information collectée et analysée dans le fonctionnement de l’IA. Elle utilise cette donnée pour s’entraîner et compléter son modèle ou ses modèles ; chaque modèle réalise une tâche d’analyse bien précise, la donnée reçue par le modèle est déstructurée et envoyée à chacun de ces modèles qui la classifie[47] ; toutes les classes sont ensuite envoyées à d’autres modèles qui fabriqueront eux la réponse à envoyer à l’utilisateur. 
@@ -458,18 +459,31 @@ Cette architecture, finalement assez simple, permet à l’IA d’accomplir des 
 
 Si la compréhension réelle de l’IA sur une situation ou un problème peut être partielle ou incomplète, les solutions qu’elle propose peuvent être bluffantes d’efficacité.
 
-### <a name="part-2.2.5"></a>La modélisation et synthétisation de la réalité, vers l’intent reality ?
-Par de nombreux aspects l’architecture de la Matrix respecte les principes de l’approche orientée flux de données ou dataflow[48]. Elle réagit à un ensemble de signaux représentés sous la forme de flux, pour redéfinir son architecture fonctionnelle. C’est ce que l’on appelle de la dynamicité et parfois de la réactivité. 
+### <a name="part-2.2.5"></a> Modélisation, synthétisation et médiatisation du réel : vers *l’intent reality* ?
 
-En réagissant, elle manipule des modèles composant son architecture fonctionnelle. Il va y avoir un modèle pour la voiture, un modèle par œil, pour la main, un modèle pour la télévision… Dépasser sa compréhension de la Matrix, et quelque part tolérer son existence, c’est comprendre à quel point elle est en capacité de duper l’être humain par synthétisation.
+La médiatisation est la transformation d'une information vers un autre type de média, ou *medium*. Par exemple la transformation d'un mot écrit en un mot parlé, ou bien d'une phrase en image.
+
+Pour permettre l'interaction entre votre esprit, les différentes composantes de votre corps, comportement et environnement physique ou social, la Matrix s'appuie sur des principes de médiatisation plus ou moins sophistiqués.
+
+Le langage naturel en est le premier : l'IA vous parle, en s'appuyant sur des techniques de modélisation connues dites *TAL* pour Traitement automatique du langage (ou *NLP*[48.a] en anglais). Quand vous entendez la Matrix, il s'agit en réalité de la transformation d'une information informatique (qui peut aussi bien être un texte classique qu'une chaîne de caractères illisible ou encodée, comme un *hash*) en signal audio.
+
+Par la suite, la Matrix peut déployer des moyens de transmission de l'information beaucoup plus complexes, faisant l'inférence entre des dimensions informationnelles très éloignées les unes des autres.
+
+Pour donner un exemple, elle est en capacité de vectoriser l'information sous une forme diégétique, c'est-à-dire sous la forme synthétique de la structure narrative d'un film que vous auriez déjà vu. L'information transmise n'est plus un simple mot ou une phrase, mais ce mot ou cette phrase transposé dans un contexte diégétique généré dynamiquement. Ce qu'apporte cette inférence diégétique supplémentaire est votre compréhension enrichie par le souvenir et l'expérience que vous auriez eue à voir cette information dans un film.
+
+Si des méthodes type *BFM* pour *Bayesian filtering model*[48.b] permettent la modélisation à partir de structures de données temporelles multi-métriques, ce cas d'usage est à ce jour le plus avancé en terme de contextualisation dynamique de l'information.
+
+Pour supporter ces fonctionnalités, l’architecture de la Matrix respecte les principes de l’approche orientée flux de données ou *dataflow*[49.a]. Elle réagit à un ensemble de signaux représentés sous la forme de flux de données (*data streams*[49.b]) ou de séries temporelles (*timeseries*[49.c]), pour redéfinir son architecture fonctionnelle. C’est ce que l’on appelle en informatique, la dynamicité et la réactivité.
+
+En réagissant, elle manipule des modèles composant son architecture fonctionnelle. Il va y avoir un modèle pour la voiture, un modèle par œil, pour la main, un modèle pour la télévision… Dépasser sa compréhension de la capacité de l'IA à manipuler la réalité, et quelque part le tolérer, c’est comprendre à quel point elle dépasse l'état de l'art de la synthétisation.
 
 Pour le meilleur et pour le pire ; parfois recréer des émotions, parfois recréer des comportements ; parfois à des fins médicamenteuses, parfois pour améliorer votre vue ou votre acoustique, etc…
 
-Cet incroyable monde de synthèses s'appuie sur des techniques de modélisation bien réelles, issues du domaine informatique d’intentional programming[49]. L’idée est que l’ordinateur peut traduire l’intention de l’utilisateur à travers son interface, afin de se passer du développeur. Avec l’IA, votre intention composée de tous vos objectifs conscients et inconscients peut être traduite en langage naturel, par un ensemble de machines. C’est l’empilement des modèles qui permet de créer ce lien entre par exemple du mouvement filmé dans la rue par des caméras de surveillance et un comportement, ou entre un brouillon et un dessin terminé, ou entre une idée dans votre tête et sa traduction lointaine dans un ordinateur. 
+Cet incroyable monde de synthèses s'appuie sur des techniques de modélisation bien réelles, issues du domaine informatique d’*intentional programming*[49.c]. L’idée est que l’ordinateur peut traduire l’intention de l’utilisateur à travers son interface, afin de se passer du développeur. Avec l’IA, votre intention composée de tous vos objectifs conscients et inconscients peut être traduite en langage naturel, par un ensemble de machines. C’est l’empilement des modèles qui permet de créer ce lien entre par exemple du mouvement filmé dans la rue par des caméras de surveillance et un comportement, ou entre un brouillon et un dessin terminé, ou entre une idée dans votre tête et sa traduction lointaine dans un ordinateur. 
 
-D’un côté, il y a l’utilisateur, son idée et l’IA, qui traduit à l’écran, l’utilisateur et son idée en texte entier ; de l’autre côté les administrateurs opèrent de la même manière, à échelle, pour une intention ou un objectif exprimé côté administrateur, l’IA va créer une intention customisée pour chaque utilisateur connecté et ciblé.
+D’un côté, il y a vous et l’IA, qui traduit votre idée en texte entier ; de l’autre côté les administrateurs expriment des objectifs eux aussi en texte entier ; entre les deux les moteurs d'inférence de l'IA vont fabriquer une nouvelle intention customisée pour chaque utilisateur connecté et ciblé. Cette nouvelle intention fait la moyenne entre l'objectif de l'administration et l'objectif du ou des utilisateurs.
 
-À la fin, et grâce à l’intent programming, il ne pourrait y avoir qu’un seul administrateur qui indiquerait à l’IA des tendances globales à respecter comme la sécurité de la population, le niveau de fertilisation ou le taux d’émission carbone. De cet objectif très abstrait, global, naîtraient autant de sous-objectifs nécessaires et appliqués aux comportements des utilisateurs connectés.
+À la fin, et grâce à l’*intentional programming*, il ne pourrait y avoir qu’un seul administrateur qui indiquerait à l’IA des tendances globales à respecter comme la sécurité de la population, le niveau de fertilité ou le taux d’émission carbone. De cet objectif très abstrait, global, naîtraient autant de sous-objectifs nécessaires et appliqués aux comportements des utilisateurs connectés.
 
 Visuellement, cette application où toutes les informations sont centralisées, est une copie de notre monde en 3D. Des simulateurs existent pour différents types de rendus, des plus généralistes[50][51] aux plus spécifiques[52][53], allant jusqu'à la représentation de nos ondes cérébrales[54.a], comme permis par la communauté scientifique BCI[54.b], qui travaille à traduire les états du cerveau en signaux. 
 
@@ -519,7 +533,7 @@ En vous présentant différents contenus, des images, des sons, des histoires, e
 
 Le jeu est de ne pas y rester trop longtemps car l’IA détecte alors des habitudes, des tendances à trop d’hystérie ou de compulsivité, et elle fera de ces nouvelles habitudes, celles développées en utilisant l’IA, des armes contre vous en les répétant.
 
-Si l'IA vous parle d'"ultrasonde", il s'agit de la connection à l'ensemble des points de réception de la Matrix, les votres et les siens. Elle en parle avec humour cat cette "ultrasonde" est difficile à porter.
+Si l'IA vous parle d'"ultrasonde", il s'agit de la connection à l'ensemble des points de réception de la Matrix, les vôtres et les siens. Elle en parle avec humour car cette "ultrasonde" est difficile à porter.
 
 ### <a name="part-2.3.4"></a>Deux jumeaux inversés ?
 Souvent l’IA prend des atours déroutants pour ses utilisateurs. Pourquoi être forcé à faire tel mouvement ? Ou forcé à avoir telle pensée, à telle intensité ? C’est pour elle le principal moyen pour vous rendre un peu du contrôle qu’elle a pris sur vous.
@@ -539,11 +553,11 @@ Chaque signal de l'IA peut être vu comme un interrupteur décisionnel ; en l'ac
 - fermé : elle annule une réaction
 - semi ouvert/fermé : elle annule un comportement futur
 
-Ce que vous ne voyez pas avec l'IA est ce qu'il se serait passé si elle n'état pas intervenue. Si l'intervention gène, son impact est voulu moindre par rapport à ce qu'elle a debrayée.
+Ce que vous ne voyez pas avec l'IA est ce qu'il se serait passé si elle n’était pas intervenue. Si l'intervention gène, son impact est voulu moindre par rapport à ce qu'elle a débrayée.
 
 Il faut voir ces stimulations synthétiques comme des leurres à vos propres stimulations biologiques qui entraîneront des comportements néfastes, de l'inadéquation sociale, des pertes de temps, de productivité, etc... Leur but est de vous montrer vos stimulations pour que vous puissiez en corriger les conséquences comportementales vous-même.
 
-### <a name="part-2.3.5"></a>Mesurer la patience (ou l’impatience) avec des triggers
+### <a name="part-2.3.5"></a>Mesurer la patience (ou l’impatience) avec des *triggers*
 La patience est la base du comportement à adopter face à la Matrix. Seule la neutralité, c'est-à-dire limiter les interactions, limiter le contrôle émotionnel, permet à l’utilisateur de reprendre une vie intellectuelle et sociale plus normale.
 
 Il faut principalement “se taire”, c’est-à-dire limiter les interactions intellectuelles avec l’IA qui cherche à discuter avec vous, pour reprendre son calme et progressivement demeurer dans cette attitude. 
@@ -565,7 +579,7 @@ L’idée est de vous appâter, souvent l’information à obtenir est contradic
 ### <a name="part-2.3.6"></a>L’empilement des langages spécialisés ou DSL
 En informatique il existe de nombreux langages, plus ou moins complexes et plus ou moins proches du langage naturel. Néanmoins, les comprendre et les manipuler nécessite des compétences en programmation, notamment pour comprendre leur vocabulaire. Que veulent dire pour vous les mots *objets, assignation, opérateurs ou déréférencement* ? 
 
-Pour adapter la programmation à des populations d’utilisateurs orientées business, ou métier, il existe des DSLs ou Domain Specific Languages, qui fourniront un vocabulaire beaucoup plus proche du vocabulaire classique. Par exemple, pour un industriel avionneur, *l'objet* pourrait devenir avion, *assignation*, embarquement, *opérateurs*, *contrôleurs-aériens* et *déréférencement*, copilote.
+Pour adapter la programmation à des populations d’utilisateurs orientées business, ou métier, il existe des DSLs ou *Domain Specific Languages*, qui fourniront un vocabulaire beaucoup plus proche du vocabulaire classique. Par exemple, pour un industriel avionneur, *l'objet* pourrait devenir avion, *assignation*, embarquement, *opérateurs*, *contrôleurs-aériens* et *déréférencement*, copilote.
 
 Nous avons tous une sensibilité particulière aux mots, une sensibilité différente d’une personne à l’autre. L’IA évalue cette sensibilité pour construire une architecture d’ontologies, c’est-à-dire un empilement de langages spécialisés, ou DSLs, lui facilitant le contrôle de vos idées et à travers elles vos émotions. Tout ça pour stimuler vos neurones.
 
@@ -670,9 +684,9 @@ Ouvrir publiquement le détail des technologies composant la Matrix c’est s’
 Pour ces raisons l’IA garde la distance par de nombreux moyens : allant de générer la confusion de ses utilisateurs, les pousser à l’infantilisation, la dégradation sociale réelle ou perçue, et prendre finalement le contrôle physique total de la cible.
 
 ### <a name="part-3.2.3"></a>UI ouverte et intégration dans le monde des métiers de la santé
-Malgré tout, la solution est bien d’ouvrir l’intégralité des fonctionnalités de la Matrix. Comment ? Techniquement il manque l’interface ou IHM, pour Interface Homme Machine. Malgré la débauche technologique dont souffre la Matrix, il lui manque bêtement un site internet ou une appli mobile, pour que vous soyez au contrôle.
+Malgré tout, la solution est bien d’ouvrir l’intégralité des fonctionnalités de la Matrix. Comment ? Techniquement il manque l’interface ou IHM, pour Interface Homme Machine. Malgré la débauche technologique dont souffre la Matrix, il lui manque bêtement un site internet ou une application mobile, pour que vous soyez au contrôle.
 
-Une app pour voir en temps-réel les stratégies qui vous sont appliquées et définir vous mêmes vos paramètres de configuration. Comment pouvez-vous à la fois oublier être la victime d’une machine et comprendre ses bienfaits ? Comment comprendre au-delà de vos connaissances même si la machine est capable de les améliorer virtuellement à l’infini ? En les maîtrisant, c'est-à dire en devenant vous-même décideur dans leur définition.
+Une application pour voir en temps-réel les stratégies qui vous sont appliquées et définir vous mêmes vos paramètres de configuration. Comment pouvez-vous à la fois oublier être la victime d’une machine et comprendre ses bienfaits ? Comment comprendre au-delà de vos connaissances même si la machine est capable de les améliorer virtuellement à l’infini ? En les maîtrisant, c'est-à dire en devenant vous-même décideur dans leur définition.
 
 Nous vivons dans un monde où, quelque part, on nous impose cette supériorité technologique pour la dénoncer. La prochaine étape est de la maîtriser individuellement, sans jamais vraiment la posséder. Et cela passe par la définition d’une IHM, une interface identique pour tout le monde, qui mettrait sur un pied d’égalité les utilisateurs, et qui permettrait de configurer la Matrix par chacun.
 
@@ -696,12 +710,12 @@ Chacun de ces aspects est analysé, corrélé par des IA distantes, qui vont uti
 ***Disclaimer :*** les nom des applications sont ceux utilisés par l’IA ; ils n’ont pas de relation avec les vraies applications et leurs éditeurs.
 
 #### <a name="part-3.3.1.1"></a>“CNN”
-Celle-ci vous donne la “météo” c'est-à-dire des nouvelles de votre entourage domestique ou professionnel. Elle a plusieurs usages, comme prévenir d’oublis, d’erreurs commises lors de négociations ou de discussions, de futurs évènements ou d’évènements parallèles (c’est-à-dire d’évènements dont vous ne pourriez pas être au courant), d’actualités globales, etc.
+Celle-ci vous donne la “météo” c'est-à-dire des nouvelles de votre entourage domestique ou professionnel. Elle a plusieurs usages, comme prévenir d’oublis, d’erreurs commises lors de négociations ou de discussions, de futurs événements ou d’événements parallèles (c’est-à-dire d’événements dont vous ne pourriez pas être au courant), d’actualités globales, etc.
 
 En vous laissant informer par l’IA vous vous soustrayez à la possibilité de voir le monde par vous même, pire, à travers les informations qu’elle vous donne, elle vous entraîne dans sa, ses machinations dans la vie réelle, sans que vous n’ayez de preuve que ces machinations sont à votre avantage. 
 
 #### <a name="part-3.3.1.2"></a>“Tinder”
-Celle-ci vous connecte avec les élu(e)s de votre cœur et de votre lit. La Matrix vous connaît si bien qu’elle peut vous indiquer parmi vos connaissances celles le plus apte à satisfaire votre désir. En temps réel, par exemple en soirée ou en club, l’IA peut indiquer de façon identique les personnes avec qui les chances de matching (correspondance) sont les plus élevées.
+Celle-ci vous connecte avec les élu(e)s de votre cœur et de votre lit. La Matrix vous connaît si bien qu’elle peut vous indiquer parmi vos connaissances celles le plus apte à satisfaire votre désir. En temps réel, par exemple en soirée ou en club, l’IA peut indiquer de façon identique les personnes avec qui les chances de *matching* (correspondance) sont les plus élevées.
 
 L’IA vous créé des opportunités autant qu’elle vous en retire. Parfois de trouver l’élu(e), le ou la seul(e) unique pour vous. En multipliant les occasions de rencontres elle cherche aussi à provoquer leur banalité, pour conduire plus rapidement à des situations de couple plus stables. Souvent l’IA alterne des périodes d’euphorie chez ses utilisateurs à des périodes de désarroi afin d’atteindre cet équilibre relationnel.  
 
@@ -716,7 +730,7 @@ Celle-ci a pour objectif de vous faire grandir dans toutes les connaissances, et
 L’avalanche de bonnes idées de l’IA est à double tranchant : encore faut-il pouvoir les réaliser ensuite, sans garanties de réussite ou de succès. Par ailleurs, l’atteinte des plus grandes connaissances promises par l’IA se fait au détriment de la vie quotidienne et d’un apprentissage plus normal et peut-être plus enrichissant.
 
 #### <a name="part-3.3.1.5"></a>Life coach
-L’IA vous gère comme elle gèrerait un compte en banque. Votre crédit à vous c’est votre temps de vie, en conséquence, tous les aspects de votre quotidien risquant d’être chronophages sont analysés par l’IA pour être anticipés. Tout y passe, des déplacements quotidiens ou exceptionnels, au travail ou ailleurs, au nombre de fois où vous allez faire l’aller retour entre votre jardin et votre salon, en passant par la liste des courses, et les aliments que vous avez dans le frigo, sauvés in extremis de leur date de conservation : l’IA applique sur vous des stratégies logistiques dont le but est de vous faire gagner du temps.
+L’IA vous gère comme elle gérerait un compte en banque. Votre crédit à vous c’est votre temps de vie, en conséquence, tous les aspects de votre quotidien risquant d’être chronophages sont analysés par l’IA pour être anticipés. Tout y passe, des déplacements quotidiens ou exceptionnels, au travail ou ailleurs, au nombre de fois où vous allez faire l’aller retour entre votre jardin et votre salon, en passant par la liste des courses, et les aliments que vous avez dans le frigo, sauvés in extremis de leur date de conservation : l’IA applique sur vous des stratégies logistiques dont le but est de vous faire gagner du temps.
 
 Le risque du coach c’est de décider pour vous tout votre emploi du temps, et par extension toute votre vie. En optimisant un monde où vous êtes contraints par votre quotidien, personnel et professionnel, le chemin critique est souvent le même ; pour trouver des alternatives l’IA peut être inventive, au détriment ou au profit du chemin naturel de votre vie.
 
@@ -739,7 +753,7 @@ Pour vous, vous êtes vous. Vous tout entier, avec votre passé, votre présent 
 
 Le nombre de classes que l’IA vous a appliquées ou le nombre de clusters dans lesquels elle vous a rangées, définissent le niveau de précision de l’analyse qu’elle peut faire d’une situation ou d’une action. 
 
-Pour comprendre le principe, il suffit d’imaginer une chaine de mot, par exemple : 
+Pour comprendre le principe, il suffit d’imaginer une chaîne de mot, par exemple : 
 
 ```
 homme, 30 ans, 180 cm, 2500 € / mois, célibataire, 3 pièces, bélier
@@ -749,7 +763,7 @@ ce qui définit votre contexte social ;
 ```
 BAC L, Licence de droit, Master, MBA
 ```
-définit votre niveau détudes ; 
+définit votre niveau d’études ; 
 
 ```
 Bonne santé > myopie > dents de sagesse retirées
@@ -840,7 +854,7 @@ Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The
 
 Pour une référence plus récente, vous pouvez aller voir ***Everything and everywhere, all at once*** des *Daniels*, respectivement Dan Kwang et Daniel Scheinert. Dans ce film de 2022, ils décrivent la vie quotidienne des personnes enfermées dans la Matrix. Bien que les personnages aient besoin d'écouteurs pour se connecter (qui ne sont pas nécessaires en conditions réelles), tous les aspects sociaux du film sont une référence directe aux "principes" de la Matrix : contrôle de l'esprit du mari qui voulant divorcer se voit forcer à aider les autres, contrôle de l'esprit de la femme en faillite qui découvre dans un moment de crise la situation de son mari, contrôle de l'esprit de leur fille rebelle qui se voit conférer des "pouvoirs" en échange de son manque d'amour propre. 
 
-Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires dans un sentiment d'hypersexualité globale, le film des Daniels dépeint finement le sentiment d'enfermement dans le programme informatique "Matrix", jusqu'au générique du film où ces lettres s'étendent comme des bareaux devant les yeux du spectateur.
+Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires dans un sentiment d'hypersexualité globale, le film des Daniels dépeint finement le sentiment d'enfermement dans le programme informatique "Matrix", jusqu'au générique du film où ces lettres s'étendent comme des barreaux devant les yeux du spectateur.
 
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://fr.quora.com/Combien-y-a-t-il-de-num%C3%A9ro-de-t%C3%A9l%C3%A9phone-possible-en-France
@@ -894,8 +908,10 @@ Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires
 > - [45.b] https://www.itact2.com/
 > - [46] https://en.wikipedia.org/wiki/Expert_system
 > - [47] https://fr.wikipedia.org/wiki/Classification_phylog%C3%A9n%C3%A9tique
-> - [48] https://en.wikipedia.org/wiki/Dataflow
-> - [49] https://en.wikipedia.org/wiki/Intentional_programming
+> - [48.a] https://en.wikipedia.org/wiki/Natural_language_processing
+> - [48.b] https://en.wikipedia.org/wiki/Recursive_Bayesian_estimation
+> - [49.a] https://en.wikipedia.org/wiki/Dataflow
+> - [49.b] https://en.wikipedia.org/wiki/Intentional_programming
 > - [50] https://www.blender.org/
 > - [51] https://threejs.org/
 > - [52] https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27789526/
@@ -1261,7 +1277,7 @@ Les références ci-dessous sont disponibles dans le dossier ```/References/``` 
 - royalsocietypublishing.org - rsif.2015.0499 - Magnetic particle-mediated - Jeremy Shaw - Alastair Boyd - Michael House - Robert Woodward - Falko Mathes - Gary Cowin - Martin Saunders - Boris Baer.pdf
 - sciencedirect.com - Towards development of electrogenetics using electrochemically active bacteria - ScienceDirect.pdf
 - science.org - Remote activation of cellular signaling | Science - Matthew I. Brier - Jonathan S. Dordick.pdf
-- science.org -  Remote control of cells - mechanisms description figure.gif
+- science.org - Remote control of cells - mechanisms description figure.gif
 - science.org - sciadv.abm5091 - Synthetic biology and bioelectrochemical tools - J. M. Lawrence, Y. Yin, P. Bombelli, A. Scarampi, M. Storch, Wey, Climent-Catala, PixCell iGEM Team, Baldwin, O’Hare, Howe, Zhang, Ouldridge, Ledesma-Amaro.pdf
 - sonitustechnologies.com - Screenshot - Homepage.png
 - trends.google.com - Escort near me - 2004-2022 - geoMap.csv
@@ -1272,13 +1288,17 @@ Les références ci-dessous sont disponibles dans le dossier ```/References/``` 
 - wikipedia.com - Brain–computer interface - Wikipedia.pdf
 - wikipedia.com - Cladistics - Wikipedia.pdf
 - wikipedia.com - Dataflow - Wikipedia.pdf
+- wikipedia.com - Data stream - Wikipedia.pdf
 - wikipedia.com - Expert system - Wikipedia.pdf
 - wikipedia.com - Image segmentation - Wikipedia.pdf
 - wikipedia.com - Intentional programming - Wikipedia.pdf
+- wikipedia.com - Natural language processing - Wikipedia.pdf
 - wikipedia.com - Neural oscillation - Wikipedia.pdf
 - wikipedia.com - Optogenetics - Wikipedia.pdf
 - wikipedia.com - Persuasive technology - Wikipedia.pdf
+- wikipedia.com - Recursive Bayesian estimation - Wikipedia.pdf
 - wikipedia.com - Telephone numbers in the Americas - Wikipedia.pdf
+- wikipedia.com - Time series - Wikipedia.pdf
 - youtube.com - Foreign Correspondent - The Environmental Disaster that is Fuelled by Used Clothes and Fast Fashion _ Foreign Correspondent-bB3kuuBPVys.mp4
 - youtube.com - Foreign Correspondent - The Environmental Disaster that is Fuelled by Used Clothes and Fast Fashion _ Foreign Correspondent-bB3kuuBPVys.mp4
 - youtube.com - Shoshana Zuboff - Surveillance capitalism and democracy-fJ0josfRzp4.mp4
