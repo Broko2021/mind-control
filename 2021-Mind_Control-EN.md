@@ -62,7 +62,13 @@
       - [The technical-social-cognitive debt](#part-3.4.3)
       - [Long-lasting practices](#part-3.4.4)
 - [Conclusion](#outro)
-- [Bibliography and other references](#ref)
+- [Bibliography and references](#ref)
+   - [Darknet references](#ref-darknet)
+   - [Cinematographic references](#ref-movies)
+   - [Internet references](#ref-public)
+      - [Bibliography (internal)](#ref-guide)
+      - [Bibliography (external)](#ref-ext)
+      - [Bibliography (local)](#ref-local)
 
 ---
 
@@ -840,11 +846,17 @@ Are we brave? Are we ready to face our worst selves? How far of our comfort zone
 
 # <a name="ref"></a>Bibliography and other references
 
-## Public references
+**Most references quoted in the guide are available locally in the ```/references/``` folder.**
 
-**All public references quoted in the guide are available locally in the ```/references/``` folder.**
+## <a name="ref-darknet"></a>Darknet references
 
 There are at least two other guides of this type available on the Darknet, the ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) one focusing on political and philosophical aspects, and ["How to exit the Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) detailing aspects related to digital security. 
+
+They refer to the Matrix "voices", which is the program main feature, the AI ability to synthetize voices and transmist them directly into brains.
+
+## <a name="ref-movies"></a>Cinematographic references
+
+References to the Matrix software are numerous in art, especially in the music and movie industries. 
 
 If you are a moviegoer, you may have a watch at these movies :
 - [The Manchurian candidate (J. Frankenheimer, 1962)](https://www.imdb.com/title/tt0056218)
@@ -854,9 +866,15 @@ If you are a moviegoer, you may have a watch at these movies :
 
 Each depicting a specific aspect of mind control : hypnosis in *The Manchurian candidate*, cognitive manipulation in *Seconds*, telecommunication network in *Network*.
 
-For a more recent reference, readers can have a look at ***Everything and everywhere, all at once*** from the *Daniels*, namely Dan Kwang and Daniel Scheinert. In this 2022 movie, they depict the daily life of people locked within the Matrix. Although the characters need specific earplugs in the movie (which are not needed in real life), most of the social aspects described in the movie are direct references to some of the Matrix "features" : mind control of the divorcing husband constantly tamed into "saving" the situation, mind control of the bankrupted wife who discovers her husband fate in a crisis moment, mind control of the rebel daughter who gets "powers" out of her personal lack of self-respect. 
+For a more recent movie, readers can have a look at ***Everything and everywhere, all at once*** from the *Daniels*, namely Dan Kwang and Daniel Scheinert. In this 2022 movie, they depict the daily life of people locked within the Matrix. Although the characters need specific earplugs in the movie (which are not needed in real life), most of the social aspects described in the movie are direct references to some of the Matrix "features" : mind control of the divorcing husband constantly tamed into "saving" the situation, mind control of the bankrupted wife who discovers her husband fate in a crisis moment, mind control of the rebel daughter who gets "powers" out of her personal lack of self-respect.
 
-Beyond denouncing domestic, administrative and security tensions within the global nowadays hypersexual feeling, Daniels' movie is a very fine grained picture of the locked feeling felt within the "Matrix" software, down to the movie generic where title letters extend as jail bars in front of the spectator eyes.
+Beyond denouncing domestic, administrative and security tensions within the global nowadays hypersexual feeling, Daniels' movie is a very fine grained depiction of being locked within the "Matrix" software, down to the movie generic where title letters extend as jail bars in front of the spectator eyes.
+
+## <a name="ref-public"></a>Internet references
+
+### <a name="ref-guide"></a>Bibliography (internal)
+
+Links below are the references quoted in the guide.
 
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://en.wikipedia.org/wiki/Telephone_numbers_in_the_Americas
@@ -925,11 +943,11 @@ Beyond denouncing domestic, administrative and security tensions within the glob
 > - [55] https://en.wikipedia.org/wiki/Neural_oscillation
 > - [56] https://en.wikipedia.org/wiki/Image_segmentation
 
-## External references:
+### <a name="ref-ext"></a>Bibliography (external)
 
-1. shared on Reddit by "My Mindcontrol Informer": 
+Links below were shared over Reddit by "My Mindcontrol Informer" user: 
 
-**Warning** : consult below links at your own risks and if possible through a VPN service.
+**Warning** : consult below links at your own risks and through a (good) VPN service.
 
 - http://b4intest.blogspot.com/2013/09/elf-technology-and-microwave-based-mind.html?m=1
 - http://blog.offplanetmedia.net/electronic-stalking-and-mind-control/ - http://carpathian_bronze.tripod.com/synthetic-telepathy.html 
@@ -976,7 +994,7 @@ Beyond denouncing domestic, administrative and security tensions within the glob
 - https://cal.lmu.edu/event/battlefield_brain_neuro-weapons_and_the_challenge_of_dual-use_brain_science_luncheon 
 - https://citizentruth.org/pentagon-mind-controlled-military-technology/amp/ 
 - https://climateviewer.com/2014/10/11/haarp-elf-generation-mass-mind-control/ 
-- https://cognitive-liberty.online/jose-delgado-implants-and-electromagnetic-mind-control-stopping-the-furious-bull/ 
+- https://cognitive-liberty.online/jose-delgado-implants-and-electromagnetic-mind-control-stopping-the-furious-bull/
 - https://conspiracyrevelation.com/2019/10/09/mind-control-using-implant-technology/ https://conspiracytheoriesarchives.com/blog/post/silent-mind-control-direct-energy-weapons-or-psychotronic-weapons
 - https://constantinereport.com/psychotronic-electromagnetic-weapons-remote-control-human-nervous-system/ 
 - https://crazzfiles.com/directed-energy-weapons-electronic-harassment-remote-neural-monitoring/ 
@@ -1193,7 +1211,7 @@ Beyond denouncing domestic, administrative and security tensions within the glob
 - https://www.rt.com/news/424734-us-counterterrorism-center-mind-control/ 
 - https://www.rt.com/news/weapons-future-zombie-media-486/amp/ 
 - https://www.schein-schizo.de/mind-control-symptome/ 
-- https://www.sciencetimes.com/articles/31428/20210528/neuralink-brain-chip-will-end-language-five-10-years-elon.htm 
+- https://www.sciencetimes.com/articles/31428/20210528/neuralink-brain-chip-will-end-language-five-10-years-elon.html 
 - https://www.scientificamerican.com/article/could-certain-frequencies/ 
 - https://www.seeker.com/amphtml/your-brain-in-2050-neural-implants-and-robotic-limbs-1768621916.html 
 - https://www.semanticscholar.org/paper/Mind-Control-with-Electromagnetic-Frequency-Liu/bdc05c06bbc9b92e594ff9eac1f05e698f300758 
@@ -1239,7 +1257,7 @@ Beyond denouncing domestic, administrative and security tensions within the glob
 - https://zersetzung-heute.de/ 
 
 
-## Local references (for archiving sake)
+### <a name="ref-local"></a>Bibliography (local)
 
 Below references are available in the ```/References/``` folder:
 
