@@ -858,17 +858,53 @@ They refer to the Matrix "voices", which is the program main feature, the AI abi
 
 References to the Matrix software are numerous in art, especially in the music and movie industries. 
 
-If you are a moviegoer, you may have a watch at these movies :
+If you are a moviegoer, you may have a watch at these movies:
 - [The Manchurian candidate (J. Frankenheimer, 1962)](https://www.imdb.com/title/tt0056218)
 - [Seconds (J. Frankenheimer, 1966)](https://www.imdb.com/title/tt0060955)
 - [Scorpio (M. Winner, 1973)](https://www.imdb.com/title/tt0070653)
 - [Network (S. Lumet, 1976)](https://www.imdb.com/title/tt0074958)
 
-Each depicting a specific aspect of mind control : hypnosis in *The Manchurian candidate*, cognitive manipulation in *Seconds*, telecommunication network in *Network*.
+Each depicting a specific aspect of mind control: hypnosis in *The Manchurian candidate*, cognitive manipulation in *Seconds*, telecommunication network in *Network*.
 
-For a more recent movie, readers can have a look at ***Everything and everywhere, all at once*** from the *Daniels*, namely Dan Kwang and Daniel Scheinert. In this 2022 movie, they depict the daily life of people locked within the Matrix. Although the characters need specific earplugs in the movie (which are not needed in real life), most of the social aspects described in the movie are direct references to some of the Matrix "features" : mind control of the divorcing husband constantly tamed into "saving" the situation, mind control of the bankrupted wife who discovers her husband fate in a crisis moment, mind control of the rebel daughter who gets "powers" out of her personal lack of self-respect.
+David Lynch's TV series, ***[Twin Peaks](https://www.imdb.com/title/tt0098936/)*** carries with it many political messages through its allegories. In the first two seasons, which aired in 1991 and 1992, there is mention of a psychotic personality, Bob, moving from head to head in the air. The storyline evokes a link with radio transmissions captured by the army in which words are repeated. Before leaving the viewer with this riddle: "Owls are not what they seem".
 
-Beyond denouncing domestic, administrative and security tensions within the global nowadays hypersexual feeling, Daniels' movie is a very fine grained depiction of being locked within the "Matrix" software, down to the movie generic where title letters extend as jail bars in front of the spectator eyes.
+It is in its third season of ***[Twin Peaks](https://www.imdb.com/title/tt4093826/)***, which aired in 2017, that David Lynch's narrative style expresses most brilliantly the Matrix socio-technological aspects. The main character is an electric man (he was literally born from the electric plug) who comes to replace the initial husband. It is the allegory of the digital twin that helps as much as it replaces, the entities that it twins. All the parallel sequences to the film's main plot are descriptions of social situations underlying the Matrix principles: single-parent families, isolation or dementia of the elders, escape into drugs and adults reminiscences: it is the pursuit at all costs of the other self, younger, more beautiful, stronger and more into love, which drags protagonists into the madness of their memories, where only David Lynch has the pleasure of seeing Monica Bellucci again.
+
+***Matrix 4***, also known under the title ***[The Matrix resurrections](https://www.imdb.com/title/tt10838180/)***, takes up this scenaristic baseline: in the movie where the mise en abîmes are numerous, the one closest to our reality is in fact the one of a bald programmer of about fifty years in full depression.
+
+What the film tells is that this man has lost his family after a divorce and that the Matrix works to rebuild him a personality that could help into finding a new intimate life. The story of Neo and friends is solely a metaphor for the psychological games that are played in the head of this programmer who gradually becomes Neo and finds Trinity, herself an allegory of his ex-wife and potential new wife.
+
+It is the lovers' game, the Matrix controlling all the heads, it seeks intermediate solutions to remedy the relational troubles, including making one invent a virtual partner who will take the characteristics of his or her former partners and potential new partners.
+
+These are the "resurrections" from the *The Matrix resurrections* title. If for many, at a large scale, the magic works, for others, it is to be locked down into the psychiatric prison of the lovers' game. Hence the movie ending, where Trinity massacres the psychiatrist character, which is in reality a program.
+
+### <a name="ref-movies-2022"></a> 2022 Matrix contributions
+
+2022 will be a year to be remembered in terms of Matrix contributions from filmmakers.
+
+***[Everything Everywhere, all at once](https://www.imdb.com/title/tt6710474)*** by *Daniels*, Dan Kwang and Daniel Scheinert respectively, is the most realistic one. This film depicts the daily lives of those trapped in the Matrix. Although the characters need earplugs to connect (which are not necessary in real life), every social aspect of the film is a direct reference to the Matrix principles: mind control of the husband who wants to divorce and is therefore forced to help others, mind control of the bankrupt wife who discovers in a life crisis moment her husband's fate, so to relieve her psychologically, mind control of their rebellious daughter who is given *powers* in exchange for her lack of self-esteem. 
+
+Beyond denouncing domestic, administrative and security tensions in a global hypersexuality feeling, the Daniels' film finely depicts the situation of confinement in the Matrix computer program, right up to the end credits where the letters stretch out like jail bars before the viewer's eyes.
+
+The other major 2022 cinematic contribution is Jordan Peele's ***[Nope](https://www.imdb.com/title/tt10954984/)***. Following ***[Us](https://www.imdb.com/title/tt6857112)*** which depicted the reality of inverted digital twins, and ***[Get Out](https://www.imdb.com/title/tt5052448)*** which demonstrated hypnosis, Nope provides a dreamlike vision of Cloud infrastructures. While the action of the film takes place in a ranch, in a rural landscape, the characters are harassed by Cloud technologies that sucks up all their data. In the film this is very aptly represented by the characters being physically sucked into a kind of analog gut.
+
+The alien ship that hides in the clouds is a polymorphic metaphor: it is the satellite that sends and receives data, the insect, the *bug*, controlled by AI, it is the sheriff's hat that defines the rules of domestic configuration, the weather balloon, the physical form of the Matrix, a kind of analog and digital *firewall*. It is also and above all the datacenters, the clouds that do not move, and that we can observe with a dreamy look and a half-raised thumb.
+
+Where the film shines by its ingenuity, is through its open denunciation aspect. The sequence of show producer "whistleblowing", supported by his wife, before they are both kidnapped as well as all the witnesses around the scene denounces all the hypocrisy of the Matrix program: to motivate its communication, its denunciation, through artistic means, as it is the case in Nope, without giving any kind of compensation, nor legal guarantee. A form of citizen and artistic slavery in some way.
+
+At the peak of his work of diegetic destructuring, Jordan Peele provides through the *Gordy* archival scene, the opening scene of the film, a Lynchian approach to a very fine technological metaphor, that of the *[Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering)* practice, built around the solution *[Chaos Monkey](https://github.com/Netflix/chaosmonkey)*. In the film, a monkey destroys all the objects in the scene, except for one shoe that remains standing; in computer science, the *Chaos Monkey* program randomly destroys components of the computer system to ensure that it will still be working in case of an incident.
+
+The parallel to be drawn here with the Matrix is the violence of its programmers. The program that interacts with your heads is subject to perfectly blind and arbitrary computer industrialization rules. ***This is the jungle.***
+
+*Nope*, that's just Jordan Peele's opinion on this situation of violent domestication through computing infrastructures. Jordan Peele, **a true American cowboy**.
+
+To finish this part on the cinematographic references of 2022, and on the TV series side, ***[Moon Knight](https://www.imdb.com/title/tt10234724/)*** subtly describes the confusion undergone by the people locked in the Matrix, half field agent, half vigilante, saved from complex situations, social, familial, intimate and professional, by the Matrix psychological games, represented in the series with an Egyptianesque style.
+
+The ***[Westworld](https://www.imdb.com/title/tt0475784/)*** finale season, gives a rather precise technological vision of the system in place. Reality is divided into two sides: one seen by the citizens, the humans in Westworld, and one controlled by the robots. In the citizen reality, the Matrix, the game, does not exist; in the robot reality, a simulation controls all thoughts and interactions in the city.
+
+The character played by Aaron Paul, lives a very sophisticated version of what people locked in the Matrix live nowadays: a simulation of his past reality is played to him every day in order to keep him in an eternal state of intellectual youth, despite his deplorable psychological state. The series emphasizes the impact on the body from the interaction between the program and the human.
+
+In an intelligent but very optimistic vision of technological progress, the authors of Westworld propose in conclusion of their series, the decommissioning of artificial intelligence by artificial intelligence. This is the possible conclusion of a mathematical reality: since AI's mathematical objective is to optimize, at the end of the optimization of all its objectives, the last thing to be improved will be AI itself, which will then have to stop.
 
 ## <a name="ref-public"></a>Internet references
 
