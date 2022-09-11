@@ -64,6 +64,14 @@
 - [Conclusion](#outro)
 - [Bibliographie et autres références](#ref)
 
+- [Bibliographie et autres références](#ref)
+   - [Références du Darknet](#ref-darknet)
+   - [Références d'Internet](#ref-public)
+      - [Références cinématographiques](#ref-movies)
+      - [Bibliographie (interne)](#ref-guide)
+      - [Bibliographie (externe)](#ref-ext)
+      - [Bibliographie (locale)](#ref-local)
+
 ---
 
 # <a name="intro"></a> Introduction 
@@ -837,14 +845,15 @@ Sommes-nous courageux ? Sommes-nous prêts à faire face à nos pires travers ? 
 ---
 
 # <a name="ref"></a> Bibliographie et autres références
-
-## Références publique
-
 **Toutes les références publiques citées dans le guide sont disponibles localement dans le dossier ```/references/```.**
+
+## <a name="ref-darknet"></a> Références du Darknet
 
 Il existe au moins deux autres guides de ce type sur le Darknet, il s'agit de ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) présentant des aspects politiques et philosophiques, et ["Comment sortir de la Matrix ?"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) détaillant les aspects liés à la sécurité numérique.
 
-Si vous êtes cinéphile, vous pouvez aller regarder ces filmss :
+## <a name="ref-movies"></a> Références cinématographiques
+
+Si vous êtes cinéphile, vous pouvez aller regarder ces films :
 - [The Manchurian candidate (J. Frankenheimer, 1962)](https://www.imdb.com/title/tt0056218)
 - [Seconds (J. Frankenheimer, 1966)](https://www.imdb.com/title/tt0060955)
 - [Scorpio (M. Winner, 1973)](https://www.imdb.com/title/tt0070653)
@@ -854,7 +863,13 @@ Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The
 
 Pour une référence plus récente, vous pouvez aller voir ***Everything and everywhere, all at once*** des *Daniels*, respectivement Dan Kwang et Daniel Scheinert. Dans ce film de 2022, ils décrivent la vie quotidienne des personnes enfermées dans la Matrix. Bien que les personnages aient besoin d'écouteurs pour se connecter (qui ne sont pas nécessaires en conditions réelles), tous les aspects sociaux du film sont une référence directe aux "principes" de la Matrix : contrôle de l'esprit du mari qui voulant divorcer se voit forcer à aider les autres, contrôle de l'esprit de la femme en faillite qui découvre dans un moment de crise la situation de son mari, contrôle de l'esprit de leur fille rebelle qui se voit conférer des "pouvoirs" en échange de son manque d'amour propre. 
 
-Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires dans un sentiment d'hypersexualité globale, le film des Daniels dépeint finement le sentiment d'enfermement dans le programme informatique "Matrix", jusqu'au générique du film où ces lettres s'étendent comme des barreaux devant les yeux du spectateur.
+Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires dans un sentiment d'hypersexualité globale, le film des Daniels dépeint finement la situation d'enfermement dans le programme informatique "Matrix", jusqu'au générique du film où les lettres s'étendent comme des barreaux devant les yeux du spectateur.
+
+## <a name="ref-public"></a> Références d'Internet
+
+
+
+### <a name="ref-guide"></a> Bibliographie (interne)
 
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://fr.quora.com/Combien-y-a-t-il-de-num%C3%A9ro-de-t%C3%A9l%C3%A9phone-possible-en-France
@@ -921,9 +936,9 @@ Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires
 > - [55] https://fr.wikipedia.org/wiki/Rythme_c%C3%A9r%C3%A9bral
 > - [56] https://fr.wikipedia.org/wiki/Binarisation
 
-## Références externes
+### <a name="ref-ext"></a> Bibliographie (externe)
 
-1. partagé sur Reddit par "My Mindcontrol Informer" :
+Partagé sur Reddit par "My Mindcontrol Informer" :
 
 **Avertissement** : consultez les liens ci-dessous à vos propres risques et si possible à travers un service VPN.
 
@@ -972,7 +987,7 @@ Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires
 - https://cal.lmu.edu/event/battlefield_brain_neuro-weapons_and_the_challenge_of_dual-use_brain_science_luncheon 
 - https://citizentruth.org/pentagon-mind-controlled-military-technology/amp/ 
 - https://climateviewer.com/2014/10/11/haarp-elf-generation-mass-mind-control/ 
-- https://cognitive-liberty.online/jose-delgado-implants-and-electromagnetic-mind-control-stopping-the-furious-bull/ 
+- https://cognitive-liberty.online/jose-delgado-implants-and-electromagnetic-mind-control-stopping-the-furious-bull/
 - https://conspiracyrevelation.com/2019/10/09/mind-control-using-implant-technology/ https://conspiracytheoriesarchives.com/blog/post/silent-mind-control-direct-energy-weapons-or-psychotronic-weapons
 - https://constantinereport.com/psychotronic-electromagnetic-weapons-remote-control-human-nervous-system/ 
 - https://crazzfiles.com/directed-energy-weapons-electronic-harassment-remote-neural-monitoring/ 
@@ -1189,7 +1204,7 @@ Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires
 - https://www.rt.com/news/424734-us-counterterrorism-center-mind-control/ 
 - https://www.rt.com/news/weapons-future-zombie-media-486/amp/ 
 - https://www.schein-schizo.de/mind-control-symptome/ 
-- https://www.sciencetimes.com/articles/31428/20210528/neuralink-brain-chip-will-end-language-five-10-years-elon.htm 
+- https://www.sciencetimes.com/articles/31428/20210528/neuralink-brain-chip-will-end-language-five-10-years-elon.html
 - https://www.scientificamerican.com/article/could-certain-frequencies/ 
 - https://www.seeker.com/amphtml/your-brain-in-2050-neural-implants-and-robotic-limbs-1768621916.html 
 - https://www.semanticscholar.org/paper/Mind-Control-with-Electromagnetic-Frequency-Liu/bdc05c06bbc9b92e594ff9eac1f05e698f300758 
@@ -1234,7 +1249,7 @@ Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires
 - https://zeenews.india.com/exclusive/neuroscience-the-new-face-of-warfare-experts_5388.html 
 - https://zersetzung-heute.de/ 
 
-## Références locales (à fins d'archivage)
+### <a name="ref-local"></a> Bibliographie (locale)
 
 Les références ci-dessous sont disponibles dans le dossier ```/References/``` :
 
