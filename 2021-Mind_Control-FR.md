@@ -727,7 +727,7 @@ En vous laissant informer par l’IA vous vous soustrayez à la possibilité de 
 #### <a name="part-3.3.1.2"></a>“Tinder”
 Celle-ci vous connecte avec les élu(e)s de votre cœur et de votre lit. La Matrix vous connaît si bien qu’elle peut vous indiquer parmi vos connaissances celles le plus apte à satisfaire votre désir. En temps réel, par exemple en soirée ou en club, l’IA peut indiquer de façon identique les personnes avec qui les chances de *matching* (correspondance) sont les plus élevées.
 
-L’IA vous créé des opportunités autant qu’elle vous en retire. Parfois de trouver l’élu(e), le ou la seul(e) unique pour vous. En multipliant les occasions de rencontres elle cherche aussi à provoquer leur banalité, pour conduire plus rapidement à des situations de couple plus stables. Souvent l’IA alterne des périodes d’euphorie chez ses utilisateurs à des périodes de désarroi afin d’atteindre cet équilibre relationnel.  
+L’IA vous créé des opportunités autant qu’elle vous en retire. Parfois de trouver l’élu(e), le ou la seul(e) unique pour vous. En multipliant les occasions de rencontres elle cherche aussi à provoquer leur banalité, pour conduire plus rapidement à des situations de couple plus stables. Souvent l’IA alterne des périodes d’euphorie chez ses utilisateurs à des périodes de désarroi afin d’atteindre cet équilibre relationnel. 
 
 #### <a name="part-3.3.1.3"></a>“Instagram”
 Celle-ci vous diffuse du contenu multimédia censé stimuler votre dopamine, à la manière des réseaux sociaux. C’est la plus difficile à comprendre car souvent éloignée de votre réalité pour justement s’en éloigner. Souvent elle accompagne à la création artistique, dessin, danse, chant, pour donner corps à ses contenus. 

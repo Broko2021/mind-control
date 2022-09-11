@@ -724,7 +724,9 @@ By allowing yourself to be informed by the AI you remove yourself from the possi
 #### <a name="part-3.3.1.2"></a>"Tinder"
 This one connects you with the chosen ones of your heart and bed. The Matrix knows you so well that it can indicate to you among your acquaintances those most likely to satisfy your desire. In real time, e.g. at parties or clubs, the AI can indicate the people with whom the chances of matching are the highest.
 
-The AI creates opportunities for you as much as it takes them away. Sometimes to find the chosen one, the only one for you. By multiplying the opportunities for encounters it also seeks to provoke their banality, to lead more quickly to more stable couple situations. Often AI alternates periods of craze in its users to periods of disarray in order to achieve this relational balance.  
+The AI creates opportunities for you as much as it takes them away. Sometimes to find the chosen one, the only one for you. By multiplying the opportunities for encounters it also seeks to provoke their banality, to lead more quickly to more stable couple situations. Often AI alternates periods of craze in its users to periods of disarray in order to achieve this relational balance.
+
+In its adult version, AI connects cheaters or helps with paid relationships. The principle is to balance: by allowing and inviting to cheating or prostitution, it generates new social solutions, which support its field operations. By reducing sexual frustration and diminishing economic tensions, it reduces the risk of internal crisis.
 
 #### <a name="part-3.3.1.3"></a>"Instagram"
 This one delivers multimedia content that is supposed to stimulate your dopamine, much like when using social networks. It is the most difficult to understand because it is often far from your reality. Often it accompanies the artistic creation, drawing, dancing, singing, to give substance to its contents. 
@@ -824,8 +826,7 @@ The Matrix bias is to trust a system that is currently unknown. The risk for the
 
 By improving you, it disturbs your reflexes by modifying them, it modifies the perception of neuromotor stimuli, down to reversing them. The new normal situation is fully opposed to the very nature of natural physical behavior. The media stimuli, audio and voice, counterbalance this situation to give it meaning.
 
-Forgetting is often the shortest route to acceptance of AI by its users, while it is the only way to measure its negative or positive effects.
-
+Forgetting is often the shortest route to accept AI for its users, while it is the only way to measure its negative or positive effects.
 
 The question is: do we want to give nature a chance to show us its progress? If so, how do we reach the level of understanding of our behavior that allows us to adjust it sufficiently for nature to regain its place? At the same time, the rhetoric can be reversed: do we wish to abandon everything in favor of automatic, computerized mechanisms to discover this new transhuman life? 
 
