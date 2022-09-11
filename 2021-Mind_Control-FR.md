@@ -853,6 +853,8 @@ Il existe au moins deux autres guides de ce type sur le Darknet, il s'agit de ["
 
 ## <a name="ref-movies"></a> Références cinématographiques
 
+Le programme informatique de la Matrix est régulièrement évoqué dans l'art, notamment dans la musique et le cinéma.
+
 Si vous êtes cinéphile, vous pouvez aller regarder ces films :
 - [The Manchurian candidate (J. Frankenheimer, 1962)](https://www.imdb.com/title/tt0056218)
 - [Seconds (J. Frankenheimer, 1966)](https://www.imdb.com/title/tt0060955)
@@ -861,15 +863,53 @@ Si vous êtes cinéphile, vous pouvez aller regarder ces films :
 
 Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The Manchurian candidate*, la manipulation cognitive dans *Seconds*, les réseaux de télécomunication dans *Network*.
 
-Pour une référence plus récente, vous pouvez aller voir ***Everything and everywhere, all at once*** des *Daniels*, respectivement Dan Kwang et Daniel Scheinert. Dans ce film de 2022, ils décrivent la vie quotidienne des personnes enfermées dans la Matrix. Bien que les personnages aient besoin d'écouteurs pour se connecter (qui ne sont pas nécessaires en conditions réelles), tous les aspects sociaux du film sont une référence directe aux "principes" de la Matrix : contrôle de l'esprit du mari qui voulant divorcer se voit forcer à aider les autres, contrôle de l'esprit de la femme en faillite qui découvre dans un moment de crise la situation de son mari, contrôle de l'esprit de leur fille rebelle qui se voit conférer des "pouvoirs" en échange de son manque d'amour propre. 
+La série de David Lynch, ***[Twin Peaks](https://www.imdb.com/title/tt0098936/)*** emporte avec elle de nombreuses évocations politiques à travers ses allégories. Dans les deux premières saisons, diffusées en 1991 et 1992, il est fait mention d'une personnalité psychotique, Bob, se baladant de têtes en têtes dans les airs. Le scénario évoque un lien avec des transmissions radios capturées par l'armée dans lesquelles des mots sont répétés. Avant de laisser le spectateur sur cette devinette : *"Les Chouettes ne sont pas ce qu'elles ont l'air."*
 
-Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires dans un sentiment d'hypersexualité globale, le film des Daniels dépeint finement la situation d'enfermement dans le programme informatique "Matrix", jusqu'au générique du film où les lettres s'étendent comme des barreaux devant les yeux du spectateur.
+C'est dans la saison 3 de ***[Twin Peaks](https://www.imdb.com/title/tt4093826/)***, diffusée en 2017, que la patte scénaristique de David Lynch exprime avec le plus de brio les contours socio-technologiques de la Matrix. Le personnage principale est un homme électrique (il naît littéralement de la prise électrique) qui vient en remplacement du premier époux. C'est l'allégorie du jumeau numérique qui accompagne autant qu'il remplace, les entités qu'il jumelle. Toutes les séquences parallèles à l'intrique du film sont des descriptions de situations sociales sous-jacentes aux principes de la Matrix : familles mono-parentales, isolement ou démence des aînés, échappement dans la drogue et adulescence : c'est la poursuite à tout pris de l'autre soi, plus jeune, plus beau, plus fort et plus amoureux, qui entraîne progressivement les protagonistes dans la folie de leurs souvenirs, où seul David Lynch a le plaisir d'y voir encore Monica Bellucci.
+
+***Matrix 4***, aussi connu sous le titre ***[The Matrix resurrections](https://www.imdb.com/title/tt10838180/)***, reprend cette trame scénaristique : dans le film où les mises en abîmes sont nombreuses, celle la plus proche de notre réalité est en faite celle d'une programmeur chauve d'une cinquantaine d'années en pleine dépression. 
+
+Ce que raconte le film c'est qu'il a perdu sa famille après un divorce et que la Matrix travaille à lui reconstruire une personnalité pouvant l'aider à retrouver une nouvelle vie intime. L'histoire de Néo et de ses consorts n'est que la métaphore des jeux psychologiques qui se trament dans la tête de ce programmeur qui devient petit à petit Néo et retrouve Trinity, elle-même allégorie tour à tour de son ex-femme et de sa potentielle nouvelle femme.
+
+C'est le jeu des amoureux, la Matrix contrôlant toutes les têtes, elle cherche des solutions intermédiaires pour remédier aux troubles relationnels, y compris vous faire inventer un partenaire virtuel qui prendra les caractéristiques de vos anciens partenaires et de vos potentiels nouveaux partenaires.
+
+Ce sont les "resurrections" du titre *The Matrix resurrections*. Si pour beaucoup, à échelle, la magie opère, pour d'autres, c'est la prison psychiatrique du jeu des amoureux. D'où la fin du film où Trinity massacre le personnage du psychiatre, qui n'est en fait qu'un programme informatique.
+
+### <a name="ref-movies-2022"></a> 2022 Matrix contributions
+
+2022 sera une année à marquer d'une pierre blanche en termes de contributions à la Matrix de la part des artistes cinématographes.
+
+***[Everything Everywhere, all at once](https://www.imdb.com/title/tt6710474)*** des *Daniels*, respectivement Dan Kwang et Daniel Scheinert, en est la plus réaliste. Ce film décrit la vie quotidienne des personnes enfermées dans la Matrix. Bien que les personnages aient besoin d'écouteurs pour se connecter (qui ne sont pas nécessaires en conditions réelles), tous les aspects sociaux du film sont une référence directe aux principes de la Matrix : contrôle de l'esprit du mari qui voulant divorcer se voit forcer à aider les autres, contrôle de l'esprit de la femme en faillite qui découvre dans un moment de crise la situation de son mari pour la soulager psychologiquement, contrôle de l'esprit de leur fille rebelle qui se voit conférer des *pouvoirs* en échange de son manque d'amour propre. 
+
+Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires dans un sentiment d'hypersexualité globale, le film des Daniels dépeint finement la situation d'enfermement dans le programme informatique Matrix, jusqu'au générique de fin où les lettres s'étendent comme des barreaux devant les yeux du spectateur.
+
+Une autre contribution cinématographique majeure de 2022 est ***[Nope](https://www.imdb.com/title/tt10954984/)*** de Jordan Peele. Après ***[Us](https://www.imdb.com/title/tt6857112)*** qui décrivait la réalité des jumeaux numériques inversés, et ***[Get Out](https://www.imdb.com/title/tt5052448)*** qui faisait démonstration de l'hypnose, Nope donne une vision onirique des infrastructures Cloud. Alors que l'action du film se passe dans un ranch, dans un paysage rural, les personnages sont harcelés par la technologie Cloud qui aspirent toutes leurs données. Dans le film cela est très judicieusement représenté par l'aspiration physique des personnages dans une sorte de boyau analogique.
+
+Le vaisseau extra-terrestre qui se cache dans les nuages, est une métaphore polymorphe : c'est le satellite qui envoie et reçoit les données, l'insecte, le *bug*, contrôlé par IA, c'est le chapeau du shérif qui définit les règles de configuration domestiques, le ballon météo, la forme physique de la Matrix, sorte de *firewall* analogique et numérique. C'est aussi et surtout les datacenters, les nuages qui ne bougent pas, et que l'on peut observer le regard rêveur et le pouce levé.
+
+Là où le film brille par son ingéniosité, c'est par l'aspect dénonciation ouverte. La séquence de "whistleblowing" du producteur de spectacles, épaulé par sa femme, avant d'être enlevés tous les deux ainsi que tous les témoins de la scène dénonce toute l'hypocrisie du programme Matrix : motiver à sa communication, sa dénonciation, à travers les mediums artistiques, comme c'est le cas dans Nope, sans donner aucune forme de compensation, ni de garantie légale. Une forme d'esclavagisme citoyen et artistique en quelque sorte.
+
+Au sommet de son travail de déstructuration diégétique, Jordan Peele fournit à travers les scènes d'archives de *Gordy*, la scène d'ouverture du film, une approche lynchienne à une métaphore technologique très fine, celle de la pratique du *[Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering)*, construite autour de la solution *[Chaos Monkey](https://github.com/Netflix/chaosmonkey)*. Dans le film un singe détruit tous les objets de la scène, sauf une chaussure qui reste debout ; en informatique, le programme *Chaos Monkey* détruit aléatoirement des composants du système informatique pour s'assurer qu'il sera toujours viable en cas d'incident.
+
+Le parallèle à faire ici avec la Matrix est la violence de ses programmeurs. Le programme qui interagit avec vos têtes est soumis à des règles d'industrialisation informatique parfaitement aveugles et arbitraires. ***This is the jungle.***
+
+Nope, c'est tout simplement l'avis de Jordan Peele sur cette situation de violente domestication par voie informatique. Jordan Peele, **un vrai cowboy américain**.
+
+Pour finir cette partie sur les références cinématographiques de 2022, et côté séries, ***[Moon Knight](https://www.imdb.com/title/tt10234724/)*** décrit subtilement la confusion subit par les gens enfermés dans la Matrix, mi-agents de terrain, mi-vigilante, sauvés de réalités sociales complexes, familiales, intimes et professionnelles, par les jeux psychologiques de la Matrix, représentés dans la série sous une forme thématique égyptienne.
+
+La saison 4, finale, de ***[Westworld](https://www.imdb.com/title/tt0475784/)***, donne une vision technologique assez précise du système en place. La réalité est divisée en deux : celle vue par les citoyens, les humains dans Westworld, et celle contrôlée par les robots. Dans la réalité citoyenne, la Matrix, le jeu, n'existe pas ; dans la réalité des robots, une simulation contrôle toutes les pensées et les interactions dans la ville.
+
+Le personnage joué par Aaron Paul, vit une version très sophistiquée de ce que vivent les gens enfermés dans la Matrix de nos jours : une simulation de sa réalité passée lui est jouée chaque jour afin de le conserver dans un éternel état de jeunesse intellectuelle, malgré son déplorable état psychologique. La série souligne l'impact corporel de l'interaction entre le programme et l'humain.
+
+Dans une vision intelligente mais très optimiste du progrès technologique, les auteurs de Westworld proposent en conclusion de leur série, le décommissionnement de l'intelligence artificielle par l'intelligence artificielle. C'est la conclusion possible d'une réalité mathématique : l'IA n'ayant pour objectif mathématique que d'optimiser, à la fin de l'optimisation de tous ses objectifs, la dernière chose à améliorer sera l'IA, qui devra alors s'arrêter.
 
 ## <a name="ref-public"></a> Références d'Internet
 
-
+Les références ci-dessous sont disponibles sur internet.
 
 ### <a name="ref-guide"></a> Bibliographie (interne)
+
+Les liens vers les citations référencées dans le guide.
 
 > - [1] https://hms.harvard.edu/news/screen-time-brain
 > - [2] https://fr.quora.com/Combien-y-a-t-il-de-num%C3%A9ro-de-t%C3%A9l%C3%A9phone-possible-en-France
