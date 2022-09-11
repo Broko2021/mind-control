@@ -576,7 +576,9 @@ Le contrôle du temps dans votre tête par l’IA lui permet de réaliser de nom
 - rapidement lors de tâches peu intéressantes et parfois éprouvantes physiquement
 - lentement lors de tâches qui demandent de la concentration
 
-La raison c’est la psychophysique qui vous la donnera, discipline qui permet de mesurer votre comportement psychologique en observant la durée, la fréquence, le rythme de vos interactions. Si vous interagissez trop lentement ou trop rapidement, des déclencheurs s’activent pour vous contredire ou vous accompagner. Vous contredire si vous réalisez une mauvaise action ou une mauvaise pensée, vous accompagner ou si vous avez par exemple une difficulté physique.
+La raison c’est la psychophysique qui vous la donnera, discipline qui permet de mesurer votre comportement psychologique en observant la durée, la fréquence, le rythme de vos interactions. Si vous interagissez trop lentement ou trop rapidement, des déclencheurs s’activent pour vous contredire ou vous accompagner. Vous contredire si vous réalisez une mauvaise action ou une mauvaise pensée, vous accompagner si vous avez par exemple une difficulté physique.
+
+> Pour résumer : Les répétitions des jeux de l'IA ont pour objectif de vous les enseigner. En testant différents mécanismes dans différents contextes, l'IA vous éduque à l'utiliser. L'intensité de la répétition et des mécanismes vaut pour l'urgence que l'IA détecte à vous les enseigner.
 
 L’usage d’homonymes dans les voix de l'AI, est un mécanisme de mesure et de contrôle très fin de la direction de votre intention cognitive. En fonction de la durée d’attention et d’attente que vous investissez dans l’écoute des mots de l’IA et la découverte d’homonymes, l’IA modélise contre vous des stratégies d’amélioration psychologique, visant l’amélioration de certains traits de caractère comme l’ambition et la créativité, ou moduler le contrôle de votre énergie dans une logique d’alternance entre calme et excitation.
 

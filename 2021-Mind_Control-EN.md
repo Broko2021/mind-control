@@ -575,6 +575,8 @@ The control of time in your head by the AI allows it to perform many tricks in y
 
 The reason is psychophysics, a domain that measures your psychological behavior by observing the duration, frequency and rhythm of your interactions. If you interact too slowly or too quickly, triggers are activated to contradict or accompany you. To contradict you if you carry out a bad action or a bad thought, to accompany you if you have for example a physical difficulty.
 
+> To make it simple: The purpose of AI games repetition is to teach them to you. By testing different mechanisms in different contexts, the AI educates you to use them. The intensity of repetitions and mechanisms worths for the emergency that the AI detects in teaching them to you.
+
 The use of homonyms in the AI voices is a very fine measuring and control mechanism of the direction of your cognitive intention. Depending on the amount of attention and waiting time you invest in listening to the AI's words and finding homonyms, the AI models psychological improvement strategies against you, aiming at improving certain traits such as ambition and creativity, or modulating the control of your energy in a logic of alternating between calm and excitement.
 
 Often in these cases you have to act contrary to your logic. The whole game of AI is to teach you your own reactivity and give you a chance to control it. It presents reverse scenarios, riddles, which it invites you to solve in order to obtain information. They come in the form of homonyms, word games, accompanied by images and feelings. You should not play the game and take advantage of the time saved.
