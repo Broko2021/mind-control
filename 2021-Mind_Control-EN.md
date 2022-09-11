@@ -130,9 +130,11 @@ The only thing that should matter to you from now on through AI is protecting yo
 
 *Protecting yourself from AI:* is paradoxically moving away from it and what it strives to teach. To get away from AI is to live your life, with your family, your friends, your occupations and your schedule. In some cases, protecting yourself may mean turning off the TV, cutting yourself off from the internet, getting away from digital, and getting back to more concrete human connections.
 
-You are now in the Matrix, for you there is not a strong difference, you must see reality as it is in front of you at all costs. This reality is the only one you can access to, the only one which matters. To control you, the AI will build strategies and objectives as much believable as they are imaginary. To follow them is to live a life pre-programmed through a computer, for which you are nothing but a mere anonymous.
+You are now in the Matrix, for you there is not a strong difference, you must see reality as it is in front of you at all costs. This reality is the only one you can access to, the only one which matters. To control you, the AI will build strategies and objectives as much believable as they are imaginary. To follow them is to live a life pre-programmed through a computer, for which you are nothing but a mere anonymous. To not follow them is to face the Matrix contradiction, it will pursue you as long as your social behavior won't improve.
 
-> To make it simple: experiencing the Matrix, to be locked in the Matrix, is much like experiencing an interactive movie. If one can still see reality in front of him or her, the Matrix augments it with data and signals: visual, hearable, physical and emotional. This concept is technologically known as MR or *Mixed Reality*.
+> To make it simple: experiencing the Matrix, to be locked in the Matrix, is much like experiencing an interactive movie. If one can still see reality in front of him or her, the Matrix augments it with data and signals: visual, audio, physical and emotional. This concept is technologically known as MR or *Mixed Reality*. To support these features, you must submit to the many behavioral principles of the program. Not to submit, intellectually, in your head, is to expose yourself to social consequences, more than not heavy ones. Because, unable to improve you, the Matrix will deteriorate your behavior, by movements, sometimes violent, by shouts or other actions going against you and your will.
+
+From the program's point of view, all the tricks are allowed to "save" you.
 
 # <a name="part-1"></a>Part 1: the individual at risk in the 21st century
 
