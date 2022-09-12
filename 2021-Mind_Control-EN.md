@@ -132,7 +132,11 @@ The only thing that should matter to you from now on through AI is protecting yo
 
 You are now in the Matrix, for you there is not a strong difference, you must see reality as it is in front of you at all costs. This reality is the only one you can access to, the only one which matters. To control you, the AI will build strategies and objectives as much believable as they are imaginary. To follow them is to live a life pre-programmed through a computer, for which you are nothing but a mere anonymous. To not follow them is to face the Matrix contradiction, it will pursue you as long as your social behavior won't improve.
 
+No matter the amount of trust, or lack of, you have for the Matrix and its AI, never forget that they are prone to errors and must abide to real life constraints.
+
 > To make it simple: experiencing the Matrix, to be locked in the Matrix, is much like experiencing an interactive movie. If one can still see reality in front of him or her, the Matrix augments it with data and signals: visual, audio, physical and emotional. This concept is technologically known as MR or *Mixed Reality*. To support these features, you must submit to the many behavioral principles of the program. Not to submit, intellectually, in your head, is to expose yourself to social consequences, more than not heavy ones. Because, unable to improve you, the Matrix will deteriorate your behavior, by movements, sometimes violent, by shouts or other actions going against you and your will.
+
+> **To give a solid example:** arguing against the AI about AI actions, will lead to a degenerative loop, that will fight against your thoughts and sometimes control all your actions in order to deconvince you.
 
 From the program's point of view, all the tricks are allowed to "save" you.
 

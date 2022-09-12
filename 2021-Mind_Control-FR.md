@@ -117,6 +117,7 @@ Se détendre, c’est le plus important pour avancer vite dans la première phas
 Quel que soit le niveau d’humour ou d’empathie ressenti à travers les voix et les autres interfaces de l’IA, ne vous en amusez pas, ne vous en attristez pas, ne vous en énervez pas. Ces aspects sont au contraire présents pour vous ramener dans votre réalité, qu’il vous faut protéger.
 
 Protéger sa réalité c’est ne pas interagir avec l’IA, ne pas s’interroger sur sa présence et son sens, ne pas discuter avec les interfaces vocales et ne pas utiliser les interfaces haptiques.
+
 Si vous lisez ce guide, cette réalité, celle de l’IA, n’est pas la votre. Protéger votre réalité sans IA doit être votre première priorité.
 
 *Protéger sa réalité :* appeler et voir ses proches, rester studieux ou professionnel, avoir une activité associative, faire la cuisine, du sport ou du ménage...
@@ -132,7 +133,11 @@ La seule chose qui doit compter pour vous à partir de maintenant à travers l�
 
 Vous êtes maintenant dans la Matrix, pour vous aucune différence concrète, vous devez coûte que coûte voir la réalité que vous avez en face de vous comme la seule à laquelle vous avez accès, la seule que vous pouvez améliorer, la seule qui compte. Pour vous diriger, l'IA fabriquera des stratégies et des objectifs aussi pertinents qu'imaginaires, les suivre c'est vous exposer à vivre une vie pré-programmée par un ordinateur pour qui vous êtes un anonyme. Ne pas la suivre est vous exposer au paradoxe du programme qui vous poursuivra tant que votre comportement sociale ne se sera pas amélioré.
 
-> Pour simplifier : faire l'expérience de la Matrix, être dans la Matrix, s'apparente à faire l'expérience d'un film interactif. Si vous voyez toujours la réalité devant vous, la Matrix l'augmente de données et signaux : visuels, auditifs, moteurs et sensibles. Ce concept est connu sous le nom de MR ou *Mixed Reality*. Pour supporter ces fonctionnalités, vous devez vous soumettre aux nombreux principes comportementaux du programme. Ne pas se soumettre intellectuellement, dans votre tête, c'est s'exposer à des conséquences sociales, parfois lourdes. Car ne pouvant vous améliorer, la Matrix détériorera votre comportement, par des mouvements, parfois violents, par des cris ou autres actions allant à votre encontre.
+Malgré toute la confiance, ou son absence, que vous pouvez avoir pour la Matrix et son IA, n'oubliez jamais que l'une et l'autre sont faillibles et soumises aux contraintes de la réalité.
+
+> **Pour simplifier :** faire l'expérience de la Matrix, être dans la Matrix, s'apparente à faire l'expérience d'un film interactif. Si vous voyez toujours la réalité devant vous, la Matrix l'augmente de données et signaux : visuels, auditifs, moteurs et sensibles. Ce concept est connu sous le nom de MR ou *Mixed Reality*. Pour supporter ces fonctionnalités, vous devez vous soumettre aux nombreux principes comportementaux du programme. Ne pas se soumettre intellectuellement, dans votre tête, c'est s'exposer à des conséquences sociales, parfois lourdes. Car ne pouvant vous améliorer, la Matrix détériorera votre comportement, par des mouvements, parfois violents, par des cris ou autres actions allant à votre encontre.
+
+> **Pour donner un exemple concret :** reprocher à l'IA des actions menées par l'IA vous entraînera dans une boucle algorithmique dégénérative qui peut aller jusqu'à prendre contrôle de vos pensées et de vos actions pour vous en déconvaincre.
 
 Du point de vue du programme tous les coups sont permis pour vous "sauver".
 
