@@ -63,8 +63,6 @@
       - [Des pratiques longues durées](#part-3.4.4)
 - [Conclusion](#outro)
 - [Bibliographie et autres références](#ref)
-
-- [Bibliographie et autres références](#ref)
    - [Références du Darknet](#ref-darknet)
    - [Références d'Internet](#ref-public)
       - [Références cinématographiques](#ref-movies)
@@ -853,7 +851,11 @@ Sommes-nous courageux ? Sommes-nous prêts à faire face à nos pires travers ? 
 
 ## <a name="ref-darknet"></a> Références du Darknet
 
-Il existe au moins deux autres guides de ce type sur le Darknet, il s'agit de ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) présentant des aspects politiques et philosophiques, et ["Comment sortir de la Matrix ?"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) détaillant les aspects liés à la sécurité numérique.
+Il existe au moins deux autres guides de ce type sur le Darknet, il s'agit de (les liens ci-dessous nécessitent un navigateur spécialisé) :
+- ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) 
+> présentant des aspects politiques et philosophiques.
+- ["Comment sortir de la Matrix ?"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) 
+> détaillant les aspects liés à la sécurité numérique.
 
 ## <a name="ref-movies"></a> Références cinématographiques
 
@@ -879,7 +881,7 @@ C'est le jeu des amoureux, la Matrix contrôlant toutes les têtes, elle cherche
 
 Ce sont les "resurrections" du titre *The Matrix resurrections*. Si pour beaucoup, à échelle, la magie opère, pour d'autres, c'est la prison psychiatrique du jeu des amoureux. D'où la fin du film où Trinity massacre le personnage du psychiatre, qui n'est en fait qu'un programme informatique.
 
-### <a name="ref-movies-2022"></a> 2022 Matrix contributions
+### <a name="ref-movies-2022"></a> Contributions à la Matrix 2022
 
 2022 sera une année à marquer d'une pierre blanche en termes de contributions à la Matrix de la part des artistes cinématographes.
 
@@ -889,15 +891,15 @@ Au-delà de dénoncer les tensions domestiques, administratives et sécuritaires
 
 Une autre contribution cinématographique majeure de 2022 est ***[Nope](https://www.imdb.com/title/tt10954984/)*** de Jordan Peele. Après ***[Us](https://www.imdb.com/title/tt6857112)*** qui décrivait la réalité des jumeaux numériques inversés, et ***[Get Out](https://www.imdb.com/title/tt5052448)*** qui faisait démonstration de l'hypnose, Nope donne une vision onirique des infrastructures Cloud. Alors que l'action du film se passe dans un ranch, dans un paysage rural, les personnages sont harcelés par la technologie Cloud qui aspirent toutes leurs données. Dans le film cela est très judicieusement représenté par l'aspiration physique des personnages dans une sorte de boyau analogique.
 
-Le vaisseau extra-terrestre qui se cache dans les nuages, est une métaphore polymorphe : c'est le satellite qui envoie et reçoit les données, l'insecte, le *bug*, contrôlé par IA, c'est le chapeau du shérif qui définit les règles de configuration domestiques, le ballon météo, la forme physique de la Matrix, sorte de *firewall* analogique et numérique. C'est aussi et surtout les datacenters, les nuages qui ne bougent pas, et que l'on peut observer le regard rêveur et le pouce levé.
+Le vaisseau extra-terrestre qui se cache dans les nuages, est une métaphore polymorphe : c'est le satellite qui envoie et reçoit les données, l'insecte, le *bug*, contrôlé par IA, c'est le chapeau du shérif qui définit les règles de configuration domestiques, le ballon météo, la forme physique de la Matrix, sorte de *firewall* analogique et numérique. C'est aussi et surtout les datacenters, les nuages qui ne bougent pas, et que l'on peut observer le regard rêveur et le pouce à demi levé.
 
 Là où le film brille par son ingéniosité, c'est par l'aspect dénonciation ouverte. La séquence de "whistleblowing" du producteur de spectacles, épaulé par sa femme, avant d'être enlevés tous les deux ainsi que tous les témoins de la scène dénonce toute l'hypocrisie du programme Matrix : motiver à sa communication, sa dénonciation, à travers les mediums artistiques, comme c'est le cas dans Nope, sans donner aucune forme de compensation, ni de garantie légale. Une forme d'esclavagisme citoyen et artistique en quelque sorte.
 
 Au sommet de son travail de déstructuration diégétique, Jordan Peele fournit à travers les scènes d'archives de *Gordy*, la scène d'ouverture du film, une approche lynchienne à une métaphore technologique très fine, celle de la pratique du *[Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering)*, construite autour de la solution *[Chaos Monkey](https://github.com/Netflix/chaosmonkey)*. Dans le film un singe détruit tous les objets de la scène, sauf une chaussure qui reste debout ; en informatique, le programme *Chaos Monkey* détruit aléatoirement des composants du système informatique pour s'assurer qu'il sera toujours viable en cas d'incident.
 
-Le parallèle à faire ici avec la Matrix est la violence de ses programmeurs. Le programme qui interagit avec vos têtes est soumis à des règles d'industrialisation informatique parfaitement aveugles et arbitraires. ***This is the jungle.***
+Le parallèle à faire ici avec la Matrix est la violence de ses programmeurs. Le programme qui interagit avec vos têtes est soumis à des règles d'industrialisation informatique parfaitement aveugles et arbitraires. *This is the jungle.*
 
-Nope, c'est tout simplement l'avis de Jordan Peele sur cette situation de violente domestication par voie informatique. Jordan Peele, **un vrai cowboy américain**.
+Nope, c'est tout simplement l'avis de Jordan Peele sur cette situation de violente, distante, domestication par voie informatique. *Jordan Peele, **un vrai cowboy américain**.*
 
 Pour finir cette partie sur les références cinématographiques de 2022, et côté séries, ***[Moon Knight](https://www.imdb.com/title/tt10234724/)*** décrit subtilement la confusion subit par les gens enfermés dans la Matrix, mi-agents de terrain, mi-vigilante, sauvés de réalités sociales complexes, familiales, intimes et professionnelles, par les jeux psychologiques de la Matrix, représentés dans la série sous une forme thématique égyptienne.
 
