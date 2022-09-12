@@ -56,7 +56,7 @@
          - ["Instagram"](#part-3.3.1.3)
          - ["Wikipedia"](#part-3.3.1.4)
          - [Life coach](#part-3.3.1.5)
-   - [Leave a place for nature](#part-3.4)
+   - [Leave nature a place ?](#part-3.4)
       - [The problem of classification: standardization through binarization](#part-3.4.1)
       - [Reaching the mean / average, towards global moderation](#part-3.4.2)
       - [The technical-social-cognitive debt](#part-3.4.3)
@@ -747,7 +747,7 @@ The risk of the coach is to decide for you your whole schedule, and by extension
 
 While these applications are highly entertaining in their degree of innovation and efficiency, they suffer from the designers' decision to deliberately develop the Matrix in a dual form, both angel and demon. The Matrix helps you as much as it degrades you by its counter-greedy existence in your daily life, and the fact that this existence is mechanical. At the end of your hope to communicate your emotions in the Matrix, on the other side, there are only machines.
 
-## <a name="part-3.4"></a>Leave some space for nature?
+## <a name="part-3.4"></a>Leave nature a place ?
 What are the real risks of AI if it has so many medical and social possibilities out of the box ? They are numerous and complex to measure in their severity, because AI constantly proposes a moderation or a new strategy to the identified problems. 
 
 The risk is the Matrix. And its AI whose objective is to denature, that is to say to transform men and women against their natural evolution. By warning us of the danger, it plunges us into it without us having any means of measuring the good sense, the validity of these principles; nor even the duration of their application by the Matrix.
@@ -855,7 +855,11 @@ Are we brave? Are we ready to face our worst selves? How far of our comfort zone
 
 ## <a name="ref-darknet"></a>Darknet references
 
-There are at least two other guides of this type available on the Darknet, the ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) one focusing on political and philosophical aspects, and ["How to exit the Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) detailing aspects related to digital security. 
+There are at least two other guides of this type available on the Darknet (be aware below links need a special browser to be accessed) :
+- ["Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/The_Matrix) 
+> focusing on political and philosophical aspects.
+- ["How to exit the Matrix"](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/How_to_Exit_the_Matrix) 
+> detailing aspects related to digital security. 
 
 They refer to the Matrix "voices", which is the program main feature, the AI ability to synthetize voices and transmist them directly into brains.
 
@@ -863,7 +867,7 @@ They refer to the Matrix "voices", which is the program main feature, the AI abi
 
 References to the Matrix software are numerous in art, especially in the music and movie industries. 
 
-If you are a moviegoer, you may have a watch at these movies:
+If you are a moviegoer, you may have a look at these movies:
 - [The Manchurian candidate (J. Frankenheimer, 1962)](https://www.imdb.com/title/tt0056218)
 - [Seconds (J. Frankenheimer, 1966)](https://www.imdb.com/title/tt0060955)
 - [Scorpio (M. Winner, 1973)](https://www.imdb.com/title/tt0070653)
@@ -873,15 +877,15 @@ Each depicting a specific aspect of mind control: hypnosis in *The Manchurian ca
 
 David Lynch's TV series, ***[Twin Peaks](https://www.imdb.com/title/tt0098936/)*** carries with it many political messages through its allegories. In the first two seasons, which aired in 1991 and 1992, there is mention of a psychotic personality, Bob, moving from head to head in the air. The storyline evokes a link with radio transmissions captured by the army in which words are repeated. Before leaving the viewer with this riddle: "Owls are not what they seem".
 
-It is in its third season of ***[Twin Peaks](https://www.imdb.com/title/tt4093826/)***, which aired in 2017, that David Lynch's narrative style expresses most brilliantly the Matrix socio-technological aspects. The main character is an electric man (he was literally born from the electric plug) who comes to replace the initial husband. It is the allegory of the digital twin that helps as much as it replaces, the entities that it twins. All the parallel sequences to the film's main plot are descriptions of social situations underlying the Matrix principles: single-parent families, isolation or dementia of the elders, escape into drugs and adults reminiscences: it is the pursuit at all costs of the other self, younger, more beautiful, stronger and more into love, which drags protagonists into the madness of their memories, where only David Lynch has the pleasure of seeing Monica Bellucci again.
+It is in its third season of ***[Twin Peaks](https://www.imdb.com/title/tt4093826/)***, which aired in 2017, David Lynch's narrative style expresses most brilliantly the Matrix socio-technological aspects. The main character is an electric man (he was literally born from the electric plug) who comes to replace the initial husband. It is the allegory of the digital twin that helps as much as it replaces, the entities that it twins. All the parallel sequences to the film's main plot are descriptions of social situations underlying the Matrix principles: single-parent families, isolation or dementia of the elders, escape into drugs and adults reminiscences: it is the pursuit at all costs of the other self, younger, more beautiful, stronger and more into love, which drags protagonists into the madness of their memories, where only David Lynch has the pleasure of seeing Monica Bellucci again.
 
-***Matrix 4***, also known under the title ***[The Matrix resurrections](https://www.imdb.com/title/tt10838180/)***, takes up this scenaristic baseline: in the movie where the mise en abîmes are numerous, the one closest to our reality is in fact the one of a bald programmer of about fifty years in full depression.
+***Matrix 4***, also known under the title ***[The Matrix resurrections](https://www.imdb.com/title/tt10838180/)***, takes up this scenaristic baseline: in the movie where the mise en abîmes are numerous, the one closest to our reality is in fact the one of a fifty years old bald programmer in full depression.
 
-What the film tells is that this man has lost his family after a divorce and that the Matrix works to rebuild him a personality that could help into finding a new intimate life. The story of Neo and friends is solely a metaphor for the psychological games that are played in the head of this programmer who gradually becomes Neo and finds Trinity, herself an allegory of his ex-wife and potential new wife.
+What the film tells is that this man has lost his family after a divorce and that the Matrix works to rebuild him a personality that could help him into finding a new intimate life. The story of Neo and friends is solely a metaphor for the psychological games that are played in the head of this programmer who gradually becomes Neo and finds Trinity, herself an allegory of his ex-wife and potential new wife.
 
-It is the lovers' game, the Matrix controlling all the heads, it seeks intermediate solutions to remedy the relational troubles, including making one invent a virtual partner who will take the characteristics of his or her former partners and potential new partners.
+It is the lovers' game, since the Matrix can control most heads, it seeks intermediate solutions to remedy to relational troubles, including making one invent a virtual partner who will take the characteristics of his or her former partners and potential new partners.
 
-These are the "resurrections" from the *The Matrix resurrections* title. If for many, at a large scale, the magic works, for others, it is to be locked down into the psychiatric prison of the lovers' game. Hence the movie ending, where Trinity massacres the psychiatrist character, which is in reality a program.
+These are the "resurrections" from the *The Matrix resurrections* title. If for many, at a large scale, the magic works, for others, it is to be locked down into the psychiatric prison of the lovers' game. Hence the movie ending, where Trinity massacres the psychiatrist character, which is in reality a real computer program.
 
 ### <a name="ref-movies-2022"></a> 2022 Matrix contributions
 
@@ -889,7 +893,7 @@ These are the "resurrections" from the *The Matrix resurrections* title. If for 
 
 ***[Everything Everywhere, all at once](https://www.imdb.com/title/tt6710474)*** by *Daniels*, Dan Kwang and Daniel Scheinert respectively, is the most realistic one. This film depicts the daily lives of those trapped in the Matrix. Although the characters need earplugs to connect (which are not necessary in real life), every social aspect of the film is a direct reference to the Matrix principles: mind control of the husband who wants to divorce and is therefore forced to help others, mind control of the bankrupt wife who discovers in a life crisis moment her husband's fate, so to relieve her psychologically, mind control of their rebellious daughter who is given *powers* in exchange for her lack of self-esteem. 
 
-Beyond denouncing domestic, administrative and security tensions in a global hypersexuality feeling, the Daniels' film finely depicts the situation of confinement in the Matrix computer program, right up to the end credits where the letters stretch out like jail bars before the viewer's eyes.
+Beyond denouncing domestic, administrative and security tensions in a global hypersexuality feeling, the Daniels' film finely depicts the situation of confinement in the Matrix computer program, down to the end credits where the letters stretch out like jail bars before the viewer's eyes.
 
 The other major 2022 cinematic contribution is Jordan Peele's ***[Nope](https://www.imdb.com/title/tt10954984/)***. Following ***[Us](https://www.imdb.com/title/tt6857112)*** which depicted the reality of inverted digital twins, and ***[Get Out](https://www.imdb.com/title/tt5052448)*** which demonstrated hypnosis, Nope provides a dreamlike vision of Cloud infrastructures. While the action of the film takes place in a ranch, in a rural landscape, the characters are harassed by Cloud technologies that sucks up all their data. In the film this is very aptly represented by the characters being physically sucked into a kind of analog gut.
 
@@ -899,17 +903,17 @@ Where the film shines by its ingenuity, is through its open denunciation aspect.
 
 At the peak of his work of diegetic destructuring, Jordan Peele provides through the *Gordy* archival scene, the opening scene of the film, a Lynchian approach to a very fine technological metaphor, that of the *[Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering)* practice, built around the solution *[Chaos Monkey](https://github.com/Netflix/chaosmonkey)*. In the film, a monkey destroys all the objects in the scene, except for one shoe that remains standing; in computer science, the *Chaos Monkey* program randomly destroys components of the computer system to ensure that it will still be working in case of an incident.
 
-The parallel to be drawn here with the Matrix is the violence of its programmers. The program that interacts with your heads is subject to perfectly blind and arbitrary computer industrialization rules. ***This is the jungle.***
+The parallel to be drawn here with the Matrix is the violence of its programmers. The program that interacts with your heads is subject to perfectly blind and arbitrary IT industrialization rules. ***This is the jungle.***
 
-*Nope*, that's just Jordan Peele's opinion on this situation of violent domestication through computing infrastructures. Jordan Peele, **a true American cowboy**.
+*Nope*, that's just Jordan Peele's opinion on this situation of a violent, remote, domestication through computing infrastructures. *Jordan Peele, **a true American cowboy**.*
 
-To finish this part on the cinematographic references of 2022, and on the TV series side, ***[Moon Knight](https://www.imdb.com/title/tt10234724/)*** subtly describes the confusion undergone by the people locked in the Matrix, half field agent, half vigilante, saved from complex situations, social, familial, intimate and professional, by the Matrix psychological games, represented in the series with an Egyptianesque style.
+To finish this part on the cinematographic references of 2022, and on the TV series side, ***[Moon Knight](https://www.imdb.com/title/tt10234724/)*** subtly describes the confusion undergone by the people locked in the Matrix, half field agent, half vigilante, saved from complex situations, social, familial, intimate and professional, by the Matrix psychological games, represented in the series with an egyptian style.
 
 The ***[Westworld](https://www.imdb.com/title/tt0475784/)*** finale season, gives a rather precise technological vision of the system in place. Reality is divided into two sides: one seen by the citizens, the humans in Westworld, and one controlled by the robots. In the citizen reality, the Matrix, the game, does not exist; in the robot reality, a simulation controls all thoughts and interactions in the city.
 
 The character played by Aaron Paul, lives a very sophisticated version of what people locked in the Matrix live nowadays: a simulation of his past reality is played to him every day in order to keep him in an eternal state of intellectual youth, despite his deplorable psychological state. The series emphasizes the impact on the body from the interaction between the program and the human.
 
-In an intelligent but very optimistic vision of technological progress, the authors of Westworld propose in conclusion of their series, the decommissioning of artificial intelligence by artificial intelligence. This is the possible conclusion of a mathematical reality: since AI's mathematical objective is to optimize, at the end of the optimization of all its objectives, the last thing to be improved will be AI itself, which will then have to stop.
+In an intelligent but very optimistic vision of technological progress, the authors of Westworld propose in conclusion of their series, the decommissioning of artificial intelligence by artificial intelligence. This is the possible conclusion of a mathematical reality: since AI's mathematical objective is to optimize, once all its objectives are optimized, the last thing to be improved will be AI itself, which will then have to stop.
 
 ## <a name="ref-public"></a>Internet references
 
