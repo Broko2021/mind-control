@@ -215,7 +215,7 @@ Today, there are very sophisticated techniques to capture your attention and get
 
 Often denounced [4], *Eye gazing* allows publishers to capture the time of their users for their own benefit, with the publishers paying little or nothing for the time spent using them. Worse, their consumption, influenced by persuasive techniques, can create cognitive reflexes in users, limiting their ability to judge these mechanisms, and eventually preventing them from escaping them.
 
-***What does the Matrix do against the UX?*** It diminishes clicking addiction by slowing down reflexive behaviors, sometimes by interrupting the user's attention, sometimes by controlling it in order to use applications or websites dispassionately.
+***What does the Matrix do against the UX?*** It diminishes clicking addiction by slowing down reflexive behaviors, sometimes by interrupting the user's attention, sometimes by controlling it in order to use applications or websites dispassionately. Matrix will put you in emotional "tunnels": they shall not be followed ! These tunnels are based over social networks mechanisms, and help you into free yourself from your habits... by refusing to follow them. In short, do not listen to the AI !
 
 ### <a name="part-1.1.3"></a>Video games and return on investment
 Daily practice of video games in high doses has been identified for many years as a source for addiction and social exclusion. The MMORPGs case, massively multiplayer games, is no longer to be explained, with its millions of worldwide followers, each spending between several dozens and several hundreds of hours, on each of the titles. Imagine each player investing as much time in any artistic, scientific or sports discipline... World would be full of Nobel prizes winners.
