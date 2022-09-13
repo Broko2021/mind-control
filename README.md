@@ -19,11 +19,20 @@ Ceci est un guide pour éduquer et prévenir des systèmes de contrôle cognitif
 
 ---
 
+## Open source repositories
+
+This guide source code is mirrored over two platforms:
+- https://gitlab.com/Broko2022/mind-control
+- https://github.com/Broko2021/mind-control
+
+The public website is hosted as Github pages:
+- https://broko2021.github.io/mind-control/
+
 ## Contribute
 
 Contributions are welcome through pull requests.
 
-Expected contributions :
+Expected contributions:
 - sharing this guide in any way you can
 - corrections of any kind
 - additional content along with public references and links
