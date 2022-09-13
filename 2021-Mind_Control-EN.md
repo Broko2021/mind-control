@@ -110,13 +110,14 @@ Rule number one: relax, there's nothing you can do about it.
 
 Relaxing is the most important thing to do in order to progress quickly in the first phase of your installation in the system, which has only one goal: to reinforce your conception of reality and your ability to improve it.
 
-*Relax:* drink water, take a good walk, keep calm, take a deep breath, rest, pursue your daily routine, etc...
+*Relax:* drink water, take a good walk, keep calm, take a deep breath, rest, pursue your daily routine, etc... If AI deprives you, it is because you are being corrected in parrallel, more than often beyond your understanding. To maintain yourself in a good, relaxed, shape is essential so not to suffer from control mecanisms.
 
 ## <a name="part-0.2"></a>Rule number 2: Don't make fun of it.
 
-Whatever level of humor or empathy you feel through the AI's voices and other interfaces, don't be amused by it, don't be saddened by it, don't be annoyed by it. On the contrary, these aspects are present to bring you back to your reality, which you must protect.
+Whatever level of humor or empathy you feel towards the AI's voices and other interfaces, don't be amused by them, don't be saddened by them, don't be annoyed by them. On the contrary, these aspects are present to bring you back to your reality, which you must protect.
 
 Protecting your reality means not interacting with the AI, not questioning its presence and meaning, not chatting with the voice interfaces and not using the haptic interfaces.
+
 If you are reading this guide, this reality, the AI reality, is not yours. Protecting your AI-free reality should be your first priority.
 
 *Protect your reality:* call and see your loved ones, stay studious or professional, have an associative activity, cook, do sports or clean...
