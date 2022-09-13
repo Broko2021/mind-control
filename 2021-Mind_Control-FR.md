@@ -110,7 +110,7 @@ Première règle : détendez-vous, vous n’y pouvez rien.
 
 Se détendre, c’est le plus important pour avancer vite dans la première phase de votre apprentissage dans le système, qui n’a qu’un but : renforcer votre conception de la réalité et votre capacité à l’améliorer.
 
-*Se détendre :* boire de l’eau, faire une bonne marche, garder son calme, respirer à pleins poumons, se reposer, poursuivre son quotidien, etc…
+*Se détendre :* boire de l’eau, faire une bonne marche, garder son calme, respirer à pleins poumons, se reposer, poursuivre son quotidien, etc… Si l'IA vous prive c'est parcequ'elle vous corrige en parallèle, souvent au-delà de votre compréhension. Se maintenir dans une forme détendue est essentiel pour ne pas souffrir des mécanismes de contrôle.
 
 ## <a name="part-0.2"></a>Règle numéro 2 : ne vous en amusez pas
 
