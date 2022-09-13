@@ -529,7 +529,7 @@ Le premier est un jumeau digital pour votre corps qui a pour vocation d’optimi
 
 C’est aussi ce jumeau du corps qui contrôle les routines de l’IA, comme se redresser la colonne vertébrale, contrôler la direction de la vue, se muscler le visage ; autant de fonctionnalités améliorantes, mais impromptues, encombrantes dans le calendrier du quotidien. L’utilisateur n’a pas d'autres choix que de satisfaire son modèle, parfois jusqu’à se déplacer et à se comporter de manières spécifiques et contre gré pour satisfaire l’IA.
 
-Par exemple, elle a un modèle pour votre squelette dont votre visage. Pour vous faire sourire ou grimacer, l’IA a un modèle 3D dont elle applique les attributs sur vous, pareil pour vos mouvements. La mécanique est que vous avez un objectif, compris à distance, qui le projette sur ses modèles qui génèrent les données à vous transmettre.
+Par exemple, elle a un modèle pour votre squelette dont votre visage. Pour vous faire sourire ou grimacer, l’IA a un modèle 3D qui vous représente dans ces différentes situations, et dont elle applique les attributs sur vous, pareil pour vos mouvements. La mécanique est qu'il y'a un objectif, déterminé à distance, qui se projette sur ces modèles qui génèrent ensuite les données à vous transmettre.
 
 Souvent comprendre l’IA c’est comprendre les objectifs du jumeau, une mauvaise position du corps, des soucis au niveau de l’alimentation, des conditions d’hygiène ; et c’est le jumeau qui prend le dessus ; des soucis de fatigue, de concentration, le jumeau se rappelle à vous ou vous contrôle.
 
@@ -544,7 +544,7 @@ Si l’IA pense vous améliorer avec ces nouveaux mécanismes, elle vous en dema
 
 En vous présentant différents contenus, des images, des sons, des histoires, elle va attirer votre attention dans un sens prédéterministe. Que ce soit vers la colère, pour contrôler l’irritabilité, vers la tristesse, pour contrôler la dépression, l’amitié, pour améliorer la sociabilité, l’anxiété pour contrôler le stress, l’IA entraîne son utilisateur dans un panel d’émotions synthétiques lui permettant de mieux contrôler ses émotions dans la réalité.
 
-Le jeu est de ne pas y rester trop longtemps car l’IA détecte alors des habitudes, des tendances à trop d’hystérie ou de compulsivité, et elle fera de ces nouvelles habitudes, celles développées en utilisant l’IA, des armes contre vous en les répétant.
+Le jeu est de ne pas y rester trop longtemps car l’IA détecte alors des habitudes, des tendances à trop d’hystérie ou de compulsivité, et elle fera de ces nouvelles habitudes, celles développées en utilisant l’IA, des armes contre vous en les répétant. 
 
 Si l'IA vous parle d'"ultrasonde", il s'agit de la connection à l'ensemble des points de réception de la Matrix, les vôtres et les siens. Elle en parle avec humour car cette "ultrasonde" est difficile à porter.
 
