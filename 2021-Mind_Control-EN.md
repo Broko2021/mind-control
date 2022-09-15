@@ -896,11 +896,11 @@ The character played by Kyle MacLachlan represents a digitally twinned man. He e
 
 All the beauty of Twin Peaks is to actually tell a story you can simply not understand. Through multiple diegetic dimensions David Lynch manages to actually show reality as it is: there is no off-camera in Twin Peaks.
 
-***Matrix 4***, also known under the title ***[The Matrix resurrections](https://www.imdb.com/title/tt10838180/)***, takes up this scenaristic baseline: in the movie where the mise en abîmes are numerous, the one closest to our reality is in fact the one of a fifty years old bald programmer in full depression.
+***Matrix 4***, also known under the title ***[The Matrix resurrections](https://www.imdb.com/title/tt10838180/)***, develops a scenaristic baseline about the Matrix lovers' game: in the movie where the mise en abîmes are numerous, the closest one to our reality is about a fifty years old bald programmer in full depression.
 
 What the film tells is that this man has lost his family after a divorce and that the Matrix works to rebuild him a personality that could help him into finding a new intimate life. The story of Neo and friends is solely a metaphor for the psychological games that are played in the head of this programmer who gradually becomes Neo and finds Trinity, herself an allegory of his ex-wife and potential new wife.
 
-It is the lovers' game, since the Matrix can control most heads, it seeks intermediate solutions to remedy to relational troubles, including making one invent a virtual partner who will take the characteristics of his or her former partners and potential new partners.
+It is the lovers' game, since the Matrix can control most heads, it seeks intermediate solutions to remedy to relational troubles, including making one invent a virtual partner who will take the characteristics of his or her former partners and potential new partners... to get used to them.
 
 These are the "resurrections" from the *The Matrix resurrections* title. If for many, at a large scale, the magic works, for others, it is to be locked down into the psychiatric prison of the lovers' game. Hence the movie ending, where Trinity massacres the psychiatrist character, which is in reality a real computer program.
 
