@@ -882,7 +882,7 @@ If you are a moviegoer, you may have a look at these movies:
 
 Each depicting a specific aspect of mind control: hypnosis in *The Manchurian candidate*, cognitive manipulation in *Seconds*, telecommunication network in *Network*.
 
-David Lynch's TV series, ***[Twin Peaks](https://www.imdb.com/title/tt0098936/)*** carries with it many political messages through its allegories. In the first two seasons, which aired in 1991 and 1992, there is mention of a psychotic personality, Bob, moving from head to head in the air. The storyline evokes a link with radio transmissions captured by the army in which words are repeated. Before leaving the viewer with this riddle: "Owls are not what they seem".
+David Lynch's TV series, ***[Twin Peaks](https://www.imdb.com/title/tt0098936/)*** carries with it many political messages through its allegories. In the first two seasons, which aired in 1991 and 1992, there is mention of a psychotic personality, Bob, moving from head to head in the air. The storyline evokes a link with radio transmissions captured through radio in which words are repeated. Before leaving the viewer with this riddle: "Owls are not what they seem".
 
 It is in its third season of ***[Twin Peaks](https://www.imdb.com/title/tt4093826/)***, which aired in 2017, David Lynch's narrative style expresses most brilliantly the Matrix socio-technological aspects. The main character is an electric man (he was literally born from the electric plug) who comes to replace the initial husband. It is the allegory of the digital twin that helps as much as it replaces, the entities that it twins. 
 
@@ -892,7 +892,7 @@ In this final season of Twin Peaks, David Lynch delivers the intimate, domestic 
 
 In the TV series, David Lynch shows the AI birth, it is the result of the video sequences analysis, and is represented as an alien form that feeds itself on ideas bubbles, thoughts: the data captured by the countless probes and trackers of Internet. For David Lynch, it is a scientific result similar to the nuclear bomb, a monster, which he shows exploding, through false, computer-generated archive images. False images, those are the 3D realistic images, that can have anyone *swallow* anything.
 
-The character played by Kyle MacLachlan represents a digitally twinned man. He exists in two versions, one clean (in a suit), digital, and one dirty (in a biker outfit), biological. The digital version pursues a kind of investigation into the loving, familial reality of his twin, while the biological version has become an assassin. It is an attempt to resolve a tragic situation, the final drama of Twin Peaks, through a digital agent who corrects the thoughts in the killer's head.
+The character played by Kyle Maclachlan represents a digitally twinned man. He exists in two versions, one clean (in a suit), digital, and one dirty (in a biker outfit), biological. The digital version pursues a kind of investigation into the loving, familial reality of his twin, while the biological version has become an assassin. It is an attempt to resolve a tragic situation, the final drama of Twin Peaks, through a digital agent who corrects the thoughts in the killer's head.
 
 All the beauty of Twin Peaks is to actually tell a story you can simply not understand. Through multiple diegetic dimensions David Lynch manages to actually show reality as it is: there is no off-camera in Twin Peaks.
 
@@ -920,13 +920,13 @@ Where the film shines by its ingenuity, is through its open denunciation aspect.
 
 At the peak of his work of diegetic destructuring, Jordan Peele provides through the *Gordy* archival scene, the opening scene of the film, a Lynchian approach to a very fine technological metaphor, that of the *[Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering)* practice, built around the solution *[Chaos Monkey](https://github.com/Netflix/chaosmonkey)*. In the film, a monkey destroys all the objects in the scene, except for one shoe that remains standing; in computer science, the *Chaos Monkey* program randomly destroys components of the computer system to ensure that it will still be working in case of an incident.
 
-The parallel to be drawn here with the Matrix is the violence of its programmers. The program that interacts with your heads is subject to perfectly blind and arbitrary IT industrialization rules. ***This is the jungle.***
+The parallel to be drawn here with the Matrix is the violence of its programmers. The program that interacts with your heads is subject to perfectly blind and arbitrary IT industrialization rules. At the end of the sequence, the monkey gives a bro fist to the little boy, this is a metaphor for the "handshake", the connecting step with a computer system.
 
 *Nope*, that's just Jordan Peele's opinion on this situation of a violent, remote, domestication through computing infrastructures. *Jordan Peele, **a true American cowboy**.*
 
 To finish this part on the cinematographic references of 2022, and on the TV series side, ***[Moon Knight](https://www.imdb.com/title/tt10234724/)*** subtly describes the confusion undergone by people locked in the Matrix, half field agents, half vigilantes, saved from complex situations, social, familial, intimate and professional, by the Matrix psychological games, represented in the series with a cartoonesque style.
 
-Through a technically perfect filming, notably from Mohamed Diab, supported by Oscaar Isaac grandiose acting, Moon Knight tells the daily life of Mark Spector, kind of a super hero vigilante, who believes he is Seven Grant, a cashier. It is actually the opposite, Steven, the cashier, is the real character, who, as a child, got submited to the Matrix due to his hysterical mother. Mark Spector is the fake personnality built and applied by the Matrix. A killer, a bounty hunter, kind of vigilante possessed by AI.
+Through a technically perfect filming, notably from Mohamed Diab, supported by Oscaar Isaac grandiose acting, Moon Knight tells the daily life of Mark Spector, kind of a super hero vigilante, who believes he is Steven Grant, a cashier. It is actually the opposite, Steven, the cashier, is the real character, who, as a child, got submited to the Matrix due to his hysterical mother. Mark Spector is the fake personnality built and applied by the Matrix. A killer, a bounty hunter, kind of vigilante possessed by AI.
 
 In the TV series, characters find themseleves transported into an asylum. In reality, they never leaved it. What the show means is that they are Matrix targets, more than often mentally ill persons or about to be.
 
