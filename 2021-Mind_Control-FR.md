@@ -918,7 +918,9 @@ Le parallèle à faire ici avec la Matrix est la violence de ses programmeurs. L
 
 Nope, c'est tout simplement l'avis de Jordan Peele sur cette situation de violente, distante, domestication par voie informatique. *Jordan Peele, **un vrai cowboy américain**.*
 
-Pour finir cette partie sur les références cinématographiques de 2022, et côté séries, ***[Moon Knight](https://www.imdb.com/title/tt10234724/)*** décrit subtilement la confusion subit par les gens enfermés dans la Matrix, mi-agents de terrain, mi-vigilante, sauvés de réalités sociales complexes, familiales, intimes et professionnelles, par les jeux psychologiques de la Matrix, représentés dans la série sous une forme thématique égyptienne.
+Pour finir cette partie sur les références cinématographiques de 2022, et côté séries, ***[Moon Knight](https://www.imdb.com/title/tt10234724/)*** décrit subtilement la confusion subit par les gens enfermés dans la Matrix, mi-agents de terrain, mi-vigilante, sauvés de réalités sociales complexes, familiales, intimes et professionnelles, par les jeux psychologiques de la Matrix, représentés dans la série sous une forme thématique cartoonesque.
+
+La parfaite ma^trise technique
 
 La saison 4, finale, de ***[Westworld](https://www.imdb.com/title/tt0475784/)***, donne une vision technologique assez précise du système en place. La réalité est divisée en deux : celle vue par les citoyens, les humains dans Westworld, et celle contrôlée par les robots. Dans la réalité citoyenne, la Matrix, le jeu, n'existe pas ; dans la réalité des robots, une simulation contrôle toutes les pensées et les interactions dans la ville.
 

@@ -924,7 +924,13 @@ The parallel to be drawn here with the Matrix is the violence of its programmers
 
 *Nope*, that's just Jordan Peele's opinion on this situation of a violent, remote, domestication through computing infrastructures. *Jordan Peele, **a true American cowboy**.*
 
-To finish this part on the cinematographic references of 2022, and on the TV series side, ***[Moon Knight](https://www.imdb.com/title/tt10234724/)*** subtly describes the confusion undergone by the people locked in the Matrix, half field agent, half vigilante, saved from complex situations, social, familial, intimate and professional, by the Matrix psychological games, represented in the series with an egyptian style.
+To finish this part on the cinematographic references of 2022, and on the TV series side, ***[Moon Knight](https://www.imdb.com/title/tt10234724/)*** subtly describes the confusion undergone by people locked in the Matrix, half field agents, half vigilantes, saved from complex situations, social, familial, intimate and professional, by the Matrix psychological games, represented in the series with a cartoonesque style.
+
+Through a technically perfect filming, notably from Mohamed Diab, supported by Oscaar Isaac grandiose acting, Moon Knight tells the daily life of Mark Spector, kind of a super hero vigilante, who believes he is Seven Grant, a cashier. It is actually the opposite, Steven, the cashier, is the real character, who, as a child, got submited to the Matrix due to his hysterical mother. Mark Spector is the fake personnality built and applied by the Matrix. A killer, a bounty hunter, kind of vigilante possessed by AI.
+
+In the TV series, characters find themseleves transported into an asylum. In reality, they never leaved it. What the show means is that they are Matrix targets, more than often mentally ill persons or about to be.
+
+Moon Knight enlights us about a reality that can no be perfect. As sand circling Steven's bed, time available in ones life, must be invested towards others.
 
 The ***[Westworld](https://www.imdb.com/title/tt0475784/)*** finale season, gives a rather precise technological vision of the system in place. Reality is divided into two sides: one seen by the citizens, the humans in Westworld, and one controlled by the robots. In the citizen reality, the Matrix, the game, does not exist; in the robot reality, a simulation controls all thoughts and interactions in the city.
 
