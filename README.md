@@ -53,8 +53,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 ## Donate
 
-XMR : 43N6qArn8Gf5Jfdw5XrhGg23uCu1y5dzZF6R2xNfWMfAYqdYE6uQTNNHPwAFWFpZu6D1GW8EGZT21QEJnAQbUgprKbAaiqA
-
 ## Thank you
 
 All future contributors.
