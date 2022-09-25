@@ -879,8 +879,15 @@ If you are a moviegoer, you may have a look at these movies:
 - [Seconds (J. Frankenheimer, 1966)](https://www.imdb.com/title/tt0060955)
 - [Scorpio (M. Winner, 1973)](https://www.imdb.com/title/tt0070653)
 - [Network (S. Lumet, 1976)](https://www.imdb.com/title/tt0074958)
+- [Scanners (D. Cronenberg, 1981)](https://www.imdb.com/title/tt0081455)
 
-Each depicting a specific aspect of mind control: hypnosis in *The Manchurian candidate*, cognitive manipulation in *Seconds*, telecommunication network in *Network*.
+Each depicting a specific aspect of mind control: hypnosis in *The Manchurian candidate*, cognitive manipulation in *Seconds*, telecommunication network in *Network*, and Human-Computer interaction in *Scanners*.
+
+David Cronenberg, beyond inspiring Katsuhiro Otomo for his *Akira* masterpiece,  pioneers with a scientific approach to storylines. In *Scanners*, he tells about interaction abilities between human and machine, through the cerebral nervous system synchronization, which will later be evoked under the form of the *doppelgänger* in David Lynch's work, and more recently through the *Khonshu* design in *Moon Knight*.
+
+In 1983, with *Videodrome*, David Cronenberg goes further by screening this relationship, that of man and his electronic environment, under the prism of passion. Man becomes the machine and vice-versa, through emotions shared between the TV screen and its viewer, then between the viewer and his reality. There is mention of the "Videodrome", kind of an emotional broadcasting system that dictates ad much it appeals its users. This is an initial reference to cognitive control systems.
+
+With these two films, David Cronenberg very early develops concepts that are still badly known, those of phygitalization (or bio-cybernetics). That is to say, the encounter, the mix, between the electronic, digital world and the physical, biological one, where the human being stands as the most sophisticated specimen.
 
 David Lynch's TV series, ***[Twin Peaks](https://www.imdb.com/title/tt0098936/)*** carries with it many political messages through its allegories. In the first two seasons, which aired in 1991 and 1992, there is mention of a psychotic personality, Bob, moving from head to head in the air. The storyline evokes a link with radio transmissions captured through radio in which words are repeated. Before leaving the viewer with this riddle: "Owls are not what they seem".
 
