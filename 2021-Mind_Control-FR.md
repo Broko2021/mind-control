@@ -873,8 +873,15 @@ Si vous êtes cinéphile, vous pouvez aller regarder ces films :
 - [Seconds (J. Frankenheimer, 1966)](https://www.imdb.com/title/tt0060955)
 - [Scorpio (M. Winner, 1973)](https://www.imdb.com/title/tt0070653)
 - [Network (S. Lumet, 1976)](https://www.imdb.com/title/tt0074958)
+- [Scanners (D. Cronenberg, 1981)](https://www.imdb.com/title/tt0081455)
 
-Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The Manchurian candidate*, la manipulation cognitive dans *Seconds*, les réseaux de télécomunication dans *Network*.
+Chacun décrivant un aspect de la manipulation de l'esprit : l'hypnose dans *The Manchurian candidate*, la manipulation cognitive dans *Seconds*, les réseaux de télécomunication dans *Network*, et l'interaction homme-machine dans *Scanners*.
+
+David Cronenberg, au-delà d'inspirer Katsuhiro Otomo pour son oeuvre *Akira*, déploie une approche scientifique pionnière dans le scénario de ses films. Dans *Scanners*, il s'agit de la capacité d'intéraction entre l'homme et la machine, à travers la synchronisation du système nerveux cérébrale, qui sera plus tard évoquée sous la forme du *doppelgänger* chez David Lynch, et du design du *Khonshu* dans *Moon Knight*.
+
+En 1983, dans *Videodrome*, David Cronenberg va plus loin en contextualisant cette relation, celle de l'homme et de son environnement électronique, sous le prisme passionnel. L'homme devient la machine et vice-versa, à travers les émotions partagées, entre la télévision et son spectateur, puis entre le spectateur et sa réalité. Il y est fait mention du "Videodrome" sorte de système de diffusion émotionnel qui sectarise autant qu'il fidélise ses membres. C'est une première référence aux systèmes de contrôle cognitifs.
+
+À travers ces deux films David Cronenberg développe très en avance des concepts encore méconnus, ceux de la phygitalisation (ou bio-cybernétisation). C'est-à-dire la rencontre, le mélange, entre entre le monde électronique, digital, et le monde physique, biologique, dont l'être humain est le représentant le plus sophistiqué.
 
 La série de David Lynch, ***[Twin Peaks](https://www.imdb.com/title/tt0098936/)*** emporte avec elle de nombreuses évocations politiques à travers ses allégories. Dans les deux premières saisons, diffusées en 1991 et 1992, il est fait mention d'une personnalité psychotique, Bob, se baladant de têtes en têtes dans les airs. Le scénario évoque un lien avec des transmissions radios capturées par radio dans lesquelles des mots sont répétés. Avant de laisser le spectateur sur cette devinette : *"Les Chouettes ne sont pas ce qu'elles ont l'air."*
 
